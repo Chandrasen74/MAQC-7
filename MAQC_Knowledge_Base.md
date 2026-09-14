@@ -475,7 +475,10 @@ Once moderators intervene, their ruling is final and non-negotiable. Non-complia
 | :--- | :--- | :--- |
 | Week 1 | Biogear Lab | CPC (Control Point Clash) |
 | Week 2 | Skyship 11 | CPC (Control Point Clash) |
-| Week 3-6 | TBA each week | CPC |
+| Week 3 | Paradise Plaza | CPC (Control Point Clash) |
+| Week 4 | Site 313 | Bo3 (CPC per season format) |
+| Week 5 | Forbidden City (665 matches · 17 bot matches) | CPC (TBC with mod) |
+| Week 6 | TBA | CPC |
 
 ### SP Tolerances
 | Tolerance Type | Formula / Margin |

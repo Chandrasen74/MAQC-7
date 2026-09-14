@@ -41,7 +41,7 @@ Tag: **Pending Verification** · Equalize · 10 min then bots
 - 10 min from **agreed/mod** time, ping in the **battle post**.
 
 ## Week 5 (starts Mon 14 Sep 2026)
-Match # + opponent: **TBD** (W5 PDF not in repo yet — re-upload needed)
+**#665 vs BOT** · Bracket 10 · Map: **Forbidden City** (⚠️ same # as W4 — always say "Week 5")
 
 Schedule lock: **Fri 18 Sep 6:00 AM UTC** `<t:1789711200:F>` · `<t:1789711200:R>`
 ||IST Fri 11:30 AM|| ||EDT Fri 2:00 AM||

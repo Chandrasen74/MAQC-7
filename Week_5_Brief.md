@@ -10,7 +10,7 @@
 
 | Week | Match | Opponent (Reg SP) | Map · Mode | Result | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| W1 | #640 | @ita_lev06 (23,000) | Biogear Lab · Bo3 CPC | ❓ UNCONFIRMED | Scheduling was in progress as of Aug 19. Confirm result. |
+| W1 | #640 | @ita_lev06 (23,000) | Biogear Lab · Bo3 CPC | ❌ LOSS | Confirmed by captain 14 Sep. |
 | W2 | #671 | @shegotyou88 / TӨXIC&TƛƧTY (23,758) | Skyship 11 · Bo3 CPC | ❌ DOUBLE LOSS | Mod ruling: no agreed time (range vs single pick). Both sides L. |
 | W3 | #668 | @mrjama0586 (22,364) | Paradise Plaza · Bo3 CPC | ❓ UNCONFIRMED | Locked Sat 5 Sep 13:30 UTC. Confirm result. |
 | W4 | #665 | @mecharenazim / ZiM (22,200) | Site 313 · Bo3 | ❌ LOSS | User confirms loss. Team coordination issues. Reason (played vs auto) TBD — asking mod. |
@@ -52,17 +52,16 @@ Strategy: offer **Tue/Wed/Thu 3–5 PM UTC** for an early lock, keep **Sat 3–4
 
 ---
 
-## 4. Week 5 checklist
+## 4. Week 5 checklist (BOT match — #665, Forbidden City)
 
-- [ ] Get Week 5 matchmaking PDF → find our **Match #** + opponent leader + their reg SP
-- [ ] Confirm Week 5 **map** + mode (Bo3 CPC? Equalize?) — see mod questions
-- [ ] Find battle post in **#s07-battle-posts-week-05** (confirm channel name), ping opponent **Day 1 (today)**
-- [ ] Lock ONE exact UTC time + explicit yes from both sides **before Fri 18 Sep 6:00 AM UTC**
-- [ ] Internal availability check with all 5 players (esp. Bowolf + Baby Bird on EDT side)
-- [ ] Decide host → share custom match code in battle post
-- [ ] Play Bo3 on the designated map, lobby bots = **Equalize** (confirm with mod — see conflict note below)
-- [ ] Winner posts all result screenshots in battle post **before Sun 20 Sep 6:00 AM UTC**
-- [ ] Check MAQC website profile: W/L record + any demerits after Week 4
+- [x] Week 5 matchmaking PDF → **Match #665, Bracket 10, vs BOT**, Map: Forbidden City
+- [ ] Send **mod message** (in `Week_5_Mod_Questions.md` COPY-PASTE 1) — bot-match procedure
+- [ ] Find battle post **Week 5 #665** in **#s07-battle-posts-week-05** (confirm channel name)
+- [ ] Confirm: auto-win vs must-play? how many players? what lobby settings?
+- [ ] Internal availability check (Baby Bird = Google Messages only, no Discord!)
+- [ ] If must-play: host → code in post → Bo3 CPC Forbidden City → screenshots per game
+- [ ] Submit everything in battle post **before Sun 20 Sep 6:00 AM UTC**
+- [ ] Check MAQC website profile: official W/L (esp. W3) + any demerits
 
 ---
 
