@@ -104,11 +104,15 @@ i'll host, code goes in this post. 🫡
 
 ## Tracking (update after mod replies)
 
+**SENT:** Mon 14 Sep 2026 to `<@934544234000830525>` (mikeyyy) — 8 questions (why BOT / auto-win-or-play /
+full Bo3? / Sun deadline + locked time? / headcount / 2–3 + bots OK? / no-sub = bot fill? / Equalize-vs-Fill).
+Minor typos in sent msg (Q4 spoiler bracket, Q5 trailing "5") — harmless, no correction needed.
+
 | # | Question | Mod answer | Date |
 | :--- | :--- | :--- | :--- |
-| 1–2 | Why BOT / auto-win or play? | | |
-| 3 | Official W/L + demerits | | |
-| 4–7 | How to run + post + deadlines | | |
-| 8–10 | Headcount + no-sub | | |
-| 11–13 | Mode + Equalize/Fill + host | | |
-| 14–15 | SP window + reward weight | | |
+| 1–2 | Why BOT / auto-win or play? | ⏳ waiting | |
+| 3 | Official W/L + demerits | ⚠️ NOT ASKED in sent msg — follow up separately | |
+| 4–7 | How to run + post + deadlines | ⏳ waiting | |
+| 8–10 | Headcount + no-sub | ⏳ waiting | |
+| 11–13 | Mode + Equalize/Fill + host | ⏳ waiting (host/stop-at-2-0 not asked — assume standard) | |
+| 14–15 | SP window + reward weight | ⚠️ NOT ASKED in sent msg — follow up separately | |

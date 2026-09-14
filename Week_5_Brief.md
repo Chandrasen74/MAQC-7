@@ -55,7 +55,7 @@ Strategy: offer **Tue/Wed/Thu 3–5 PM UTC** for an early lock, keep **Sat 3–4
 ## 4. Week 5 checklist (BOT match — #665, Forbidden City)
 
 - [x] Week 5 matchmaking PDF → **Match #665, Bracket 10, vs BOT**, Map: Forbidden City
-- [ ] Send **mod message** (in `Week_5_Mod_Questions.md` COPY-PASTE 1) — bot-match procedure
+- [x] Send **mod message** (in `Week_5_Mod_Questions.md` COPY-PASTE 1) — bot-match procedure → ✅ SENT Mon 14 Sep to mikeyyy, awaiting reply
 - [ ] Find battle post **Week 5 #665** in **#s07-battle-posts-week-05** (confirm channel name)
 - [ ] Confirm: auto-win vs must-play? how many players? what lobby settings?
 - [ ] Internal availability check (Baby Bird = Google Messages only, no Discord!)
