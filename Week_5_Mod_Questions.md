@@ -108,11 +108,34 @@ i'll host, code goes in this post. 🫡
 full Bo3? / Sun deadline + locked time? / headcount / 2–3 + bots OK? / no-sub = bot fill? / Equalize-vs-Fill).
 Minor typos in sent msg (Q4 spoiler bracket, Q5 trailing "5") — harmless, no correction needed.
 
+**REPLIED:** Mon 14 Sep 2026, mikeyyy:
+1. Why BOT → **odd team out.**
+2. Auto-win or play → **MUST PLAY + SUBMIT, else it's a loss.** No free win.
+3. Full Bo3 vs in-game bots → **yes.**
+4. Deadline Sun 6AM UTC + locked time? → **deadline yes; NO locked time needed** (no opponent).
+5. Headcount → **even 1 human can run it** ("you can even 1v1 the bot").
+6. 2–3 + bots OK? → **yes — always Equalize with bots, headcount doesn't matter.**
+7. No-sub = bot fill? → **yes — can't customize bot count, just use Equalize with bots.**
+8. Equalize or Fill? → **EQUALIZE, always.** (Doc conflict resolved — Equalize is final.)
+
 | # | Question | Mod answer | Date |
 | :--- | :--- | :--- | :--- |
-| 1–2 | Why BOT / auto-win or play? | ⏳ waiting | |
-| 3 | Official W/L + demerits | ⚠️ NOT ASKED in sent msg — follow up separately | |
-| 4–7 | How to run + post + deadlines | ⏳ waiting | |
-| 8–10 | Headcount + no-sub | ⏳ waiting | |
-| 11–13 | Mode + Equalize/Fill + host | ⏳ waiting (host/stop-at-2-0 not asked — assume standard) | |
-| 14–15 | SP window + reward weight | ⚠️ NOT ASKED in sent msg — follow up separately | |
+| 1–2 | Why BOT / auto-win or play? | Odd team out / MUST play+submit | 14 Sep |
+| 3 | Official W/L + demerits | ⚠️ NOT ASKED — follow-up drafted below | |
+| 4–7 | How to run + post + deadlines | Full Bo3 / post in W5 #665 / Sun cutoff / no lock needed | 14 Sep |
+| 8–10 | Headcount + no-sub | Even 1 can run it; headcount irrelevant; bots fill via Equalize | 14 Sep |
+| 11–13 | Mode + Equalize/Fill + host | CPC Forbidden City / EQUALIZE always / you host | 14 Sep |
+| 14–15 | SP window + reward weight | ⚠️ NOT ASKED — follow-up drafted below | |
+
+---
+
+## FOLLOW-UP (send after thanks — record + SP, the 2 skipped Qs)
+
+```
+thanks for the fast answers! 🙏 last 2, whenever you have a sec:
+
+1. record check — we show W1 ❌ / W2 ❌ auto / W3 ❓ (#668) / W4 ❌ 1-2. what's our official W/L, and any demerits on us?
+2. is the SP update window still open? we're at 23,000 — if yes, where + cutoff?
+
+that's it, appreciate it! 🫡
+```

@@ -87,10 +87,32 @@ Strategy: offer **Tue/Wed/Thu 3–5 PM UTC** for an early lock, keep **Sat 3–4
 
 ---
 
+## 8. RUN PLAN — mod-confirmed ✅ (mikeyyy, 14 Sep)
+
+**Verdict:** no free win — play full **Bo3 CPC vs in-game bots** on **Forbidden City**, lobby
+**Equalize with bots**, post screenshots in **Week 5 #665** battle post before
+**Sun 20 Sep 6:00 AM UTC** (`<t:1789884000:F>`). **No locked time needed** (no opponent).
+**Even 1 human can run it** — headcount doesn't matter.
+
+**Strategy (coordination-proof):**
+1. **Primary session:** full squad ASAP — first evening 3–5 PM UTC window where most are on
+   (Sat 19 Sep 3:00 PM UTC `<t:1789830000:F>` as anchor). More humans = easy stomp + good
+   practice/reps after the W4 coordination mess.
+2. **Insurance rule:** if the squad can't assemble by Sat evening, captain + whoever's on runs it.
+   Worst case: captain SOLO-runs Bo3 vs bots and submits. A 1-human submitted win beats a
+   no-submit loss every time. NEVER let this reach Sunday night unplayed.
+3. **Hosting:** captain hosts custom match, CPC + Forbidden City + Equalize with bots.
+4. **Evidence:** screenshot EVERY game result (expect 2-0 → 2 pics). Post in W5 #665 post
+   immediately after playing + short "2-0 vs BOT" line. Keep unedited originals.
+5. **Fri 18 Sep 6AM scheduling cutoff:** IRRELEVANT this week (no opponent, no lock needed).
+   Only deadline that matters: **Sun 20 Sep 6:00 AM UTC** play + pics posted.
+
+---
+
 ## 7. Missing info — needed from captain
 
-1. **Week 5 matchmaking PDF** (not in repo — upload didn't land). Need: match #, opponent, map header.
-2. **Previous-AI-chat .txt** (also didn't land in repo). Re-attach so style/state continues.
-3. **W1 (#640) and W3 (#668) results** — win or loss? Any screenshots?
-4. **W4 (#665) detail** — did we play and lose on the field, or was it auto-loss / no-show?
-5. Any **Week 5 announcement screenshot** (map/mode reveal, channel names).
+1. ~~Week 5 matchmaking PDF~~ ✅ in repo — #665 vs BOT, Forbidden City.
+2. ~~Previous-AI-chat .txt~~ ✅ in repo (`Loading earlier messages....txt`) — style continued.
+3. ~~W1 result~~ ✅ loss. ~~W4 detail~~ ✅ played, lost 1-2.
+4. **W3 (#668 vs @mrjama0586) result** — still unknown. Follow-up to mod drafted; also check MAQC site.
+5. ~~Week 5 announcement screenshot~~ — not needed, mod answered directly. ✅
