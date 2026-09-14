@@ -36,6 +36,22 @@ Tag: **Pending Verification** · Equalize · 10 min then bots
 
 ## Rules that keep biting
 - **One clock.** Both type yes. No ranges.
-- Reschedule: **≥6 hours** notice.
+- Reschedule: **≥6 hours** notice (confirm exact minimum with mod for W5).
 - Ghost / no agree: ticket **before Friday 6:00 AM UTC** or both can L.
 - 10 min from **agreed/mod** time, ping in the **battle post**.
+
+## Week 5 (starts Mon 14 Sep 2026)
+Match # + opponent: **TBD** (W5 PDF not in repo yet — re-upload needed)
+
+Schedule lock: **Fri 18 Sep 6:00 AM UTC** `<t:1789711200:F>` · `<t:1789711200:R>`
+||IST Fri 11:30 AM|| ||EDT Fri 2:00 AM||
+Play + pics: **Sun 20 Sep 6:00 AM UTC** `<t:1789884000:F>` · `<t:1789884000:R>`
+||IST Sun 11:30 AM|| ||EDT Sun 2:00 AM||
+
+Sat anchor slots (Sat 19 Sep):
+| UTC | IST | EDT | stamp |
+| :--- | :--- | :--- | :--- |
+| 2:00 PM | 7:30 PM | 10:00 AM | `<t:1789826400:F>` |
+| 3:00 PM ⭐ | 8:30 PM | 11:00 AM | `<t:1789830000:F>` |
+| 4:00 PM ⭐ | 9:30 PM | 12:00 PM | `<t:1789833600:F>` |
+| 5:00 PM stretch | 10:30 PM | 1:00 PM | `<t:1789837200:F>` |

@@ -1,7 +1,8 @@
 # Mech Arena Quarterly Clash (MAQC) Season 7 Knowledge Base
 
-**Version**: 1.0  
-**Last Updated**: August 2026  
+**Version**: 1.1  
+**Last Updated**: 14 September 2026 (Weeks 2–4 results/maps + Week 2 #671 precedent added)  
+
 **Source Documents**: 
 - `Mech Arena Quarterly Clash - Information Guide.pdf` (Version 1.0, Issued 26 July 2026)
 - `discord text shared by admins.txt` (Season 7 Discord Announcements & Official Rulebook)
@@ -454,7 +455,20 @@ Once moderators intervene, their ruling is final and non-negotiable. Non-complia
 | Week 1 End | 23rd August, 6:00 AM |
 | Scheduling Agreement (all weeks) | Friday, 6:00 AM of match week |
 | Match Results Submission | Sunday, 6:00 AM of match week |
+| **Week 5 scheduling lock** | **Friday 18th September, 6:00 AM** (`<t:1789711200:F>`) |
+| **Week 5 play + submit** | **Sunday 20th September, 6:00 AM** (`<t:1789884000:F>`) |
 | Missing Reward Report | Post-tournament deadline (TBA) |
+
+### Binding precedents from our season (mod rulings observed in battle posts)
+- **Week 2 #671 double-loss (mod mikeyyy):** no time was ever "agreed" because one side gave a
+  **range** (4:00–5:00 PM UTC) and the other side picked part of it unilaterally. BOTH teams got a
+  loss. Standing rule: a valid lock = **ONE exact UTC time + explicit "yes" from BOTH leaders
+  in the battle post. No ranges, no unilateral picks.
+- **Week 2 #671 live ruling (mod mikeyyy):** *"Both teams enter the game now and play. Whoever is
+  available plays and you equalize teams."* Basis for the min-players/bots question in Week 5.
+- **Bot-setting doc conflict (unresolved, ask mod):** Info Guide p.3 allows "Fill with bots" OR
+  "Equalize with bots" if both sides agree; Week 1 bot-rules announcement mandates **Equalize**.
+  Default to Equalize until a mod confirms otherwise.
 
 ### Week-by-Week Map (Known)
 | Week | Map | Gamemode |
