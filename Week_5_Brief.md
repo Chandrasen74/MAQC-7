@@ -94,16 +94,15 @@ Strategy: offer **Tue/Wed/Thu 3–5 PM UTC** for an early lock, keep **Sat 3–4
 **Sun 20 Sep 6:00 AM UTC** (`<t:1789884000:F>`). **No locked time needed** (no opponent).
 **Even 1 human can run it** — headcount doesn't matter.
 
-**Strategy (coordination-proof):**
-1. **Primary session:** full squad ASAP — first evening 3–5 PM UTC window where most are on
-   (Sat 19 Sep 3:00 PM UTC `<t:1789830000:F>` as anchor). More humans = easy stomp + good
-   practice/reps after the W4 coordination mess.
-2. **Insurance rule:** if the squad can't assemble by Sat evening, captain + whoever's on runs it.
-   Worst case: captain SOLO-runs Bo3 vs bots and submits. A 1-human submitted win beats a
-   no-submit loss every time. NEVER let this reach Sunday night unplayed.
-3. **Hosting:** captain hosts custom match, CPC + Forbidden City + Equalize with bots.
-4. **Evidence:** screenshot EVERY game result (expect 2-0 → 2 pics). Post in W5 #665 post
-   immediately after playing + short "2-0 vs BOT" line. Keep unedited originals.
+**Strategy (decided 14 Sep — 1v1 submit + Saturday practice):**
+1. **Official submission = 1v1 ASAP.** Captain solo-runs full Bo3 CPC vs bots on Forbidden City,
+   Equalize with bots, screenshots every game, posts in W5 #665 battle post labeled
+   "OFFICIAL SUBMISSION". Locks the W early, zero coordination risk.
+2. **Saturday practice (pressure-free):** Sat 19 Sep **9:30 PM IST** = 4:00 PM UTC
+   (`<t:1789833600:F>`, 12:00 PM EDT) — full squad. Forbidden City reps + coordination
+   rebuild for Week 6. NOT the official run (already banked).
+3. **Evidence:** screenshot EVERY game result (expect 2-0 → 2 pics). Post immediately after
+   the 1v1 with an "official submission 2-0 vs BOT" line. Keep unedited originals.
 5. **Fri 18 Sep 6AM scheduling cutoff:** IRRELEVANT this week (no opponent, no lock needed).
    Only deadline that matters: **Sun 20 Sep 6:00 AM UTC** play + pics posted.
 
