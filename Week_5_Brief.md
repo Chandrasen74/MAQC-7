@@ -98,12 +98,13 @@ Strategy: offer **Tue/Wed/Thu 3–5 PM UTC** for an early lock, keep **Sat 3–4
 1. **Official submission = 1v1 ASAP.** Captain solo-runs full Bo3 CPC vs bots on Forbidden City,
    Equalize with bots, screenshots every game, posts in W5 #665 battle post labeled
    "OFFICIAL SUBMISSION". Locks the W early, zero coordination risk.
-2. **Saturday practice (pressure-free):** Sat 19 Sep **9:30 PM IST** = 4:00 PM UTC
-   (`<t:1789833600:F>`, 12:00 PM EDT) — full squad. Forbidden City reps + coordination
-   rebuild for Week 6. NOT the official run (already banked).
+   Timing: captain undecided — **recommended Tue/Wed evening IST** (30–45 min solo, kills all risk).
+2. **Saturday practice (pressure-free, CASUAL):** Sat 19 Sep **9:30 PM IST** = 4:00 PM UTC
+   (`<t:1789833600:F>`, 12:00 PM EDT) — full squad, casual reps + fun, no strict strat.
+   Coordination rebuild for Week 6. NOT the official run (already banked).
 3. **Evidence:** screenshot EVERY game result (expect 2-0 → 2 pics). Post immediately after
    the 1v1 with an "official submission 2-0 vs BOT" line. Keep unedited originals.
-5. **Fri 18 Sep 6AM scheduling cutoff:** IRRELEVANT this week (no opponent, no lock needed).
+4. **Fri 18 Sep 6AM scheduling cutoff:** IRRELEVANT this week (no opponent, no lock needed).
    Only deadline that matters: **Sun 20 Sep 6:00 AM UTC** play + pics posted.
 
 ---

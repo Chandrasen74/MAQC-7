@@ -125,7 +125,7 @@ Minor typos in sent msg (Q4 spoiler bracket, Q5 trailing "5") — harmless, no c
 | 4–7 | How to run + post + deadlines | Full Bo3 / post in W5 #665 / Sun cutoff / no lock needed | 14 Sep |
 | 8–10 | Headcount + no-sub | Even 1 can run it; headcount irrelevant; bots fill via Equalize | 14 Sep |
 | 11–13 | Mode + Equalize/Fill + host | CPC Forbidden City / EQUALIZE always / you host | 14 Sep |
-| 14–15 | SP window + reward weight | ⚠️ NOT ASKED — follow-up drafted below | |
+| 14–15 | SP window + reward weight | ⏭️ SKIPPED by captain 15 Sep (not updating SP anyway) | |
 
 ---
 
