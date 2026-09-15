@@ -121,7 +121,7 @@ Minor typos in sent msg (Q4 spoiler bracket, Q5 trailing "5") — harmless, no c
 | # | Question | Mod answer | Date |
 | :--- | :--- | :--- | :--- |
 | 1–2 | Why BOT / auto-win or play? | Odd team out / MUST play+submit | 14 Sep |
-| 3 | Official W/L + demerits | ⚠️ NOT ASKED — follow-up drafted below | |
+| 3 | Official W/L + demerits | ✅ W3 = WIN 2-0 (captain, 15 Sep) → record 1-3; demerits unasked/skipped | |
 | 4–7 | How to run + post + deadlines | Full Bo3 / post in W5 #665 / Sun cutoff / no lock needed | 14 Sep |
 | 8–10 | Headcount + no-sub | Even 1 can run it; headcount irrelevant; bots fill via Equalize | 14 Sep |
 | 11–13 | Mode + Equalize/Fill + host | CPC Forbidden City / EQUALIZE always / you host | 14 Sep |

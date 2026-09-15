@@ -11,12 +11,12 @@
 | Week | Match | Opponent (Reg SP) | Map · Mode | Result | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | W1 | #640 | @ita_lev06 (23,000) | Biogear Lab · Bo3 CPC | ❌ LOSS | Confirmed by captain 14 Sep. |
-| W2 | #671 | @shegotyou88 / TӨXIC&TƛƧTY (23,758) | Skyship 11 · Bo3 CPC | ❌ DOUBLE LOSS | Mod ruling: no agreed time (range vs single pick). Both sides L. |
-| W3 | #668 | @mrjama0586 (22,364) | Paradise Plaza · Bo3 CPC | ❓ UNCONFIRMED | Locked Sat 5 Sep 13:30 UTC. Confirm result. |
-| W4 | #665 | @mecharenazim / ZiM (22,200) | Site 313 · Bo3 | ❌ LOSS | User confirms loss. Team coordination issues. Reason (played vs auto) TBD — asking mod. |
-| **W5** | **#TBD** | **@TBD** | **Map TBD · Bo3 CPC (TBC)** | ⏳ NOT STARTED | ⚠️ **Week 5 matchmaking PDF not in repo yet — re-upload needed.** |
+| W2 | #671 | @shegotyou88 / TӨXIC&TƛƧTY (23,758) | Skyship 11 · Bo3 CPC | ❌ AUTO-LOSS | Double-loss ruling: no agreed time (range vs single pick). |
+| W3 | #668 | @mrjama0586 (22,364) | Paradise Plaza · Bo3 CPC | ✅ WIN 2-0 | Captain-confirmed 15 Sep. First W of the season! |
+| W4 | #665 | @mecharenazim / ZiM (22,200) | Site 313 · Bo3 | ❌ LOSS 1-2 | Played Sat 12 Sep 4:00 PM UTC. Lost 1-2, coordination issues. |
+| **W5** | **#665** | **vs BOT** | **Forbidden City · Bo3 CPC** | ⏳ NOT STARTED | ⚠️ Same # as W4 — always say **"Week 5 #665"**. 1v1 official run ASAP. |
 
-**Likely record:** 0–2 wins from 4 (need W1 + W3 confirmations). Zero-win teams get **no rewards**, so W5 + W6 are must-win weeks.
+**Record:** 1–3 (W3 W 2-0 confirmed 15 Sep). Off zero — rewards now possible; every win adds Bracket 10 weight.
 
 ---
 
@@ -55,13 +55,14 @@ Strategy: offer **Tue/Wed/Thu 3–5 PM UTC** for an early lock, keep **Sat 3–4
 ## 4. Week 5 checklist (BOT match — #665, Forbidden City)
 
 - [x] Week 5 matchmaking PDF → **Match #665, Bracket 10, vs BOT**, Map: Forbidden City
-- [x] Send **mod message** (in `Week_5_Mod_Questions.md` COPY-PASTE 1) — bot-match procedure → ✅ SENT Mon 14 Sep to mikeyyy, awaiting reply
+- [x] Send **mod message** → ✅ SENT Mon 14 Sep to mikeyyy → ✅ REPLIED (must-play Bo3, Equalize, no lock, 1v1 OK)
+- [ ] Send **follow-up** (record check + SP window) → ⏭️ SKIPPED by captain (low value)
 - [ ] Find battle post **Week 5 #665** in **#s07-battle-posts-week-05** (confirm channel name)
-- [ ] Confirm: auto-win vs must-play? how many players? what lobby settings?
-- [ ] Internal availability check (Baby Bird = Google Messages only, no Discord!)
-- [ ] If must-play: host → code in post → Bo3 CPC Forbidden City → screenshots per game
-- [ ] Submit everything in battle post **before Sun 20 Sep 6:00 AM UTC**
-- [ ] Check MAQC website profile: official W/L (esp. W3) + any demerits
+- [x] Confirm: auto-win vs must-play? how many players? what lobby settings? → ✅ MUST-PLAY, any headcount, Equalize
+- [ ] **1v1 submission run** (captain solo ASAP) → Bo3 CPC Forbidden City, Equalize w/ bots, pics per game
+- [ ] Post **official submission** in W5 #665 post right after the 1v1 (label it clearly)
+- [ ] **Saturday practice** Sat 19 Sep 9:30 PM IST (`<t:1789833600:F>`) — full squad, casual, pressure-free
+- [ ] Availability check for Saturday practice (Baby Bird = Google Messages only, no Discord!)
 
 ---
 
@@ -114,5 +115,5 @@ Strategy: offer **Tue/Wed/Thu 3–5 PM UTC** for an early lock, keep **Sat 3–4
 1. ~~Week 5 matchmaking PDF~~ ✅ in repo — #665 vs BOT, Forbidden City.
 2. ~~Previous-AI-chat .txt~~ ✅ in repo (`Loading earlier messages....txt`) — style continued.
 3. ~~W1 result~~ ✅ loss. ~~W4 detail~~ ✅ played, lost 1-2.
-4. **W3 (#668 vs @mrjama0586) result** — still unknown. Follow-up to mod drafted; also check MAQC site.
+4. ~~W3 (#668) result~~ ✅ WIN 2-0 (captain, 15 Sep). Record now 1–3.
 5. ~~Week 5 announcement screenshot~~ — not needed, mod answered directly. ✅
