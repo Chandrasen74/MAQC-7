@@ -460,11 +460,11 @@ Once moderators intervene, their ruling is final and non-negotiable. Non-complia
 | Missing Reward Report | Post-tournament deadline (TBA) |
 
 ### Binding precedents from our season (mod rulings observed in battle posts)
-- **Week 2 #671 double-loss (mod mikeyyy):** no time was ever "agreed" because one side gave a
+- **Week 2 #671 double-loss (mod night fury):** no time was ever "agreed" because one side gave a
   **range** (4:00–5:00 PM UTC) and the other side picked part of it unilaterally. BOTH teams got a
   loss. Standing rule: a valid lock = **ONE exact UTC time + explicit "yes" from BOTH leaders
   in the battle post. No ranges, no unilateral picks.
-- **Week 2 #671 live ruling (mod mikeyyy):** *"Both teams enter the game now and play. Whoever is
+- **Week 2 #671 live ruling (mod night fury):** *"Both teams enter the game now and play. Whoever is
   available plays and you equalize teams."* Basis for the min-players/bots question in Week 5.
 - **Bot-setting doc conflict (unresolved, ask mod):** Info Guide p.3 allows "Fill with bots" OR
   "Equalize with bots" if both sides agree; Week 1 bot-rules announcement mandates **Equalize**.

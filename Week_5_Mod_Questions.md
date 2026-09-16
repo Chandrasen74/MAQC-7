@@ -1,7 +1,7 @@
 # Questions for the MAQC Mod — Week 5 (Team akulmach74)
 
 **Our match:** Week 5 **#665** (⚠️ same number as W4 — always say "Week 5") · Bracket 10 · **vs BOT** · Map: **Forbidden City**
-**Record:** W1 ❌ loss · W2 ❌ auto-loss · W3 ❓ unknown · W4 ❌ loss 1-2 (played)
+**Record:** W1 ❌ · W2 ❌ auto · W3 ✅ 2-0 · W4 ❌ 1-2 · **W5 ✅ 2-0 vs BOT (15 Sep)**. Overall 2–3.
 **Mod etiquette:** ping **ONE** active mod at a time, in the battle post or #MAQC-Q&A.
 
 ---
@@ -83,7 +83,7 @@ thanks a ton! 🫡
 10. Host settings beyond map + CPC + bot mode?
 
 **D. Record**
-11. Official W/L? we show W1 L / W2 auto-L / W3 ? / W4 L 1-2.
+11. Official W/L? we show W1 L / W2 auto-L / W3 W 2-0 / W4 L 1-2 (W5 ✅ 2-0).
 12. Any demerits from W2/W4?
 13. SP window still open (we're 23,000)? BOT win counts same for rewards?
 
@@ -104,11 +104,11 @@ i'll host, code goes in this post. 🫡
 
 ## Tracking (update after mod replies)
 
-**SENT:** Mon 14 Sep 2026 to `<@934544234000830525>` (mikeyyy) — 8 questions (why BOT / auto-win-or-play /
+**SENT:** Mon 14 Sep 2026 to `<@934544234000830525>` (night fury — ID confirmed by reply screenshot 16 Sep) — 8 questions (why BOT / auto-win-or-play /
 full Bo3? / Sun deadline + locked time? / headcount / 2–3 + bots OK? / no-sub = bot fill? / Equalize-vs-Fill).
 Minor typos in sent msg (Q4 spoiler bracket, Q5 trailing "5") — harmless, no correction needed.
 
-**REPLIED:** Mon 14 Sep 2026, mikeyyy:
+**REPLIED:** Mon 14 Sep 2026, night fury:
 1. Why BOT → **odd team out.**
 2. Auto-win or play → **MUST PLAY + SUBMIT, else it's a loss.** No free win.
 3. Full Bo3 vs in-game bots → **yes.**
@@ -118,6 +118,8 @@ Minor typos in sent msg (Q4 spoiler bracket, Q5 trailing "5") — harmless, no c
 7. No-sub = bot fill? → **yes — can't customize bot count, just use Equalize with bots.**
 8. Equalize or Fill? → **EQUALIZE, always.** (Doc conflict resolved — Equalize is final.)
 
+**RESULT:** Tue 15 Sep — captain solo 1v1, **2-0** (15,500 + 15,450, Forbidden City CPC). Stefania: "✅ Result recorded — Week 5, Match #665, @akulmach74 beat BOT" (recorded by night fury).
+
 | # | Question | Mod answer | Date |
 | :--- | :--- | :--- | :--- |
 | 1–2 | Why BOT / auto-win or play? | Odd team out / MUST play+submit | 14 Sep |
@@ -126,6 +128,7 @@ Minor typos in sent msg (Q4 spoiler bracket, Q5 trailing "5") — harmless, no c
 | 8–10 | Headcount + no-sub | Even 1 can run it; headcount irrelevant; bots fill via Equalize | 14 Sep |
 | 11–13 | Mode + Equalize/Fill + host | CPC Forbidden City / EQUALIZE always / you host | 14 Sep |
 | 14–15 | SP window + reward weight | ⏭️ SKIPPED by captain 15 Sep (not updating SP anyway) | |
+| W5 | Official submission | ✅ 2-0 vs BOT, Stefania-recorded 15 Sep | 15 Sep |
 
 ---
 

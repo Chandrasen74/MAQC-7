@@ -14,9 +14,9 @@
 | W2 | #671 | @shegotyou88 / TӨXIC&TƛƧTY (23,758) | Skyship 11 · Bo3 CPC | ❌ AUTO-LOSS | Double-loss ruling: no agreed time (range vs single pick). |
 | W3 | #668 | @mrjama0586 (22,364) | Paradise Plaza · Bo3 CPC | ✅ WIN 2-0 | Captain-confirmed 15 Sep. First W of the season! |
 | W4 | #665 | @mecharenazim / ZiM (22,200) | Site 313 · Bo3 | ❌ LOSS 1-2 | Played Sat 12 Sep 4:00 PM UTC. Lost 1-2, coordination issues. |
-| **W5** | **#665** | **vs BOT** | **Forbidden City · Bo3 CPC** | ⏳ NOT STARTED | ⚠️ Same # as W4 — always say **"Week 5 #665"**. 1v1 official run ASAP. |
+| **W5** | **#665** | **vs BOT** | **Forbidden City · Bo3 CPC** | ✅ WIN 2-0 | Solo 1v1, posted 15 Sep (15,500 + 15,450). Stefania-recorded (mod night fury). |
 
-**Record:** 1–3 (W3 W 2-0 confirmed 15 Sep). Off zero — rewards now possible; every win adds Bracket 10 weight.
+**Record:** 2–3 (W5 ✅ 2-0 vs BOT, Stefania-recorded 15 Sep). Two in a row — momentum into Week 6!
 
 ---
 
@@ -55,22 +55,22 @@ Strategy: offer **Tue/Wed/Thu 3–5 PM UTC** for an early lock, keep **Sat 3–4
 ## 4. Week 5 checklist (BOT match — #665, Forbidden City)
 
 - [x] Week 5 matchmaking PDF → **Match #665, Bracket 10, vs BOT**, Map: Forbidden City
-- [x] Send **mod message** → ✅ SENT Mon 14 Sep to mikeyyy → ✅ REPLIED (must-play Bo3, Equalize, no lock, 1v1 OK)
+- [x] Send **mod message** → ✅ SENT Mon 14 Sep to night fury → ✅ REPLIED (must-play Bo3, Equalize, no lock, 1v1 OK)
 - [ ] Send **follow-up** (record check + SP window) → ⏭️ SKIPPED by captain (low value)
 - [ ] Find battle post **Week 5 #665** in **#s07-battle-posts-week-05** (confirm channel name)
 - [x] Confirm: auto-win vs must-play? how many players? what lobby settings? → ✅ MUST-PLAY, any headcount, Equalize
-- [ ] **1v1 submission run** (captain solo ASAP) → Bo3 CPC Forbidden City, Equalize w/ bots, pics per game
-- [ ] Post **official submission** in W5 #665 post right after the 1v1 (label it clearly)
+- [x] **1v1 submission run** → ✅ DONE 15 Sep: 2-0 (15,500 + 15,450, Forbidden City CPC)
+- [x] Post **official submission** → ✅ DONE: Stefania "Result recorded — Week 5, Match #665, @akulmach74 beat BOT"
 - [ ] **Saturday practice** Sat 19 Sep 9:30 PM IST (`<t:1789833600:F>`) — full squad, casual, pressure-free
 - [ ] Availability check for Saturday practice (Baby Bird = Google Messages only, no Discord!)
 
 ---
 
-## 5. Known rule conflict to resolve with mod (important)
+## 5. Rule conflict — RESOLVED ✅ (Equalize always, per night fury 14 Sep)
 
 - **Info Guide p.3** says missing teammates may use **"Fill with bots" OR "Equalize with bots"** if both sides agree.
 - **Week 1 bot-rules announcement** says lobby MUST be **"Equalize"**.
-- **Week 2 mod live ruling** (mikeyyy): *"Whoever is available plays and you equalize teams."*
+- **Week 2 mod live ruling** (night fury): *"Whoever is available plays and you equalize teams."*
 
 → Default to **Equalize**, confirm with opponent in the post, and ask the mod to confirm for Week 5 (Q in `Week_5_Mod_Questions.md`).
 
@@ -92,7 +92,7 @@ Strategy: offer **Tue/Wed/Thu 3–5 PM UTC** for an early lock, keep **Sat 3–4
 
 ---
 
-## 8. RUN PLAN — mod-confirmed ✅ (mikeyyy, 14 Sep)
+## 8. RUN PLAN — mod-confirmed ✅ (night fury, 14 Sep)
 
 **Verdict:** no free win — play full **Bo3 CPC vs in-game bots** on **Forbidden City**, lobby
 **Equalize with bots**, post screenshots in **Week 5 #665** battle post before
