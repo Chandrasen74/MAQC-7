@@ -1,7 +1,7 @@
 # Questions for the MAQC Mod — Week 5 (Team akulmach74)
 
 **Our match:** Week 5 **#665** (⚠️ same number as W4 — always say "Week 5") · Bracket 10 · **vs BOT** · Map: **Forbidden City**
-**Record:** W1 ❌ · W2 ❌ auto · W3 ✅ 2-0 · W4 ❌ 1-2 · **W5 ✅ 2-0 vs BOT (15 Sep)**. Overall 2–3.
+**Record:** W1 ❌ · W2 ❌ auto · W3 ❌ 1-2 · W4 ❌ 1-2 · **W5 ✅ 2-0 vs BOT (15 Sep)**. Overall 1–4.
 **Mod etiquette:** ping **ONE** active mod at a time, in the battle post or #MAQC-Q&A.
 
 ---
@@ -83,7 +83,7 @@ thanks a ton! 🫡
 10. Host settings beyond map + CPC + bot mode?
 
 **D. Record**
-11. Official W/L? we show W1 L / W2 auto-L / W3 W 2-0 / W4 L 1-2 (W5 ✅ 2-0).
+11. Official W/L? we show W1 L / W2 auto-L / W3 L 1-2 / W4 L 1-2 (W5 ✅ 2-0).
 12. Any demerits from W2/W4?
 13. SP window still open (we're 23,000)? BOT win counts same for rewards?
 
@@ -123,7 +123,7 @@ Minor typos in sent msg (Q4 spoiler bracket, Q5 trailing "5") — harmless, no c
 | # | Question | Mod answer | Date |
 | :--- | :--- | :--- | :--- |
 | 1–2 | Why BOT / auto-win or play? | Odd team out / MUST play+submit | 14 Sep |
-| 3 | Official W/L + demerits | ✅ W3 = WIN 2-0 (captain, 15 Sep) → record 1-3; demerits unasked/skipped | |
+| 3 | Official W/L + demerits | ✅ W3 = LOSS 1-2 (corrected 16 Sep) → record 1–4; demerits unasked/skipped | |
 | 4–7 | How to run + post + deadlines | Full Bo3 / post in W5 #665 / Sun cutoff / no lock needed | 14 Sep |
 | 8–10 | Headcount + no-sub | Even 1 can run it; headcount irrelevant; bots fill via Equalize | 14 Sep |
 | 11–13 | Mode + Equalize/Fill + host | CPC Forbidden City / EQUALIZE always / you host | 14 Sep |

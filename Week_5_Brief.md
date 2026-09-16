@@ -12,11 +12,11 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | W1 | #640 | @ita_lev06 (23,000) | Biogear Lab · Bo3 CPC | ❌ LOSS | Confirmed by captain 14 Sep. |
 | W2 | #671 | @shegotyou88 / TӨXIC&TƛƧTY (23,758) | Skyship 11 · Bo3 CPC | ❌ AUTO-LOSS | Double-loss ruling: no agreed time (range vs single pick). |
-| W3 | #668 | @mrjama0586 (22,364) | Paradise Plaza · Bo3 CPC | ✅ WIN 2-0 | Captain-confirmed 15 Sep. First W of the season! |
+| W3 | #668 | @mrjama0586 (22,364) | Paradise Plaza · Bo3 CPC | ❌ LOSS 1-2 | Captain-corrected 16 Sep (misremembered as W). Took it to 3 games. |
 | W4 | #665 | @mecharenazim / ZiM (22,200) | Site 313 · Bo3 | ❌ LOSS 1-2 | Played Sat 12 Sep 4:00 PM UTC. Lost 1-2, coordination issues. |
 | **W5** | **#665** | **vs BOT** | **Forbidden City · Bo3 CPC** | ✅ WIN 2-0 | Solo 1v1, posted 15 Sep (15,500 + 15,450). Stefania-recorded (mod night fury). |
 
-**Record:** 2–3 (W5 ✅ 2-0 vs BOT, Stefania-recorded 15 Sep). Two in a row — momentum into Week 6!
+**Record:** 1–4 (W5 ✅ 2-0 vs BOT breaks a 4-week skid). Both played defeats went 1-2 — competitive, must close deciders.
 
 ---
 
@@ -88,6 +88,7 @@ Strategy: offer **Tue/Wed/Thu 3–5 PM UTC** for an early lock, keep **Sat 3–4
   on the official channel + tagging a mod. Baseless — DMs are not valid evidence per rules, and the match
   was PLAYED (1-2), so no auto-win was ever sought. Captain did exactly the right thing. Verdict: one calm
   reply, then disengage; screenshot + misconduct ticket only if harassment continues.
+  Sep 9–10 addendum: ZiM also complained publicly in #s07-leaders-chat (Sep 9 @-tag claiming non-response; Sep 10 asked Game_Space for help). Game_Space corrected HIM — "talk in your battle post or take the loss." Further proof the DM redirect was correct; cite this if replying to his Sep 16 DM.
 - Fix: Day-1 ping, always lead with UTC + Discord `<t:...>` stamps (auto-localizes for everyone), plus spoiler conversions.
 
 ---
@@ -119,5 +120,5 @@ Strategy: offer **Tue/Wed/Thu 3–5 PM UTC** for an early lock, keep **Sat 3–4
 1. ~~Week 5 matchmaking PDF~~ ✅ in repo — #665 vs BOT, Forbidden City.
 2. ~~Previous-AI-chat .txt~~ ✅ in repo (`Loading earlier messages....txt`) — style continued.
 3. ~~W1 result~~ ✅ loss. ~~W4 detail~~ ✅ played, lost 1-2.
-4. ~~W3 (#668) result~~ ✅ WIN 2-0 (captain, 15 Sep). Record now 1–3.
+4. ~~W3 (#668) result~~ ✅ settled: LOSS 1-2 (corrected 16 Sep). Record 1–4.
 5. ~~Week 5 announcement screenshot~~ — not needed, mod answered directly. ✅

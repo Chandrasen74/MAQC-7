@@ -9,8 +9,8 @@
 - Team: akulmach74 · Bracket 10 · Reg SP 23,000 · 5 players (mixed IST + US-EDT).
 - Roster: Akulmach74 (captain, IST) · Destroyer (IST, Discord DM) · Bowolf (EDT) ·
   Gunshot (IST, Discord DM) · Baby Bird (EDT, **Google Messages only — no Discord**).
-- Season record: W1 ❌ loss · W2 ❌ auto-loss · W3 ✅ WIN 2-0 · W4 ❌ loss 1-2 (played).
-  W5 ✅ WIN 2-0 vs BOT. Overall 2–3.
+- Season record: W1 ❌ loss · W2 ❌ auto-loss · W3 ❌ loss 1-2 · W4 ❌ loss 1-2 (played).
+  W5 ✅ WIN 2-0 vs BOT. Overall 1–4.
 - Team tag: `<@&1533818347068850248>`.
 
 ## Constraints & guardrails
