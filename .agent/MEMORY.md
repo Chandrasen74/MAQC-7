@@ -8,7 +8,7 @@
   `pip install -q --break-system-packages pypdf` when PDF extraction is needed.
 - **Persistence model (verified Sep 16): each turn may run in a fresh container where ONLY
   pushed git state is restored.** `~/.agent/` and any uncommitted work can vanish between turns.
-  Canonical memory lives in repo `.agent/` (committed); mirror to `~/.agent/` when needed.
+  Canonical memory lives in repo `.agent/` (committed); mirror to `~/.agent/` when needed. If local HEAD sits on f96e894 with a full worktree, the container was reset: fetch, diff worktree vs remote tip, mixed-reset to tip if identical, then continue.
 
 ## MAQC S7 domain facts (confirmed)
 - Weekly rhythm: MM list Monday → lock time before **Fri 6:00 AM UTC** → play + submit before **Sun 6:00 AM UTC**.
