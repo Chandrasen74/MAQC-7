@@ -84,6 +84,10 @@ Strategy: offer **Tue/Wed/Thu 3–5 PM UTC** for an early lock, keep **Sat 3–4
 
 **Week 4 loss (#665):**
 - Opponent found the thread late (Sep 10) and was confused about UTC vs local ("2am Saturday. Is that UTC??").
+- Post-week DM (Sep 15–16): ZiM accused captain of "hiding behind rules"/angling for auto-win by insisting
+  on the official channel + tagging a mod. Baseless — DMs are not valid evidence per rules, and the match
+  was PLAYED (1-2), so no auto-win was ever sought. Captain did exactly the right thing. Verdict: one calm
+  reply, then disengage; screenshot + misconduct ticket only if harassment continues.
 - Fix: Day-1 ping, always lead with UTC + Discord `<t:...>` stamps (auto-localizes for everyone), plus spoiler conversions.
 
 ---
