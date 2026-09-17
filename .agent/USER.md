@@ -3,7 +3,7 @@
 - **Name / Handle:** akulmach74 (Discord + MAQC team captain). GitHub: Chandrasen74 (repo owner).
 - **Timezone / Location:** Asia/Calcutta (IST, UTC+5:30) — Gurugram, Haryana, IN.
 - **Skill Level:** Intermediate (organizer; wants ready-to-send drafts, not essays).
-- **Communication Preference:** Concise + copy-paste-first. Casual tone OK.
+- **Communication Preference:** Concise + copy-paste-first. Casual tone OK. For meaningful work, propose the plan and confirm consequential steps before implementation.
 
 ## Team context (MAQC S7)
 - Team: akulmach74 · Bracket 10 · Reg SP 23,000 · 5 players (mixed IST + US-EDT).

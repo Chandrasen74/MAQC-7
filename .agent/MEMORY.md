@@ -1,7 +1,7 @@
 # PERSISTENT MEMORY
 
 ## Environment & tooling
-- Repo: `/home/user/MAQC-7`, flat layout. Session branch: `arena/01a0a077-maqc-7` (upstream set).
+- Repo: `/home/user/MAQC-7`, flat layout. Use the branch required by the current Arena session instructions; never hardcode an earlier session branch.
 - `git` + `gh` pre-authed. Shallow clone; default refspec tracks `origin/main` only.
   Fetch other branches explicitly (`git fetch origin <branch>` → FETCH_HEAD).
 - Python: `pypdf` does NOT survive sandbox resets → reinstall via
