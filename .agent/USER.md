@@ -16,6 +16,7 @@
 ## Constraints & guardrails
 - India players hard stop ~11:30 PM IST. EDT players prefer late morning / midday.
 - All MAQC scheduling must happen in the Discord battle post (DMs don't count as evidence).
+- Discord access is manual for now (no MCP/bot): user supplies relevant messages, screenshots, or exports.
 - Baby Bird: no Discord — reach via Google Messages or in-game chat. Plain text, all zones spelled out (no spoiler tags, no Discord markdown).
 - Captain skips low-value admin (e.g. declined record/SP follow-up) — don't nag; log and move on.
 - Never ask for GitHub credentials; `git`/`gh` auth is preconfigured.
