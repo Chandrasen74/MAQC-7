@@ -62,7 +62,7 @@ Strategy: offer **Tue/Wed/Thu 3–5 PM UTC** for an early lock, keep **Sat 3–4
 - [x] **1v1 submission run** → ✅ DONE 15 Sep: 2-0 (15,500 + 15,450, Forbidden City CPC)
 - [x] Post **official submission** → ✅ DONE: Stefania "Result recorded — Week 5, Match #665, @akulmach74 beat BOT"
 - [ ] **Saturday practice** Sat 19 Sep 9:30 PM IST (`<t:1789833600:F>`) — full squad, casual, pressure-free
-- [ ] Availability check for Saturday practice (Baby Bird = Google Messages only, no Discord!)
+- [x] Availability check → ✅ Baby Bird CONFIRMED (in-game chat 15 Sep): Saturday noon EDT, on at 11:30 AM EDT (early!). Team message drafted 16 Sep — send to squad.
 
 ---
 
@@ -88,8 +88,25 @@ Strategy: offer **Tue/Wed/Thu 3–5 PM UTC** for an early lock, keep **Sat 3–4
   on the official channel + tagging a mod. Baseless — DMs are not valid evidence per rules, and the match
   was PLAYED (1-2), so no auto-win was ever sought. Captain did exactly the right thing. Verdict: one calm
   reply, then disengage; screenshot + misconduct ticket only if harassment continues.
+  Update 16 Sep: captain SENT the one-and-done reply (bot auto-posts + Game_Space Sep 10 receipt + 1-2 logic + W2 double-loss mention — note: the W2 bit is TRUE, both sides took an L). No further replies planned.
   Sep 9–10 addendum: ZiM also complained publicly in #s07-leaders-chat (Sep 9 @-tag claiming non-response; Sep 10 asked Game_Space for help). Game_Space corrected HIM — "talk in your battle post or take the loss." Further proof the DM redirect was correct; cite this if replying to his Sep 16 DM.
 - Fix: Day-1 ping, always lead with UTC + Discord `<t:...>` stamps (auto-localizes for everyone), plus spoiler conversions.
+
+### SENT TEAM MESSAGES
+
+**16 Sep — ZiM comedy + Saturday practice + Baby Bird**
+
+```
+<@&1533818347068850248> team update 🫡
+
+first, the comedy segment: our week 4 opponent ZiM (@mecharenazim) crawled into my DMs talking trash — says I "hid behind the rules" and angled for a free win by making him use the battle post 💀 bro forgot Game_Space publicly told HIM "battle post or take the loss" on Sep 10, and that we literally played him 1-2 on Saturday. if I wanted a free W why would I show up with all five 😅 replied once, done with it. (screenshots attached — laugh away)
+
+second, business: **practice this Saturday, ~1 hour, usual time** — **Sat 19 Sep, 9:30 PM IST** <t:1789833600:F> ||UTC: 4:00 PM|| ||EDT: 12:00 PM||. W5 is banked (2-0 vs BOT ✅) so zero pressure — just reps + working on closing, since both our played losses went to game 3 👀
+
+and the miracle of the week 🙏: **Baby Bird confirmed Saturday noon his time AND says he'll be on at 11:30** — EARLY. not like usual... it's in writing, we all saw it, no excuses now 😤
+
+✅ react if you're in. be on time. don't be like old Baby Bird.
+```
 
 ---
 

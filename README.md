@@ -3,6 +3,7 @@
 ## Start here (Week 5, starts Mon 14 Sep 2026)
 | File | What it is |
 | :--- | :--- |
+| `plan.md` | **Planning + maintenance guide.** When to use and update every Markdown file. |
 | `Week_5_Brief.md` | **Live status.** Season record, W5 deadlines, windows, checklist, missing info. |
 | `Week_5_Mod_Questions.md` | **Mod questions + copy-paste Discord drafts.** Short Q&A, full ticket, Day-1 opponent ping. |
 | `Time_Formula_Sheet.md` | Time conversions, Discord stamps, W3 lock + W5 slots. |

@@ -1,7 +1,7 @@
 # ACTIVE PLAN — MAQC S7 Week 5 (+ Week 6 prep)
 
 ## Current focus
-- [ ] **Saturday casual practice** Sat 19 Sep 9:30 PM IST (`<t:1789833600:F>`, 12 PM EDT):
+- [ ] **Saturday casual practice** Sat 19 Sep 9:30 PM IST (`<t:1789833600:F>`, 12 PM EDT) — Baby Bird ✅ confirmed (on 11:30 AM EDT):
   send Friday-ish reminders (Discord team ping + Baby Bird SMS). Pure reps, no strat brief.
 
 ## Backlog & future tasks
@@ -16,3 +16,4 @@
 - [x] **W5 1v1 official submission — DONE 2-0 vs BOT (15 Sep, 15,500 + 15,450). Stefania-recorded. Record 1–4 (W3 corrected to L 1-2).**
 - [x] Branch reconciled after sandbox reset; memory system adopted (SOUL/USER/MEMORY/PLANS/AGENTS).
 - [x] Memory hardened: canonical `.agent/` in repo (survives resets); mod attribution corrected (night fury).
+- [x] ZiM DM saga closed: one-and-done reply sent 16 Sep (bot auto-posts + Game_Space receipt + 1-2 logic).
