@@ -221,6 +221,13 @@ During week 6: Uneven pair
 Team leaders managing rosters during the season.
 #### Penalty
 None for the removal itself; SP recalculation possible as above.
+#### Execution Precedent (Sun 20 Sep 2026, night, ticket #583)
+When the captain reported the decision ("counting them both out"), night fury asked for the two
+in-game IDs and **performed the removals himself** ("Removed and updated your max SP") — leaders
+do not need to execute the removal in-game; giving the mod the IDs is sufficient. The mod also
+**updated the team's max SP** after removal (confirming the Q4 recalc "It can" does happen). He
+added it "doesnt really matter atp" — implying SP no longer materially affects this team's W6
+standings (casual remark, not a formal ruling).
 
 ### Rule Name: Captain Discord Requirement
 #### Source

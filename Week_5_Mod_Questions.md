@@ -211,15 +211,44 @@ small update: i've talked to my team and i'm waiting on their replies — consid
 also i've double-checked our SP — it stays the same (max SP), so no recalc needed on our end 👍
 ```
 
-**Captain's follow-up #2 — FINAL CALL — DRAFTED 20 Sep (⏳ NOT sent):** team deadline passed with
-**no replies from Destroyer or Baby Bird** → captain counts both out. Remove in-game BEFORE
-Mon 21 Sep 6:00 AM UTC `<t:1789970400:F>` for even pairing. In-game IDs (from W5 brief roster):
-Destroyer 67665771 · Baby Bird 26410318.
+**Captain's follow-up #2 — FINAL CALL — SENT Sun 20 Sep, ~10:38 PM IST (⏰ actual send time not captured; screenshot shows night fury's 10:38 PM reply directly beneath):**
 
 ```
-final call, as promised 🫡
-
-deadline passed with no reply from destroyer or baby bird — counting them both out. removing them tonight, before the Week 6 MM list drops <t:1789970400:F>
-
-that leaves me, gunshot and bowolf for Week 6 — thanks again for laying out the rules 🙏
+@MAQC Mod] night fury© final call, as promised 🫡 deadline passed with no reply from destroyer or baby bird — counting them both out. removing them to...
 ```
+(leading text cropped in screenshot; full drafted wording in repo history at commit c797488)
+
+---
+
+## W6 PREP — EXECUTION (✅ DONE Sun 20 Sep 2026, night 10:38–10:52 PM IST — night fury executed the removals himself)
+
+Verbatim from ticket #583 screenshots (times = device-local, IST):
+
+```
+[MAQC Mod] night fury© 10:38 PM:
+pls share their IDs
+
+Akulmach74 [BULB] 10:44 PM:
+67665771 and 26410318
+
+[MAQC Mod] night fury© 10:49 PM:
+Removed and updated your max SP (though it doesnt really matter atp). Any other issue?
+
+Akulmach74 [BULB] 10:52 PM:
+Our max sp was 20723? Our teamate was saying its 22700 😅 (edited)
+```
+
+**Facts established:**
+- ✅ **Removals EXECUTED by night fury** (IDs given: 67665771 = Destroyer, 26410318 = Baby Bird). Captain did NOT need to remove in-game.
+- ✅ **Team SP updated by the mod** — so the Q4 "It can" recalc materialized: removing a player DID change the team's SP number.
+- ❓ **DISCREPANCY (UNRESOLVED):** captain's 10:52 PM message — "Our max sp was 20723? Our teamate was saying its 22700 😅" — questions the SP value: captain cites **20,723**, teammate says **22,700**; neither matches the 23,000 Reg SP from registration. The screenshot does NOT show what number the mod actually set (or the current official value). NOT yet answered by the mod — latest ticket message as of 20 Sep night.
+- ❓ **New mod contact seen:** captain addressed a question to **mikeyyy_007** (`@mikeyyy_007`) —
+  different handle than night fury. Identity/role not confirmed in repo evidence.
+
+**Captain's follow-up #3 — SP question to mikeyyy_007 — DRAFTED 20 Sep (⏳ NOT sent):**
+
+```
+@mikeyyy_007 no issues — but just one question: how do you see max SP? is there a webend/api you use, or is it manual?
+```
+
+(This affects the 20,723 vs 22,700 discrepancy: knowing how mods read SP tells us whose number is stale.)

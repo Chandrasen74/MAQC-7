@@ -24,11 +24,17 @@
 - Conversions: IST = UTC+5:30 · EDT = UTC−4 · Sat 19 Sep 4:00 PM UTC = `<t:1789833600:F>`.
 - W4 postscript: ZiM DM'd accusations (Sep 16) about "hiding behind rules" — baseless, match was played.
   Playbook: one calm reply, disengage, misconduct ticket only if harassment continues.
-- Roster health → DECISION (20 Sep): Destroyer + Baby Bird sent no reply by the 10:00 PM IST team
-  deadline → captain counts BOTH out of W6. Forward roster: captain + Gunshot + Bowolf (3; mod min 2).
-  Sat 19 Sep practice happened; Gunshot attended. Gunshot's own W6 commitment still unconfirmed.
-- W6 removal targets (captain-decided 20 Sep): Destroyer (in-game ID 67665771) + Baby Bird
-  (in-game ID 26410318) — remove in-game BEFORE Mon 21 Sep 6:00 AM UTC for even pairing.
+- Roster health → RESOLVED (20 Sep night): Destroyer + Baby Bird sent no reply by the 10:00 PM IST
+  team deadline → counted out; night fury REMOVED both himself (ticket #583, 10:49 PM IST, captain
+  supplied IDs 67665771 + 26410318) and updated the team max SP. Final roster: captain + Gunshot +
+  Bowolf (3; mod min 2). Sat 19 Sep practice happened; Gunshot attended. Gunshot's W6 commitment
+  still unconfirmed.
+- SP discrepancy (OPEN 20 Sep night): after the removals the captain asked in ticket #583 —
+  "Our max sp was 20723? Our teamate was saying its 22700 😅" — neither number matches the 23,000
+  Reg SP from registration. Mod answer pending; resolve before trusting any SP for W6.
+- New mod handle **@mikeyyy_007** seen 20 Sep (captain addressed an SP-reading question to him;
+  draft unsent). Identity/role unconfirmed — night fury remains the verified primary mod contact
+  (`<@934544234000830525>`).
 - Mid-season roster changes: RESOLVED by night fury ruling 20 Sep (Ticket #583, verbatim in KB):
   removal allowed anytime, no penalty, team can't drop below 2, SP recalc possible if removed player
   was highest SP; remove BEFORE the week's MM for even pairing (during week = uneven pair).
