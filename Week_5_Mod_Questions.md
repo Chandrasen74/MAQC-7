@@ -142,3 +142,36 @@ thanks for the fast answers! 🙏 last 2, whenever you have a sec:
 
 that's it, appreciate it! 🫡
 ```
+
+---
+
+## W6 PREP — Roster removal + attendance questions (DRAFTED Sun 20 Sep 2026 — ⏳ NOT SENT)
+
+**Context (captain-confirmed 20 Sep):** Baby Bird not showing up, Destroyer unresponsive all season.
+Team 1–4 with close 1-2 losses; W1 played 4v5. Removal decision pending Gunshot's reply (DM 20 Sep).
+Mid-season removal rules: undocumented in KB (penalty-free changes only before 15 Aug pre-season;
+3–5 players, no substitutes).
+**Target:** #MAQC-Q&A · ping night fury `<@934544234000830525>` (ONE mod only). Deadline driver:
+W6 MM drops Mon 21 Sep 6:00 AM UTC `<t:1789970400:F>`.
+
+```
+hey <@934544234000830525> 👋 roster question for akulmach74 (Bracket 10) before Week 6
+
+context: 5-man roster but 2 players — Baby Bird and Destroyer — have barely shown up or responded all season. we've had to play short-handed (week 1 was literally 4v5) and dropped close series because of it. sitting at 1-4 and want to fix it the right way before the Week 6 MM list drops Mon 21 Sep 6:00 AM UTC <t:1789970400:F>
+
+1. can a leader remove a player mid-season? what's the process — and does timing matter (before the W6 MM list vs mid-week)?
+2. any penalty for removing — demerit, bracket/SP recalc, anything else?
+3. if we drop to 4 (or 3), is the team still valid for the rest of the season?
+4. can we add a replacement after a mid-season removal, or is the roster frozen since registration closed?
+5. does removing a player change our Registered SP (23,000) / Bracket 10 for matchmaking?
+6. chronic no-shows: any official recourse, or is Equalize bots-fill the only answer?
+
+not trying to dunk on anyone — just want to do it by the book 🫡 thanks!
+```
+
+**Notes:** if too long, cut Q4/Q6 first (Q1–3 + Q5 are decision-critical). Swap names → "2 of our 5"
+if you'd rather not name players in the channel.
+
+| # | Question | Mod answer | Date |
+| :--- | :--- | :--- | :--- |
+| W6 1–6 | Roster removal mechanics + no-show recourse | — | — |

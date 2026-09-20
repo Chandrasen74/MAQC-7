@@ -4,16 +4,11 @@
 - [ ] **Gunshot reply pending (W6 roster):** DM sent Sun 20 Sep (9:20/9:35 AM device-local) asking his
   thoughts on removing Destroyer + Baby Bird before W6 MM. **No reply yet.** W6 MM drops
   Mon 21 Sep 6:00 AM UTC (`<t:1789970400:F>`, 11:30 AM IST) — decision window closes fast.
-- [ ] **Mod follow-up (captain-approved 20 Sep) — mid-season roster rules.** KB only documents
-  penalty-free roster changes before 15 Aug (pre-season); nothing on mid-season removals. Ping ONE
-  mod in #MAQC-Q&A before acting:
-
-  ```
-  hey @mod-name 👋 quick roster rule question before Week 6:
-  can a team remove a player mid-season, and is there any penalty (demerit, bracket move)?
-  we're akulmach74, Bracket 10, 5-man roster. asking before the Week 6 MM list drops Mon 21 Sep 6:00 AM UTC <t:1789970400:F>
-  thanks! 🫡
-  ```
+- [ ] **Mod message — roster removal + attendance (DRAFTED 20 Sep, ⏳ NOT SENT).** Full copy-paste
+  draft in `Week_5_Mod_Questions.md` → "W6 PREP" section (6 Qs: removal process/timing, penalties,
+  team validity at 4/3, replacements, SP/bracket impact, no-show recourse). Target: #MAQC-Q&A,
+  ping night fury `<@934544234000830525>` (ONE mod). Ideally send before W6 MM
+  Mon 21 Sep 6:00 AM UTC (`<t:1789970400:F>`). Mark SENT + log answer when captain confirms.
 
 ## Backlog & future tasks
 - [ ] Week 6 prep: MM PDF drops Mon 21 Sep — extract match #, opponent, map; same Day-1 flow.
