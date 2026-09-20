@@ -145,12 +145,12 @@ that's it, appreciate it! 🫡
 
 ---
 
-## W6 PREP — Roster removal + attendance questions (✅ SENT Sun 20 Sep 2026 via Ticket Tool — no reply yet)
+## W6 PREP — Roster removal + attendance questions (✅ SENT + ✅ REPLIED Sun 20 Sep 2026 — night fury)
 
 **How sent:** Ticket Tool ticket **#583** (`#oth-akulmach74-0583`, Category: Other, created by
 Akulmach74 20 Sep, 4:07 PM device-local = IST) — night fury `<@934544234000830525>` pinged inside
 the ticket at 4:09 PM; message shows `(edited)`. Ticket UI buttons: Close / Claim / Add Note /
-**Escalate to Nihilus**. **No mod reply yet** (only Ticket Tool auto-reply + pin as of 20 Sep).
+**Escalate to Nihilus**.
 
 **Context (captain-confirmed 20 Sep):** Baby Bird not showing up, Destroyer unresponsive all season.
 Removal decision pending Gunshot's reply (DM 20 Sep). Deadline driver: W6 MM drops Mon 21 Sep
@@ -175,7 +175,38 @@ replacement-player Q and the chronic-no-show Q (6 → 4). Stamp check: `<t:17899
 
 | # | Question | Mod answer | Date |
 | :--- | :--- | :--- | :--- |
-| W6 1 | Removal process + timing | — | — |
-| W6 2 | Penalty + rewards impact | — | — |
-| W6 3 | Team valid at 4/3 players? | — | — |
-| W6 4 | Registered SP / bracket change? | — | — |
+| W6 1 | Removal process + timing | ✅ anytime; before W6 → 4v4/3v3, during → uneven pair | 20 Sep |
+| W6 2 | Penalty + rewards impact | ✅ no penalty; SP recalc if removed was highest SP | 20 Sep |
+| W6 3 | Team valid at 4/3 players? | ✅ yes, can't drop below 2 | 20 Sep |
+| W6 4 | Registered SP / bracket change? | ✅ "It can" | 20 Sep |
+
+**✅ REPLIED — Sun 20 Sep 2026, 4:15 PM (device-local = IST), night fury [MAQC Mod] (verbatim):**
+
+```
+1. Yes. They can be removed anytime.
+Before week 6: 4v4 or 3v3
+During week 6: Uneven pair
+
+2. No penalty, but your SP can be recalculated if the person you removed was the highest SP
+
+3. Yes, you just cant drop to below 2
+
+4. It can
+```
+
+**Operational read:** removal is allowed and penalty-free — do it **before** the W6 MM list
+(Mon 21 Sep 6:00 AM UTC `<t:1789970400:F>`) for an even pair; during the week = uneven pair.
+⚠️ Q4: SP/bracket CAN change if the removed player was the highest SP — Baby Bird had the highest
+Max SP at registration (22,550). Captain checked 20 Sep: our SP stays the same (max SP). Re-verify
+if in doubt before pulling the trigger. Ruling filed in `MAQC_Knowledge_Base.md` (Mid-Season Player
+Removal + FAQ).
+
+**Captain's follow-up reply — DRAFTED 20 Sep (⏳ NOT sent):**
+
+```
+legend, thanks for the fast reply 🙏
+
+small update: i've talked to my team and i'm waiting on their replies — consider this a hold off for now. i'll confirm my final call by the deadline i gave them: tonight 10:00 PM IST <t:1789921800:F>
+
+also i've double-checked our SP — it stays the same (max SP), so no recalc needed on our end 👍
+```

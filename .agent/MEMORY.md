@@ -27,9 +27,10 @@
 - Roster health (captain's assessment, 20 Sep): Destroyer + Baby Bird seen as not showing up /
   not communicating; carrying duo = captain + Gunshot. Captain DM'd Gunshot 20 Sep asking his
   thoughts on removing the 2 before W6 MM — no reply yet. Sat 19 Sep practice happened; Gunshot attended.
-- Mid-season roster changes: KB documents penalty-free roster changes only before 15 Aug 2026
-  (pre-season); teams are 3–5 players, no substitutes. NO documented rule for mid-season removals →
-  confirm with a mod before acting.
+- Mid-season roster changes: RESOLVED by night fury ruling 20 Sep (Ticket #583, verbatim in KB):
+  removal allowed anytime, no penalty, team can't drop below 2, SP recalc possible if removed player
+  was highest SP; remove BEFORE the week's MM for even pairing (during week = uneven pair).
+  Pre-15-Aug penalty-free registration window still stands (pre-season only).
 - Week 6 MM list drops Mon 21 Sep 2026 6:00 AM UTC (`<t:1789970400:F>` = 11:30 AM IST) per weekly rhythm.
 - Mod tickets: Ticket Tool flow — e.g. **#583** `#oth-akulmach74-0583` (Category "Other", opened 20 Sep);
   ping the mod inside the ticket. Ticket UI has an **"Escalate to Nihilus"** button (Nihilus = second

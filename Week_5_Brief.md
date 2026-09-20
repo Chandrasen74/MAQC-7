@@ -129,9 +129,9 @@ i would like to get yr thoughts on this before matchmaking is shared tmrw so we 
 - **"the 2" = Destroyer + Baby Bird** (captain-confirmed 20 Sep). Context: W6 roster decision wanted before MM drops Mon 21 Sep 6:00 AM UTC (`<t:1789970400:F>`).
 - **Status:** SENT only — no reply recorded as of 20 Sep. Roster questions sent to mods same day via Ticket Tool #583 (see `Week_5_Mod_Questions.md` W6 PREP).
 
-### TEAM PING — DRAFTED 20 Sep (⏳ NOT sent — captain to review + send)
+### TEAM PING — 20 Sep (captain confirms: team talked to, 10:00 PM IST deadline set, replies pending)
 
-Whole-team W6 commitment call. Suggested reply deadline 10:00 PM IST (`<t:1789921800:F>`) — adjust freely.
+Whole-team W6 commitment call. Draft text below (sent wording not captured — no screenshot). Deadline `<t:1789921800:F>`. Removal rules now mod-confirmed (ticket #583): anytime, no penalty, min 2, SP recalc only if highest-SP player removed.
 
 ```
 <@&1533818347068850248> team update — real talk edition 🫡

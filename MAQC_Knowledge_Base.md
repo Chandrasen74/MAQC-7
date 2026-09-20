@@ -200,6 +200,28 @@ Duplicate team submissions or a single player registered on multiple teams.
 #### Penalty
 Immediate disqualification without warning for all teams involved.
 
+### Rule Name: Mid-Season Player Removal
+#### Source
+Mod ruling — night fury (`<@934544234000830525>`), MAQC Support ticket **#583**, Sun 20 Sep 2026, 4:15 PM IST (verbatim reply).
+#### Summary
+Leaders may remove players mid-season, anytime. No penalty, but the team's SP can be recalculated if the removed player was the highest SP. A team cannot drop below 2 players. Removing before the week's matchmaking yields an even pairing (4v4 / 3v3); removing during the week leaves an uneven pair.
+#### Full Ruling (verbatim)
+1. Yes. They can be removed anytime.
+Before week 6: 4v4 or 3v3
+During week 6: Uneven pair
+
+2. No penalty, but your SP can be recalculated if the person you removed was the highest SP
+
+3. Yes, you just cant drop to below 2
+
+4. It can
+
+(Q4 = "does removing a player change our Registered SP / Bracket 10 for matchmaking?" → "It can.")
+#### Applies To
+Team leaders managing rosters during the season.
+#### Penalty
+None for the removal itself; SP recalculation possible as above.
+
 ### Rule Name: Captain Discord Requirement
 #### Source
 Information Guide PDF (Page 7 & 11), Discord Rulebook (Section 2)
@@ -499,6 +521,9 @@ Once moderators intervene, their ruling is final and non-negotiable. Non-complia
 
 **Q: Can I use a substitute player if my teammate is absent?**
 A: No. Substitutes are not allowed. Absent players must be replaced with in-game bots (lobby set to Equalize).
+
+**Q: Can a team remove a player mid-season?**
+A: Yes — leaders can remove players anytime (night fury, Ticket #583, 20 Sep 2026). No penalty, but SP can be recalculated if the removed player was the highest SP; a team cannot drop below 2. Remove before the week's MM list for an even pairing (4v4 / 3v3); removing during the week = uneven pair.
 
 **Q: What happens if my game crashes during a match?**
 A: The match will not stop. Take a screenshot immediately and open a ticket in #maqc-support-leaders.
