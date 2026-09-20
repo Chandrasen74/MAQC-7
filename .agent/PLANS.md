@@ -1,14 +1,15 @@
 # ACTIVE PLAN — MAQC S7 Week 5 (+ Week 6 prep)
 
 ## Current focus
-- [ ] **Gunshot reply pending (W6 roster):** DM sent Sun 20 Sep (9:20/9:35 AM device-local) asking his
+- [ ] **Gunshot reply pending (W6 roster):** DM sent Sun 20 Sep (9:20/9:35 AM IST) asking his
   thoughts on removing Destroyer + Baby Bird before W6 MM. **No reply yet.** W6 MM drops
   Mon 21 Sep 6:00 AM UTC (`<t:1789970400:F>`, 11:30 AM IST) — decision window closes fast.
-- [ ] **Mod message — roster removal + attendance (DRAFTED 20 Sep, ⏳ NOT SENT).** Full copy-paste
-  draft in `Week_5_Mod_Questions.md` → "W6 PREP" section (6 Qs: removal process/timing, penalties,
-  team validity at 4/3, replacements, SP/bracket impact, no-show recourse). Target: #MAQC-Q&A,
-  ping night fury `<@934544234000830525>` (ONE mod). Ideally send before W6 MM
-  Mon 21 Sep 6:00 AM UTC (`<t:1789970400:F>`). Mark SENT + log answer when captain confirms.
+- [x] **Mod questions: ✅ SENT Sun 20 Sep** via Ticket Tool **#583** (`#oth-akulmach74-0583`,
+  Category Other), night fury pinged 4:09 PM IST, msg (edited). 4 Qs as sent (process/timing,
+  penalty + rewards, 4/3 validity, SP/bracket) — verbatim in `Week_5_Mod_Questions.md` W6 PREP.
+  **No mod reply yet.**
+- [ ] **Team ping DRAFTED 20 Sep (⏳ not sent):** W6 commitment call — everyone replies in/out +
+  windows by tonight 10:00 PM IST. Draft in `Week_5_Brief.md` (TEAM PING section). Send + log replies.
 
 ## Backlog & future tasks
 - [ ] Week 6 prep: MM PDF drops Mon 21 Sep — extract match #, opponent, map; same Day-1 flow.

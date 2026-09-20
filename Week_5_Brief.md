@@ -125,9 +125,34 @@ follow-up, 9:35 AM same day:
 i would like to get yr thoughts on this before matchmaking is shared tmrw so we can avoid a 3v5
 ```
 
-- **Recipient:** Gunshot (Discord DM). **Date:** Sun 20 Sep 2026, 9:20 AM + 9:35 AM (device-local). Transcribed verbatim from screenshot (typos preserved). `(edited)` tag on line 4 = Discord edit indicator, not message text.
+- **Recipient:** Gunshot (Discord DM). **Date:** Sun 20 Sep 2026, 9:20 AM + 9:35 AM (device-local = IST, confirmed via t: render 20 Sep). Transcribed verbatim from screenshot (typos preserved). `(edited)` tag on line 4 = Discord edit indicator, not message text.
 - **"the 2" = Destroyer + Baby Bird** (captain-confirmed 20 Sep). Context: W6 roster decision wanted before MM drops Mon 21 Sep 6:00 AM UTC (`<t:1789970400:F>`).
-- **Status:** SENT only — no reply recorded as of 20 Sep. Mid-season removal rules undocumented → mod follow-up queued (`.agent/PLANS.md`).
+- **Status:** SENT only — no reply recorded as of 20 Sep. Roster questions sent to mods same day via Ticket Tool #583 (see `Week_5_Mod_Questions.md` W6 PREP).
+
+### TEAM PING — DRAFTED 20 Sep (⏳ NOT sent — captain to review + send)
+
+Whole-team W6 commitment call. Suggested reply deadline 10:00 PM IST (`<t:1789921800:F>`) — adjust freely.
+
+```
+<@&1533818347068850248> team update — real talk edition 🫡
+
+we're 1-4 and both our played losses went the distance. not a skill problem — an attendance problem. played short-handed, missed comms, dropped close series we could've taken.
+
+so today i asked the mods directly how mid-season removal works (ticket #583). not drama, just business — one week left and i want the right squad on the field for Week 6.
+
+**EVERYONE replies in this channel by tonight 10:00 PM IST** <t:1789921800:F> ||UTC: 4:30 PM|| ||EDT: 12:30 PM||:
+
+1️⃣ you in for Week 6 — yes or no
+2️⃣ your available days + times (UTC first if you can)
+
+W6 MM drops **tomorrow Mon 21 Sep, 11:30 AM IST** <t:1789970400:F> ||UTC: 6:00 AM||. no reply = i plan the roster like you're out. that's not a threat, it's a schedule.
+
+Gunshot + Bowolf — been carrying, respect 🤝 everyone else: show me something.
+
+✅ react + drop your windows. let's close the season proper.
+```
+
+Notes: players not named in the callout (mods already have names via ticket #583) — add them if you want it blunter. Reply deadline is my suggestion; edit freely.
 
 ---
 

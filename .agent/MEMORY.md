@@ -31,6 +31,11 @@
   (pre-season); teams are 3–5 players, no substitutes. NO documented rule for mid-season removals →
   confirm with a mod before acting.
 - Week 6 MM list drops Mon 21 Sep 2026 6:00 AM UTC (`<t:1789970400:F>` = 11:30 AM IST) per weekly rhythm.
+- Mod tickets: Ticket Tool flow — e.g. **#583** `#oth-akulmach74-0583` (Category "Other", opened 20 Sep);
+  ping the mod inside the ticket. Ticket UI has an **"Escalate to Nihilus"** button (Nihilus = second
+  mod contact path).
+- Captain's screenshot timestamps are device-local = **IST** (confirmed 20 Sep: `<t:1789970400:F>`
+  rendered "Monday, September 21, 2026 at 11:30 AM").
 
 ## Technical lessons & edge cases
 - Diverged local history after a reset: fetch branch → hash-compare trees → `reset --soft`
