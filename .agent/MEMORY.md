@@ -24,6 +24,13 @@
 - Conversions: IST = UTC+5:30 · EDT = UTC−4 · Sat 19 Sep 4:00 PM UTC = `<t:1789833600:F>`.
 - W4 postscript: ZiM DM'd accusations (Sep 16) about "hiding behind rules" — baseless, match was played.
   Playbook: one calm reply, disengage, misconduct ticket only if harassment continues.
+- Roster health (captain's assessment, 20 Sep): Destroyer + Baby Bird seen as not showing up /
+  not communicating; carrying duo = captain + Gunshot. Captain DM'd Gunshot 20 Sep asking his
+  thoughts on removing the 2 before W6 MM — no reply yet. Sat 19 Sep practice happened; Gunshot attended.
+- Mid-season roster changes: KB documents penalty-free roster changes only before 15 Aug 2026
+  (pre-season); teams are 3–5 players, no substitutes. NO documented rule for mid-season removals →
+  confirm with a mod before acting.
+- Week 6 MM list drops Mon 21 Sep 2026 6:00 AM UTC (`<t:1789970400:F>` = 11:30 AM IST) per weekly rhythm.
 
 ## Technical lessons & edge cases
 - Diverged local history after a reset: fetch branch → hash-compare trees → `reset --soft`

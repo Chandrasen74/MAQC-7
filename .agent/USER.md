@@ -9,6 +9,11 @@
 - Team: akulmach74 · Bracket 10 · Reg SP 23,000 · 5 players (mixed IST + US-EDT).
 - Roster: Akulmach74 (captain, IST) · Destroyer (IST, Discord DM) · Bowolf (EDT) ·
   Gunshot (IST, Discord DM) · Baby Bird (EDT, **no Discord — Google Messages + in-game chat**).
+- **Gunshot** (Player 4): Discord `gunshot9099` · in-game ¡R¤N$¡De · ID 56671448 · Max SP 21,597 ·
+  IST (UTC+5:30), self-reported "Late Night" (Aug form; offered 6:00–8:00 PM UTC practice window —
+  6 PM UTC = 11:30 PM IST cutoff). Contact: **Discord DM**. Strat role: Outlaw (Gemini Outlaw);
+  captain consults him on strats. 20 Sep: captain DM'd him for thoughts on removing 2 inactive
+  players before W6 MM — no reply yet.
 - Season record: W1 ❌ loss · W2 ❌ auto-loss · W3 ❌ loss 1-2 · W4 ❌ loss 1-2 (played).
   W5 ✅ WIN 2-0 vs BOT. Overall 1–4.
 - Team tag: `<@&1533818347068850248>`.

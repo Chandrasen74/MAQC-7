@@ -61,7 +61,7 @@ Strategy: offer **Tue/Wed/Thu 3–5 PM UTC** for an early lock, keep **Sat 3–4
 - [x] Confirm: auto-win vs must-play? how many players? what lobby settings? → ✅ MUST-PLAY, any headcount, Equalize
 - [x] **1v1 submission run** → ✅ DONE 15 Sep: 2-0 (15,500 + 15,450, Forbidden City CPC)
 - [x] Post **official submission** → ✅ DONE: Stefania "Result recorded — Week 5, Match #665, @akulmach74 beat BOT"
-- [ ] **Saturday practice** Sat 19 Sep 9:30 PM IST (`<t:1789833600:F>`) — full squad, casual, pressure-free
+- [x] **Saturday practice** Sat 19 Sep 9:30 PM IST (`<t:1789833600:F>`) — ✅ HAPPENED (captain-confirmed 20 Sep). Gunshot confirmed in attendance; full-squad headcount not confirmed.
 - [x] Availability check → ✅ Baby Bird CONFIRMED (in-game chat 15 Sep): Saturday noon EDT, on at 11:30 AM EDT (early!). Team message drafted 16 Sep — send to squad.
 
 ---
@@ -107,6 +107,27 @@ and the miracle of the week 🙏: **Baby Bird confirmed Saturday noon his time A
 
 ✅ react if you're in. be on time. don't be like old Baby Bird.
 ```
+
+**20 Sep — W6 roster question DM → Gunshot (SENT — captain-confirmed; NO reply yet)**
+
+```
+yo bro u think our team this maqc is ass 🍑 especially 2 players
+bowolf is trying his best lol **BUT** the other 2 dont show up, dont communicate, and when they show up play ass.its usually us who are carrying the team
+you want me to remove these players?
+this decision is too late to make we've already lost 4 battles due to this
+but alteast we get a win in last week
+only us 2 are trying our best to support the team I think...you especially wih the strats
+```
+
+follow-up, 9:35 AM same day:
+
+```
+i would like to get yr thoughts on this before matchmaking is shared tmrw so we can avoid a 3v5
+```
+
+- **Recipient:** Gunshot (Discord DM). **Date:** Sun 20 Sep 2026, 9:20 AM + 9:35 AM (device-local). Transcribed verbatim from screenshot (typos preserved). `(edited)` tag on line 4 = Discord edit indicator, not message text.
+- **"the 2" = Destroyer + Baby Bird** (captain-confirmed 20 Sep). Context: W6 roster decision wanted before MM drops Mon 21 Sep 6:00 AM UTC (`<t:1789970400:F>`).
+- **Status:** SENT only — no reply recorded as of 20 Sep. Mid-season removal rules undocumented → mod follow-up queued (`.agent/PLANS.md`).
 
 ---
 
