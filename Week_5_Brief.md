@@ -126,12 +126,12 @@ i would like to get yr thoughts on this before matchmaking is shared tmrw so we 
 ```
 
 - **Recipient:** Gunshot (Discord DM). **Date:** Sun 20 Sep 2026, 9:20 AM + 9:35 AM (device-local = IST, confirmed via t: render 20 Sep). Transcribed verbatim from screenshot (typos preserved). `(edited)` tag on line 4 = Discord edit indicator, not message text.
-- **"the 2" = Destroyer + Baby Bird** (captain-confirmed 20 Sep). Context: W6 roster decision wanted before MM drops Mon 21 Sep 6:00 AM UTC (`<t:1789970400:F>`).
+- **"the 2" = Destroyer + Baby Bird** (captain-confirmed 20 Sep). Context: W6 roster decision wanted before MM drops Mon 21 Sep 6:00 AM UTC (`<t:1789970400:F>`). **20 Sep: neither replied by the 10:00 PM IST team deadline → captain counts both OUT of Week 6** (removal pending in-game + final call to mod).
 - **Status:** SENT only — no reply recorded as of 20 Sep. Roster questions sent to mods same day via Ticket Tool #583 (see `Week_5_Mod_Questions.md` W6 PREP).
 
-### TEAM PING — 20 Sep (captain confirms: team talked to, 10:00 PM IST deadline set, replies pending)
+### TEAM PING — 20 Sep (sent wording not captured — no screenshot; OUTCOME 20 Sep: no replies from Destroyer or Baby Bird)
 
-Whole-team W6 commitment call. Draft text below (sent wording not captured — no screenshot). Deadline `<t:1789921800:F>`. Removal rules now mod-confirmed (ticket #583): anytime, no penalty, min 2, SP recalc only if highest-SP player removed.
+Whole-team W6 commitment call. Draft text below. Deadline `<t:1789921800:F>`. Removal rules now mod-confirmed (ticket #583): anytime, no penalty, min 2, SP recalc only if highest-SP player removed. **Outcome (captain, 20 Sep): Destroyer + Baby Bird did not reply by the deadline → captain counts BOTH out of Week 6.**
 
 ```
 <@&1533818347068850248> team update — real talk edition 🫡

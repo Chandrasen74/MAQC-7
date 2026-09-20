@@ -7,8 +7,10 @@
 
 ## Team context (MAQC S7)
 - Team: akulmach74 · Bracket 10 · Reg SP 23,000 · 5 players (mixed IST + US-EDT).
-- Roster: Akulmach74 (captain, IST) · Destroyer (IST, Discord DM) · Bowolf (EDT) ·
-  Gunshot (IST, Discord DM) · Baby Bird (EDT, **no Discord — Google Messages + in-game chat**).
+- Roster (W6 forward plan, 20 Sep): **ACTIVE — Akulmach74 (captain, IST) · Gunshot (IST, Discord DM) ·
+  Bowolf (EDT)**. Counted OUT by captain 20 Sep (no reply to team deadline; in-game removal pending):
+  Destroyer (IST, Discord DM, ID 67665771) · Baby Bird (EDT, **no Discord — Google Messages +
+  in-game chat**, ID 26410318).
 - **Gunshot** (Player 4): Discord `gunshot9099` · in-game ¡R¤N$¡De · ID 56671448 · Max SP 21,597 ·
   IST (UTC+5:30), self-reported "Late Night" (Aug form; offered 6:00–8:00 PM UTC practice window —
   6 PM UTC = 11:30 PM IST cutoff). Contact: **Discord DM**. Strat role: Outlaw (Gemini Outlaw);

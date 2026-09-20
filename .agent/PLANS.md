@@ -1,13 +1,16 @@
 # ACTIVE PLAN — MAQC S7 Week 5 (+ Week 6 prep)
 
 ## Current focus
-- [ ] **Roster decision: HOLD-OFF, deadline TONIGHT 10:00 PM IST (`<t:1789921800:F>`).** Captain talked
-  to team, waiting for replies; will confirm to night fury by that deadline. Rules now mod-CONFIRMED
-  (night fury 20 Sep, ticket #583 → KB): removal anytime, no penalty, min 2 players, SP recalc only if
-  removed player was highest SP; remove **before W6 MM (Mon 6:00 AM UTC)** for 4v4/3v3 pairing.
-- [ ] **Hold-off reply to night fury — DRAFTED (⏳ not sent):** in `Week_5_Mod_Questions.md` W6 PREP —
-  send in ticket #583.
+- [x] **Roster decision MADE (20 Sep): Destroyer + Baby Bird COUNTED OUT** — neither replied by the
+  10:00 PM IST team deadline. Forward roster: captain + Gunshot + Bowolf (3 — valid, mod min is 2).
+- [ ] **FINAL-CALL reply to night fury — DRAFTED (⏳ not sent):** in `Week_5_Mod_Questions.md` W6 PREP —
+  send in ticket #583, then remove Destroyer + Baby Bird in-game BEFORE Mon 21 Sep 6:00 AM UTC
+  (`<t:1789970400:F>`) for even pairing. ⏳ The hold-off reply (follow-up #1) is also still unsent —
+  send both, or skip #1 and send the final call alone.
+- [ ] **After removals:** verify in-game roster shows 3 + SP/bracket unchanged (23,000 / Bracket 10);
+  update brief + KB.
 - [ ] **Gunshot reply pending (W6 roster):** DM sent Sun 20 Sep (9:20/9:35 AM IST). **No reply yet.**
+  He counts IN (carrying duo + Sat practice), but confirm his W6 commitment.
 - [x] **Mod questions: ✅ SENT + ✅ REPLIED Sun 20 Sep** — Ticket Tool **#583**, night fury answered
   all 4 at 4:15 PM IST (verbatim in `Week_5_Mod_Questions.md` W6 PREP + `MAQC_Knowledge_Base.md`).
 - [x] **Team ping: captain confirms he talked to the team + set the 10:00 PM IST deadline (20 Sep).**
@@ -15,7 +18,7 @@
 
 ## Backlog & future tasks
 - [ ] Week 6 prep: MM PDF drops Mon 21 Sep — extract match #, opponent, map; same Day-1 flow.
-      Depends on the roster decision (Gunshot reply + mod ruling above) — resolve before locking plans.
+      Roster resolved (3 players) — plans can lock once the removals are confirmed in-game.
 - [ ] (Optional, captain-skipped) SP window question — only if captain changes mind.
 
 ## Completed
@@ -29,3 +32,5 @@
 - [x] ZiM DM saga closed: one-and-done reply sent 16 Sep (bot auto-posts + Game_Space receipt + 1-2 logic).
 - [x] Saturday casual practice (Sat 19 Sep 9:30 PM IST) — happened (captain-confirmed 20 Sep); Gunshot attended.
 - [x] W6 roster question DM sent to Gunshot 20 Sep (recorded in Week_5_Brief.md); reply pending.
+- [x] Roster decision (20 Sep): Destroyer + Baby Bird counted out — no reply by the 10:00 PM IST team
+  deadline; team = captain + Gunshot + Bowolf for W6.

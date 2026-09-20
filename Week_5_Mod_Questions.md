@@ -201,7 +201,7 @@ Max SP at registration (22,550). Captain checked 20 Sep: our SP stays the same (
 if in doubt before pulling the trigger. Ruling filed in `MAQC_Knowledge_Base.md` (Mid-Season Player
 Removal + FAQ).
 
-**Captain's follow-up reply — DRAFTED 20 Sep (⏳ NOT sent):**
+**Captain's follow-up #1 — hold-off — DRAFTED 20 Sep (⏳ NOT sent):**
 
 ```
 legend, thanks for the fast reply 🙏
@@ -209,4 +209,17 @@ legend, thanks for the fast reply 🙏
 small update: i've talked to my team and i'm waiting on their replies — consider this a hold off for now. i'll confirm my final call by the deadline i gave them: tonight 10:00 PM IST <t:1789921800:F>
 
 also i've double-checked our SP — it stays the same (max SP), so no recalc needed on our end 👍
+```
+
+**Captain's follow-up #2 — FINAL CALL — DRAFTED 20 Sep (⏳ NOT sent):** team deadline passed with
+**no replies from Destroyer or Baby Bird** → captain counts both out. Remove in-game BEFORE
+Mon 21 Sep 6:00 AM UTC `<t:1789970400:F>` for even pairing. In-game IDs (from W5 brief roster):
+Destroyer 67665771 · Baby Bird 26410318.
+
+```
+final call, as promised 🫡
+
+deadline passed with no reply from destroyer or baby bird — counting them both out. removing them tonight, before the Week 6 MM list drops <t:1789970400:F>
+
+that leaves me, gunshot and bowolf for Week 6 — thanks again for laying out the rules 🙏
 ```

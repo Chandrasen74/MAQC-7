@@ -24,9 +24,11 @@
 - Conversions: IST = UTC+5:30 · EDT = UTC−4 · Sat 19 Sep 4:00 PM UTC = `<t:1789833600:F>`.
 - W4 postscript: ZiM DM'd accusations (Sep 16) about "hiding behind rules" — baseless, match was played.
   Playbook: one calm reply, disengage, misconduct ticket only if harassment continues.
-- Roster health (captain's assessment, 20 Sep): Destroyer + Baby Bird seen as not showing up /
-  not communicating; carrying duo = captain + Gunshot. Captain DM'd Gunshot 20 Sep asking his
-  thoughts on removing the 2 before W6 MM — no reply yet. Sat 19 Sep practice happened; Gunshot attended.
+- Roster health → DECISION (20 Sep): Destroyer + Baby Bird sent no reply by the 10:00 PM IST team
+  deadline → captain counts BOTH out of W6. Forward roster: captain + Gunshot + Bowolf (3; mod min 2).
+  Sat 19 Sep practice happened; Gunshot attended. Gunshot's own W6 commitment still unconfirmed.
+- W6 removal targets (captain-decided 20 Sep): Destroyer (in-game ID 67665771) + Baby Bird
+  (in-game ID 26410318) — remove in-game BEFORE Mon 21 Sep 6:00 AM UTC for even pairing.
 - Mid-season roster changes: RESOLVED by night fury ruling 20 Sep (Ticket #583, verbatim in KB):
   removal allowed anytime, no penalty, team can't drop below 2, SP recalc possible if removed player
   was highest SP; remove BEFORE the week's MM for even pairing (during week = uneven pair).
