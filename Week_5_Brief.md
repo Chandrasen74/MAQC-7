@@ -1,13 +1,16 @@
-# Week 5 Brief — Team akulmach74 (Reg SP 23,000 → post-removal SP DISPUTED, see §6b)
+# Week 5 Brief — Team akulmach74 (Reg SP 23,000 → ✅ 22,700 post-removal, mod-corrected 20 Sep)
 
 **Created:** Mon 14 Sep 2026 (Week 5 Day 1)
 **Captain:** akulmach74 | **Roster:** 5 (Akulmach74, Destroyer, Bowolf, Gunshot, Baby Bird)
 **Player IDs:** 64516590, 67665771, 77849365, 56671448, 26410318
 
-> **UPDATE Sun 20 Sep night:** Destroyer + Baby Bird REMOVED from the roster by mod night fury
-> (ticket #583, 10:49 PM IST) after captain's final call. Active roster: **Akulmach74 + Gunshot +
-> Bowolf (3)** — valid (mod min 2). Registered SP no longer 23,000 — mod updated it; exact new value
-> is part of an open discrepancy (20,723 vs 22,700), see `Week_5_Mod_Questions.md` W6 PREP.
+> **UPDATE Sun 20 Sep night (FINAL):** Destroyer + Baby Bird REMOVED by mod night fury (ticket #583,
+> executed 10:49 PM IST) after captain's final call. Active roster: **Akulmach74 + Gunshot + Bowolf (3)**
+> — valid (mod min 2). **Team max SP = 22,700** (mod first set 20,723 in error; captain flagged with
+> teammate's 22,700 figure; mod: "ok, raised now" — screenshot supplied). Bracket 10 to be re-verified
+> on the W6 MM PDF (drops Mon 21 Sep 6:00 AM UTC `<t:1789970400:F>`) — PDF is source of truth.
+> mikeyyy_007 = night fury's username (same person). Ticket #583 CLOSED. Full transcript in
+> `Week_5_Mod_Questions.md` W6 PREP.
 
 ---
 
@@ -158,6 +161,28 @@ Gunshot + Bowolf — been carrying, respect 🤝 everyone else: show me somethin
 ```
 
 Notes: players not named in the callout (mods already have names via ticket #583) — add them if you want it blunter. Reply deadline is my suggestion; edit freely.
+
+### FINAL TEAM BRIEF — W6 roster (DRAFT, 20 Sep night — send after ticket resolution ✅ now resolved)
+
+```
+<@&1533818347068850248> final call made — W6 roster update 🫡
+
+deadline passed. destroyer and baby bird never replied, so i counted them out. mod (night fury) removed them from the roster tonight and our team SP is now locked at 22,700.
+
+**Week 6 squad: me, Gunshot, Bowolf.** 3 players — fully legal (min is 2), bots fill the rest via Equalize.
+
+W6 matchmaking drops tomorrow morning: Mon 21 Sep, 11:30 AM IST <t:1789970400:F> ||UTC: 6:00 AM|| ||EDT: 1:30 AM||. i'll post the match # + map here the second it's out.
+
+until then:
+1️⃣ confirm you're IN for Week 6 (react ✅)
+2️⃣ drop your available days + times this week — UTC first if you can
+
+Gunshot — your strats carry us, same deal this week 🤝 Bowolf — need you loud and present, we're a 3-man unit now.
+
+no drama, no surprises. we close this season out proper. 💪
+```
+
+Notes: verified facts only — 22,700 SP, removals done by the mod, 3-man squad legality (min 2, mod-confirmed), Equalize rule (mod-confirmed 14 Sep). All three squad members have Discord (Gunshot + Bowolf ✓), so the Discord ping works for everyone — Baby Bird is gone, no SMS needed.
 
 ---
 

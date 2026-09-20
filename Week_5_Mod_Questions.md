@@ -197,58 +197,80 @@ During week 6: Uneven pair
 **Operational read:** removal is allowed and penalty-free — do it **before** the W6 MM list
 (Mon 21 Sep 6:00 AM UTC `<t:1789970400:F>`) for an even pair; during the week = uneven pair.
 ⚠️ Q4: SP/bracket CAN change if the removed player was the highest SP — Baby Bird had the highest
-Max SP at registration (22,550). Captain checked 20 Sep: our SP stays the same (max SP). Re-verify
-if in doubt before pulling the trigger. Ruling filed in `MAQC_Knowledge_Base.md` (Mid-Season Player
-Removal + FAQ).
+Max SP at registration (22,550). Captain's 20 Sep "SP stays the same" check turned out WRONG — see
+resolution below. Ruling filed in `MAQC_Knowledge_Base.md` (Mid-Season Player Removal + FAQ).
 
-**Captain's follow-up #1 — hold-off — DRAFTED 20 Sep (⏳ NOT sent):**
+**Captain's follow-up #1 — hold-off — ✅ SENT Sun 20 Sep, 11:08 AM export-time (UTC; ≈ 4:38 PM IST) (verbatim from Ticket Tool export):**
 
 ```
 legend, thanks for the fast reply 🙏
 
-small update: i've talked to my team and i'm waiting on their replies — consider this a hold off for now. i'll confirm my final call by the deadline i gave them: tonight 10:00 PM IST <t:1789921800:F>
+small update: i've talked to my team and i'm waiting on their replies - consider this a hold off for now. i'll confirm my final call by the deadline i gave them: tonight 10:00 PM IST September 20th, 2026 at 4:30 PM UTC: 4:30PM
 
-also i've double-checked our SP — it stays the same (max SP), so no recalc needed on our end 👍
+also i've double-checked our SP - it stays the same (max SP), so no recalc needed on our end 👍
 ```
+(Note: the "SP stays the same" assumption turned out WRONG — see resolution below. Kept verbatim as evidence.)
 
-**Captain's follow-up #2 — FINAL CALL — SENT Sun 20 Sep, ~10:38 PM IST (⏰ actual send time not captured; screenshot shows night fury's 10:38 PM reply directly beneath):**
+**Captain's follow-up #2 — FINAL CALL — ✅ SENT Sun 20 Sep, 5:08 PM export-time (UTC; ≈ 10:38 PM IST) (verbatim from Ticket Tool export):**
 
 ```
-@MAQC Mod] night fury© final call, as promised 🫡 deadline passed with no reply from destroyer or baby bird — counting them both out. removing them to...
+@[MAQC Mod] ηιgнт ƒυяу® final call, as promised 🫡
+
+deadline passed with no reply from destroyer or baby bird - counting them both out. removing them tonight, before the Week 6 MM list drops September 21st, 2026 at 6:00 AM
+
+that leaves me, gunshot and bowolf for Week 6 - thanks again for laying out the rules 🙏
 ```
-(leading text cropped in screenshot; full drafted wording in repo history at commit c797488)
 
 ---
 
-## W6 PREP — EXECUTION (✅ DONE Sun 20 Sep 2026, night 10:38–10:52 PM IST — night fury executed the removals himself)
+## W6 PREP — EXECUTION (✅ DONE + ✅ RESOLVED + 🔒 TICKET CLOSED Sun 20 Sep 2026 — full Ticket Tool export transcript)
 
-Verbatim from ticket #583 screenshots (times = device-local, IST):
+**Key corrections vs earlier notes:**
+- **mikeyyy_007 = night fury's username** (same person; all mod replies in-ticket are from him).
+- **Team max SP corrected to 22,700** — night fury had first set 20,723 by mistake; captain flagged it
+  ("Our max sp was 20723? Our teamate was saying its 22700") → mod: "oh well... lemme raise it up then"
+  → sent screenshot → "ok, raised now. ig thats all?" → **22,700 CONFIRMED** (captain-supplied screenshot as evidence).
+- **SP is read MANUALLY** by mods: "manually. basically the max sp in the person's hangar at the time we check."
+- Ticket **CLOSED** 5:31 PM export-time (≈ 11:01 PM IST) after final :Nice_shot: exchange.
+
+**Full transcript (Ticket Tool export, Sep 20 2026; export timestamps = UTC):**
 
 ```
-[MAQC Mod] night fury© 10:38 PM:
-pls share their IDs
-
-Akulmach74 [BULB] 10:44 PM:
-67665771 and 26410318
-
-[MAQC Mod] night fury© 10:49 PM:
-Removed and updated your max SP (though it doesnt really matter atp). Any other issue?
-
-Akulmach74 [BULB] 10:52 PM:
-Our max sp was 20723? Our teamate was saying its 22700 😅 (edited)
+akulmach74 10:39 AM: hey @[MAQC Mod] ηιgнт ƒυяу® 👋 roster question for our team (Bracket 10) before Week 6
+  context: 5-man roster but 2 players - Baby Bird and Destroyer - have barely shown up or responded
+  all season. we've had to play short-handed (week 2-4 was literally 4v5) and dropped close series
+  because of it. sitting at 1-4 and want to fix it the right way before the Week 6 MM list drops
+  Mon 21 Sep 6:00 AM UTC <September 21st, 2026 at 6:00 AM>
+  1. can a leader remove a player mid-season? what's the process — and does timing matter?
+  2. any penalty for removing - demerit, bracket/SP recalc, anything else? rewards?
+  3. if we drop to 4 (or 3), is the team still valid for the rest of the season?
+  4. does removing a player change our Registered SP (23,000) / Bracket 10 for matchmaking?
+mikeyyy_007. 10:45 AM: Yes. They can be removed anytime. / Before week 6: 4v4 or 3v3 / During week 6: Uneven pair
+  / No penalty, but your SP can be recalculated if the person you removed was the highest SP
+  / Yes, you just cant drop to below 2 / It can
+akulmach74 11:08 AM: legend, thanks... hold off... confirm by tonight 10:00 PM IST... SP stays the same 👍
+akulmach74 5:08 PM: final call, as promised 🫡 ... counting them both out ... me, gunshot and bowolf for Week 6
+mikeyyy_007. 5:08 PM: pls share their IDs
+akulmach74 5:14 PM: 67665771 and 26410318
+mikeyyy_007. 5:19 PM: Removed and updated your max SP (though it doesnt really matter atp). Any other issue?
+akulmach74 5:22 PM: Our max sp was 20723? Our teamate was saying its 22700 😂
+mikeyyy_007. 5:24 PM: oh well... lemme raise it up then
+akulmach74 5:24 PM: [image.png attached]
+mikeyyy_007. 5:25 PM: ok, raised now. ig thats all?
+akulmach74 5:26 PM: one question, how do you see max sp and stats? is it an api? or manual? (edited)
+mikeyyy_007. 5:27 PM: manually. basically the max sp in the person's hangar at the time we check.
+akulmach74 5:28 PM: ohh..you guys should really automate that process i've talked about it earlier with stain
+  too..it would be helpful for players too cause then there will be more apps like https://mecharena.infohubhq.in/
+akulmach74 5:29 PM: yup, thats all ig / thanks ❤️
+mikeyyy_007. 5:31 PM: :Nice_shot:
+Ticket Tool 5:31 PM: Ticket Closed
 ```
 
 **Facts established:**
-- ✅ **Removals EXECUTED by night fury** (IDs given: 67665771 = Destroyer, 26410318 = Baby Bird). Captain did NOT need to remove in-game.
-- ✅ **Team SP updated by the mod** — so the Q4 "It can" recalc materialized: removing a player DID change the team's SP number.
-- ❓ **DISCREPANCY (UNRESOLVED):** captain's 10:52 PM message — "Our max sp was 20723? Our teamate was saying its 22700 😅" — questions the SP value: captain cites **20,723**, teammate says **22,700**; neither matches the 23,000 Reg SP from registration. The screenshot does NOT show what number the mod actually set (or the current official value). NOT yet answered by the mod — latest ticket message as of 20 Sep night.
-- ❓ **New mod contact seen:** captain addressed a question to **mikeyyy_007** (`@mikeyyy_007`) —
-  different handle than night fury. Identity/role not confirmed in repo evidence.
+- ✅ **Removals EXECUTED by night fury (mikeyyy_007)** — IDs 67665771 (Destroyer) + 26410318 (Baby Bird).
+- ✅ **Team max SP now 22,700** (raised after captain's correction; screenshot supplied as proof). First value 20,723 was a mod error, corrected on request.
+- ✅ **Mod SP method: manual** — max SP in the player's hangar at time of check (→ values can drift from in-game reality; automation suggestion passed to mod, earlier discussed with "stain").
+- 🔒 Ticket #583 CLOSED Sun 20 Sep night.
+- Operational read: with SP now 22,700 (was 23,000), Bracket 10 status for W6 to be re-verified on the MM PDF tomorrow — the PDF is the source of truth.
 
-**Captain's follow-up #3 — SP question to mikeyyy_007 — DRAFTED 20 Sep (⏳ NOT sent):**
-
-```
-@mikeyyy_007 no issues — but just one question: how do you see max SP? is there a webend/api you use, or is it manual?
-```
-
-(This affects the 20,723 vs 22,700 discrepancy: knowing how mods read SP tells us whose number is stale.)
+**Captain's follow-up #3 — SP question to mikeyyy_007 — ⏭️ SUPERSEDED (sent conversationally in-ticket, wording changed; see full transcript below)**

@@ -29,12 +29,13 @@
   supplied IDs 67665771 + 26410318) and updated the team max SP. Final roster: captain + Gunshot +
   Bowolf (3; mod min 2). Sat 19 Sep practice happened; Gunshot attended. Gunshot's W6 commitment
   still unconfirmed.
-- SP discrepancy (OPEN 20 Sep night): after the removals the captain asked in ticket #583 —
-  "Our max sp was 20723? Our teamate was saying its 22700 😅" — neither number matches the 23,000
-  Reg SP from registration. Mod answer pending; resolve before trusting any SP for W6.
-- New mod handle **@mikeyyy_007** seen 20 Sep (captain addressed an SP-reading question to him;
-  draft unsent). Identity/role unconfirmed — night fury remains the verified primary mod contact
-  (`<@934544234000830525>`).
+- SP discrepancy → RESOLVED (20 Sep night, ticket #583): mod had first set 20,723 in error; captain
+  flagged with teammate's 22,700 + screenshot → mod raised it. **Team max SP = 22,700 confirmed.**
+  Mods read SP MANUALLY ("max sp in the person's hangar at the time we check") — values can drift;
+  automation suggestion relayed to mod. Ticket #583 CLOSED. Bracket 10 re-verify on W6 MM PDF.
+- **mikeyyy_007 = night fury's username** (same person — captain-confirmed 20 Sep). Earlier "mikeyyy"
+  chat-export label was a parse error, coincidental. night fury verified ID `<@934544234000830525>`.
+  "Stain" (Stefania?) = another mod/organizer the captain has discussed SP automation with (role unconfirmed).
 - Mid-season roster changes: RESOLVED by night fury ruling 20 Sep (Ticket #583, verbatim in KB):
   removal allowed anytime, no penalty, team can't drop below 2, SP recalc possible if removed player
   was highest SP; remove BEFORE the week's MM for even pairing (during week = uneven pair).
