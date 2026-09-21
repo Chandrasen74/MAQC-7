@@ -48,6 +48,32 @@ Schedule lock: **Fri 18 Sep 6:00 AM UTC** `<t:1789711200:F>` · `<t:1789711200:R
 Play + pics: **Sun 20 Sep 6:00 AM UTC** `<t:1789884000:F>` · `<t:1789884000:R>`
 ||IST Sun 11:30 AM|| ||EDT Sun 2:00 AM||
 
+## Week 6 (final week — starts Mon 21 Sep 2026)
+**#630 vs @charliebrown0002** (Reg SP 23,300) · Bracket 10 · Map: **Imperial Temple** · Bo3 CPC
+
+Ticket cutoff (LAST of season): **Fri 25 Sep 6:00 AM UTC** `<t:1790316000:F>`
+||IST Fri 11:30 AM|| ||EDT Fri 2:00 AM||
+Match + results deadline = **season end**: **Sun 27 Sep 6:00 AM UTC** `<t:1790488800:F>`
+||IST Sun 11:30 AM|| ||EDT Sun 2:00 AM||
+
+Offered slots (15:00 UTC = 20:30 IST / 11:00 AM EDT):
+| Day | UTC | IST | EDT | stamp |
+| :--- | :--- | :--- | :--- | :--- |
+| Tue 22 Sep | 3:00 PM | 8:30 PM | 11:00 AM | `<t:1790089200:F>` |
+| Thu 24 Sep | 3:00 PM | 8:30 PM | 11:00 AM | `<t:1790262000:F>` |
+| Sat 26 Sep | 3:00 PM | 8:30 PM | 11:00 AM | `<t:1790434800:F>` |
+
+Wednesday practice (assumed usual 9:30 PM IST — confirm): **Wed 23 Sep 16:00 UTC** `<t:1790179200:F>`
+||IST 9:30 PM|| ||EDT 12:00 PM||
+
+## Week 5 (starts Mon 14 Sep 2026)
+**#665 vs BOT** · Bracket 10 · Map: **Forbidden City** (⚠️ same # as W4 — always say "Week 5")
+
+Schedule lock: **Fri 18 Sep 6:00 AM UTC** `<t:1789711200:F>` · `<t:1789711200:R>`
+||IST Fri 11:30 AM|| ||EDT Fri 2:00 AM||
+Play + pics: **Sun 20 Sep 6:00 AM UTC** `<t:1789884000:F>` · `<t:1789884000:R>`
+||IST Sun 11:30 AM|| ||EDT Sun 2:00 AM||
+
 Sat anchor slots (Sat 19 Sep):
 | UTC | IST | EDT | stamp |
 | :--- | :--- | :--- | :--- |

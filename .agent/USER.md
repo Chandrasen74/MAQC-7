@@ -6,7 +6,9 @@
 - **Communication Preference:** Concise + copy-paste-first. Casual tone OK. For meaningful work, propose the plan and confirm consequential steps before implementation.
 
 ## Team context (MAQC S7)
-- Team: akulmach74 · Bracket 10 · Reg SP 23,000 · 5 players (mixed IST + US-EDT).
+- Team: akulmach74 · Bracket 10 · roster 3 (see FINAL line below). **Week 6 (FINAL): match Week 6 #630 vs @charliebrown0002 (Reg SP 23,300, 3 players: 43790139, 8122896, 65346371) · Imperial Temple · Bo3 CPC** — battle-post thread live; opponent leader asked for availability Mon 21 Sep 8:35 AM IST; ticket cutoff Fri 25 Sep 06:00 UTC `<t:1790316000:F>`, match deadline (= season end) Sun 27 Sep 06:00 UTC `<t:1790488800:F>`.
+- **Gladiator = the team's mentor** (captain-stated 21 Sep): consulted for weekly strat plans (W6: Imperial Temple plans pending).
+- **Wednesday practice is the team's standing rhythm** (captain-stated 21 Sep: "as usual"); prior recorded practice Sat 19 Sep ran 9:30 PM IST.
 - Roster (FINAL 20 Sep night): **Akulmach74 (captain, IST) · Gunshot (IST, Discord DM) · Bowolf (EDT)**
   — 3 players, valid (mod min 2). Team max SP corrected to **22,700** (mod raised from erroneous
   20,723 after captain flagged it; was 23,000 at registration). REMOVED 20 Sep 10:49 PM IST by mod
@@ -20,6 +22,7 @@
 - Season record: W1 ❌ loss · W2 ❌ auto-loss · W3 ❌ loss 1-2 · W4 ❌ loss 1-2 (played).
   W5 ✅ WIN 2-0 vs BOT. Overall 1–4.
 - Team tag: `<@&1533818347068850248>`.
+- Captain's workflow at week start: reply to opponent Day-1 in the battle post, then team ping with strats + practice.
 
 ## Constraints & guardrails
 - India players hard stop ~11:30 PM IST. EDT players prefer late morning / midday.

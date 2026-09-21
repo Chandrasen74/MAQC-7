@@ -1,13 +1,14 @@
-# MAQC Season 7 — Team akulmach74 (Bracket 10, SP 23,000)
+# MAQC Season 7 — Team akulmach74 (Bracket 10, roster 3)
 
-## Start here (Week 5, starts Mon 14 Sep 2026)
+## Start here (Week 6 — FINAL WEEK, match Week 6 #630, Imperial Temple)
 | File | What it is |
 | :--- | :--- |
 | `plan.md` | **Planning + maintenance guide.** When to use and update every Markdown file. |
-| `Week_5_Brief.md` | **Live status.** Season record, W5 deadlines, windows, checklist, missing info. |
-| `Week_5_Mod_Questions.md` | **Mod questions + copy-paste Discord drafts.** Short Q&A, full ticket, Day-1 opponent ping. |
-| `Time_Formula_Sheet.md` | Time conversions, Discord stamps, W3 lock + W5 slots. |
-| `MAQC_Knowledge_Base.md` | **Rules only** (v1.1 — includes W2 #671 precedent, W2–W4 maps, W5 deadlines). Do not invent beyond this. |
+| `Week_6_Brief.md` | **Live status.** W6 match #630 vs charliebrown0002, deadlines (ticket Fri 25 Sep / match Sun 27 Sep 06:00 UTC), availability slots, checklist, opponent/team/mentor drafts. |
+| `Week_5_Brief.md` | History (W5 + W6-prep ops, incl. ticket #583 roster saga). |
+| `Week_5_Mod_Questions.md` | History (mod Q&A + ticket #583 full transcript). |
+| `Time_Formula_Sheet.md` | Time conversions, Discord stamps, W5 + W6 slots. |
+| `MAQC_Knowledge_Base.md` | **Rules only** (v1.1 — includes W2 #671 precedent, W1–W6 maps, W6 deadlines). Do not invent beyond this. |
 
 ## History / evidence
 | File | What it is |

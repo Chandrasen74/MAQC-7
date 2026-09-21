@@ -492,7 +492,23 @@ Once moderators intervene, their ruling is final and non-negotiable. Non-complia
 | Match Results Submission | Sunday, 6:00 AM of match week |
 | **Week 5 scheduling lock** | **Friday 18th September, 6:00 AM** (`<t:1789711200:F>`) |
 | **Week 5 play + submit** | **Sunday 20th September, 6:00 AM** (`<t:1789884000:F>`) |
+| **Week 6 ticket deadline (LAST of season)** | **Friday 25th September, 6:00 AM** (`<t:1790316000:F>`) |
+| **Week 6 match + results deadline = season end** | **Sunday 27th September, 6:00 AM** (`<t:1790488800:F>`) |
 | Missing Reward Report | Post-tournament deadline (TBA) |
+
+### Week 6 announcement rules (official announcement, 21 Sep 2026 — reconfirms standing rules for the final week)
+- Ticket deadline **Fri 25 Sep 6:00 AM UTC** (`<t:1790316000:F>`) — "the last ticket deadline of the
+  season and there is nothing after it. Miss it and it's between you and your opponent, or a loss for both."
+- Match deadline **Sun 27 Sep 6:00 AM UTC** (`<t:1790488800:F>`) — "Nothing in the battle post at 06:00
+  means a loss for both teams. The season ends on time whether you played or not."
+- One specific time agreed by both leaders **in the forum post**; rescheduling needs **≥6 hours** notice
+  before the original time; opponent missing at the agreed time → **wait 10 minutes, then ping an active
+  mod in the battle post**; no response after **72 hours** → ticket in #maqc-support-leaders; can't land
+  on a time → ticket under **Scheduling Issue**.
+- "Wrong map means a dispute and a match that will not count. Lobby bots on **Equalize**. Check twice, launch once."
+- After Week 6, **results are final** and A-Coins get paid out (5,000,000 prize pool).
+- Week 6 announcement cited 1,467 teams signed up at season start (announcement figure; KB overview's
+  1,306 teams registered is the later registration figure).
 
 ### Binding precedents from our season (mod rulings observed in battle posts)
 - **Week 2 #671 double-loss (mod night fury):** no time was ever "agreed" because one side gave a
@@ -513,7 +529,7 @@ Once moderators intervene, their ruling is final and non-negotiable. Non-complia
 | Week 3 | Paradise Plaza | CPC (Control Point Clash) |
 | Week 4 | Site 313 | Bo3 (CPC per season format) |
 | Week 5 | Forbidden City (665 matches · 17 bot matches) | CPC (TBC with mod) |
-| Week 6 | TBA | CPC |
+| Week 6 (final) | **Imperial Temple** (official Week 6 announcement, 21 Sep 2026) | CPC — Bo3 |
 
 ### SP Tolerances
 | Tolerance Type | Formula / Margin |

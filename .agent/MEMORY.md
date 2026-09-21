@@ -46,6 +46,21 @@
   mod contact path).
 - Captain's screenshot timestamps are device-local = **IST** (confirmed 20 Sep: `<t:1789970400:F>`
   rendered "Monday, September 21, 2026 at 11:30 AM").
+- **Week 6 (FINAL) confirmed 21 Sep:** Match **Week 6 #630** vs **@charliebrown0002** (Reg SP 23,300,
+  3 players, IDs 43790139/8122896/65346371) · map **Imperial Temple** · Bo3 CPC · lobby Equalize.
+  Our listed Reg SP on the W6 list = **23,000** (registration value); post-removal 22,700 recorded 20 Sep —
+  display discrepancy noted, MM list is the pairing source of truth. List shows only our 3 remaining IDs
+  → removals propagated ✅.
+- W6 official deadlines: ticket **Fri 25 Sep 6:00 AM UTC** `<t:1790316000:F>` (last of season);
+  match + results **Sun 27 Sep 6:00 AM UTC** `<t:1790488800:F>` = season end; reschedule needs ≥6h notice;
+  72h silence → ticket; wrong map = match won't count. After W6: results final, A-Coins paid.
+- Stefania app creates W6 battle-post threads and tags both leaders (same bot that recorded the W5 result).
+- W6 battle-post thread exists; opponent leader Charlie Brown asked "What days and times are you available"
+  Mon 8:35 AM IST → Day-1 reply is the top action (draft in `Week_6_Brief.md`).
+- **Gladiator = team mentor** (captain-stated 21 Sep). Prior mentor references: none in repo — role is
+  captain-stated, not mod/official. Handle not yet captured.
+- **Wednesday practice = standing weekly rhythm** (captain-stated 21 Sep). Only prior dated practice:
+  Sat 19 Sep 9:30 PM IST.
 
 ## Technical lessons & edge cases
 - Diverged local history after a reset: fetch branch → hash-compare trees → `reset --soft`

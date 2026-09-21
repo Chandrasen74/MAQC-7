@@ -1,28 +1,28 @@
-# ACTIVE PLAN — MAQC S7 Week 5 (+ Week 6 prep)
+# ACTIVE PLAN — MAQC S7 Week 6 (FINAL WEEK)
 
-## Current focus
-- [x] **Roster decision EXECUTED (20 Sep night):** final call sent to night fury in ticket #583
-  (~10:38 PM IST); he asked for IDs, captain sent 67665771 + 26410318, night fury REMOVED both and
-  updated the team max SP at 10:49 PM IST. Roster now: captain + Gunshot + Bowolf (3; mod min 2).
-  (Hold-off reply #1 superseded — never sent.)
-- [x] **SP discrepancy RESOLVED (20 Sep night):** mod error 20,723 → corrected to **22,700**
-  (captain screenshot as evidence). mikeyyy_007 = night fury's username. Mods read SP manually
-  (hangar max at check time). Ticket #583 CLOSED.
-- [ ] **FINAL team brief — DRAFTED (⏳ not sent):** in `Week_5_Brief.md` (FINAL TEAM BRIEF section) —
-  W6 squad of 3, SP 22,700, MM drop tomorrow. Captain sends when ready.
-- [ ] **Gunshot reply pending (W6 roster):** DM sent Sun 20 Sep (9:20/9:35 AM IST). **No reply yet.**
-  He counts IN (carrying duo + Sat practice), but confirm his W6 commitment.
-- [x] **Mod questions: ✅ SENT + ✅ REPLIED Sun 20 Sep** — Ticket Tool **#583**, night fury answered
-  all 4 at 4:15 PM IST (verbatim in `Week_5_Mod_Questions.md` W6 PREP + `MAQC_Knowledge_Base.md`).
-- [x] **Team ping: captain confirms he talked to the team + set the 10:00 PM IST deadline (20 Sep).**
-  Replies pending. (Draft text in `Week_5_Brief.md`; sent wording not captured.)
+## Current focus (Week 6, opened 21 Sep — Day 1)
+- [ ] **Reply to Charlie Brown (opponent leader) in the Week 6 #630 thread — TODAY** (he asked for
+  availability Mon 8:35 AM IST). Draft 1 in `Week_6_Brief.md` — ⏳ NOT sent.
+- [ ] **Gladiator (mentor) plans ask — Imperial Temple strats.** Draft 3 in `Week_6_Brief.md` —
+  ⏳ NOT sent. BLOCKER: Gladiator's Discord handle not in repo — get it from the captain.
+- [ ] **Team ping: strats + Wednesday practice.** Draft 2 in `Week_6_Brief.md` — ⏳ NOT sent.
+  Practice time assumed 9:30 PM IST `<t:1790179200:F>` (Wed 23 Sep) — confirm with captain.
+- [ ] **Lock ONE match time with mutual yes before Fri 25 Sep 06:00 UTC** `<t:1790316000:F>`
+  (LAST ticket deadline of the season; after that it's between you and the opponent).
+- [ ] **Gunshot reply pending (carried from 20 Sep DM):** no reply yet; confirm W6 commitment.
+- [ ] Play Bo3 → screenshot EVERY game (unedited) → post all results in the thread before
+  **Sun 27 Sep 06:00 UTC** `<t:1790488800:F>` (season end; nothing posted = loss for both).
 
 ## Backlog & future tasks
-- [ ] Week 6 prep: MM PDF drops Mon 21 Sep — extract match #, opponent, map; same Day-1 flow.
-      Roster resolved (3 players) — plans can lock once the removals are confirmed in-game.
+- [ ] Verify our SP/bracket on the W6 list vs the 22,700 post-removal value (W6 list shows Reg SP
+  23,000 — display discrepancy noted in `Week_6_Brief.md`; MM list is the pairing source of truth).
+- [ ] After the season (results final after 27 Sep): rewards/bracket review + post-season retro.
 - [ ] (Optional, captain-skipped) SP window question — only if captain changes mind.
 
 ## Completed
+- [x] **Week 6 opened (21 Sep):** `Week_6_Brief.md` created (match #630 vs charliebrown0002,
+  Imperial Temple, official deadlines, availability slots, checklist, 3 drafts); KB + Time_Formula_Sheet
+  + README updated; W6 announcement rules filed in KB.
 - [x] Week 5 brief, mod questions + Discord drafts, run plan (repo files).
 - [x] 8 mod questions sent → all answered by night fury (must-play Bo3, Equalize, no lock, 1v1 OK).
 - [x] Plan decided: 1v1 official + Saturday casual practice; follow-up skipped per captain.
