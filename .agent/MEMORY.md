@@ -67,6 +67,14 @@ captain's Week 4 team brief; captain confirmed 21 Sep).
   slots with `||UTC: X||` spoilers + "← best" arrow → "asked lock before <stamp>" → "hangars attached
   below" → "practice Wednesday ~1 hour" line → mentor ping with starter-comp ask. Reuse weekly.
 - Captain on the W6 SP gap (23,300 vs 23,000): "fine, 300 here and there" (21 Sep) — not a concern.
+  **MAQC website profile + W6 MM list both show Reg SP 23,000** (captain check 21 Sep) even after
+  night fury set 22,700 on 20 Sep — display discrepancy stands; captain unconcerned.
+- **Comms:** captain doesn't usually speak on mic but can set up voice comms; asked team + Gladiator
+  how to run comms for the W6 finale (platform / shotcaller / pre-practice warmup) — Draft 4 in
+  `Week_6_Brief.md`, not sent as of 21 Sep.
+- **Team brief (single, captain's W4 format) SENT 21 Sep** — match header, Sat anchors + weekday
+  backups, lock-by stamp, hangars line, Wed practice, Gladiator strat ask. Charlie Brown reply v1
+  SENT 21 Sep; a v2 rewrite with fixed-time emphasis + weekday alternatives exists unsent.
 
 ## Technical lessons & edge cases
 - Diverged local history after a reset: fetch branch → hash-compare trees → `reset --soft`

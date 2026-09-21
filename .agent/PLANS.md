@@ -4,9 +4,12 @@
 - [x] **Reply to Charlie Brown (opponent leader) in the Week 6 #630 thread — ✅ SENT 21 Sep**
   (captain confirmed; exact text recorded in `Week_6_Brief.md`). Offered tue/thu/sat 15:00 UTC;
   await his pick → confirm with "yes" to lock before Fri 25 Sep 06:00 UTC.
-- [ ] **SINGLE team brief (Draft 2 in `Week_6_Brief.md`) — ⏳ NOT sent:** one message covering match
-  #630 + Sat times (12:00 UTC anchor + weekday backups) + lock-by stamp + hangars + Wednesday practice
-  `<t:1790179200:F>` + Gladiator strat ask. Format = captain's Week 4 brief style.
+- [x] **SINGLE team brief (Draft 2 in `Week_6_Brief.md`) — ✅ SENT 21 Sep** (captain confirmed;
+  hangars attached + Gladiator ping included). Sent from the reformatted draft; exact wording not
+  screenshot-verified.
+- [ ] **COMMS setup question (Draft 4 in `Week_6_Brief.md`) — ⏳ NOT sent:** ask team + Gladiator
+  how to run voice comms (platform, shotcaller, pre-practice warmup). Captain doesn't usually speak
+  on mic but will set up whatever's picked.
 - [x] Gladiator's Discord ID ✅ `gladiator_22837` `<@1217130504357413015>` (from captain's W4 brief);
   opponent name **@charliebrown0002** confirmed (bold text in team channel, like W4).
 - [ ] **Lock ONE match time with mutual yes before Fri 25 Sep 06:00 UTC** `<t:1790316000:F>`

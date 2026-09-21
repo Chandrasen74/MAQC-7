@@ -3,7 +3,7 @@
 **Created:** Mon 21 Sep 2026 (Week 6 Day 1) · **Season:** MAQC S7, Week 6 of 6 — the last one
 **Captain:** akulmach74 | **Roster (3):** Akulmach74 (IST) · Gunshot (IST) · Bowolf (EDT) — Equalize bots fill
 **Opponent:** @charliebrown0002 ("Charlie Brown") · Reg SP **23,300** · 3 players (IDs 43790139, 8122896, 65346371)
-**Our listed Reg SP:** 23,000 (registration value shown on the W6 list; post-removal team SP recorded 22,700 on 20 Sep — display discrepancy noted, the list is the pairing source of truth)
+**Our listed Reg SP:** 23,000 — confirmed on the W6 MM list AND the MAQC website profile (captain check 21 Sep). Post-removal team SP night fury set on 20 Sep was 22,700 — the display still reads 23,000; captain's call: "fine, 300 here and there." The list/website is the pairing source of truth.
 **Match:** Week 6 **#630** · **Imperial Temple** · Bo3 CPC · lobby **Equalize** · first to 2 wins (skip game 3 at 2-0)
 **Battle post:** #s07-battle-posts-week-06 → channel by match number **#630** (thread created by the Stefania app; both leaders tagged; captain is "Following")
 
@@ -60,8 +60,9 @@ exact time in the thread + we reply **"yes"** to that exact time. No ranges, no 
 - [x] Battle-post thread found (Stefania app created; both leaders tagged; following)
 - [x] Opponent first contact — Charlie Brown asked for availability 8:35 AM IST Mon 21 Sep
 - [x] **Reply to Charlie Brown with our slots (Draft 1) — ✅ SENT 21 Sep** (verbatim in section 5); awaiting his time pick
+- [ ] **Send the comms-setup question (Draft 4)** — team + Gladiator; voice comms for the finale (captain doesn't usually speak on mic but will set it up)
 - [ ] **Lock the time with a mutual "yes" once Charlie Brown picks** — before Fri 25 Sep 06:00 UTC
-- [ ] **Send the SINGLE team brief (Draft 2)** — one message: match + times + lock + hangars + practice + Gladiator ask
+- [x] **Send the SINGLE team brief (Draft 2)** — ✅ SENT 21 Sep (captain confirmed, hangars + Gladiator ping included)
 - [ ] **Gladiator asked for Imperial Temple plans** — ✅ handle gladiator_22837 `<@1217130504357413015>` (ask is inside Draft 2)
 - [ ] Lock ONE time with mutual yes **before Fri 25 Sep 06:00 UTC** `<t:1790316000:F>`
 - [ ] **Wednesday practice 23 Sep, 16:00 UTC** `<t:1790179200:F>` — standing rhythm (W4 brief also scheduled Wed 16:00 UTC); ~1 hr, Imperial Temple, drop code in chat
@@ -87,7 +88,9 @@ name whichever one works for you right here — once you call one exact time and
 format: Bo3 CPC on Imperial Temple, lobby on Equalize, 3 pilots + bots each side. scheduling cutoff is fri 25 sep 06:00 UTC <t:1790316000:F> so earlier is safer. lfg 🚀
 ```
 
-### Draft 2 — SINGLE TEAM BRIEF (one message: match + times + lock + hangars + practice + Gladiator ask) — Week 4 brief format, captain-requested 21 Sep
+### Draft 2 — SINGLE TEAM BRIEF (match + times + lock + hangars + practice + Gladiator ask) — ✅ **SENT 21 Sep** (captain confirmed; sent from the reformatted draft — gladiator numeric ping + Tue/Thu stamp backups included; exact sent wording not screenshot-verified)
+
+> Notes preserved from drafting: Gladiator = `gladiator_22837` `<@1217130504357413015>` (ID from the captain's Week 4 brief). Opponent = bold text **@charliebrown0002**. Practice Wed 16:00 UTC = the standing rhythm (Week 4 brief also ran Wed practice at 16:00 UTC). Sat anchors +14d from W4: 15:00 `<t:1790434800:F>` / 16:00 `<t:1790438400:F>` (best, 9:30 PM IST) / 17:00 `<t:1790442000:F>` UTC.
 
 ```
 <@&1533818347068850248> Week 6 **#630** vs **@charliebrown0002** · **Imperial Temple** Bo3
@@ -110,6 +113,24 @@ practice **Wednesday ~1 hour** -- **<t:1790179200:F>** ||UTC: 4:00 PM|| **Imperi
 ```
 
 Notes: Gladiator = `gladiator_22837` `<@1217130504357413015>` (ID carried from the captain's Week 4 brief, confirmed 21 Sep). Opponent = bold text **@charliebrown0002** (same pattern as the Week 4 brief's @mecharenazim — no raw numeric ping needed in the team channel). Practice Wed 16:00 UTC = the standing rhythm (Week 4 brief also scheduled Wednesday practice at 16:00 UTC). Extra conversions: Sat 16:00 UTC `<t:1790438400:F>` = 9:30 PM IST / 12:00 PM EDT · Sat 17:00 UTC `<t:1790442000:F>` = 10:30 PM IST / 1:00 PM EDT.
+
+### Draft 4 — COMMS SETUP ask (team + Gladiator) — ⏳ DRAFT, NOT sent (21 Sep)
+
+```
+one more thing team 🗣️ — for the finale we need **comms**. 3-stack vs a coordinated squad = comms win fights.
+
+i don't usually speak on mic but i can get whatever we pick sorted + running — so tell me:
+
+1️⃣ what do we use — discord voice? in-game voice? both?
+2️⃣ who's comfortable calling shots mid-match? (i'll handle setup + text callouts)
+3️⃣ warm up in the channel before wednesday practice <t:1790179200:F>?
+
+<@1217130504357413015> you too mentor — any comms structure you'd recommend for a CPC 3-stack? shotcaller setup, who watches what, when to stack vs rotate 🫡
+```
+
+Notes: kept separate from the (already-sent) team brief. Captain constraint recorded: doesn't usually speak on mic but will set up whatever platform/structure the team picks. Gladiator ping = raw numeric ID so it notifies.
+
+---
 
 ## 6. Standing lessons (don't repeat)
 
