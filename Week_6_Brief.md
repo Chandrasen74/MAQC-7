@@ -60,10 +60,10 @@ exact time in the thread + we reply **"yes"** to that exact time. No ranges, no 
 - [x] Battle-post thread found (Stefania app created; both leaders tagged; following)
 - [x] Opponent first contact — Charlie Brown asked for availability 8:35 AM IST Mon 21 Sep
 - [ ] **Reply to Charlie Brown with our slots (Draft 1) — TODAY** (announcement: ping today, not tomorrow)
-- [ ] **Gladiator (mentor) asked for Imperial Temple plans (Draft 3)** — need his Discord handle first
-- [ ] **Team ping: strats + Wednesday practice (Draft 2)**
+- [ ] **Send the SINGLE team brief (Draft 2)** — one message: match + times + lock + hangars + practice + Gladiator ask
+- [ ] **Gladiator asked for Imperial Temple plans** — ✅ handle gladiator_22837 `<@1217130504357413015>` (ask is inside Draft 2)
 - [ ] Lock ONE time with mutual yes **before Fri 25 Sep 06:00 UTC** `<t:1790316000:F>`
-- [ ] **Wednesday practice 23 Sep** — usual practice day; time assumed 9:30 PM IST `<t:1790179200:F>` (confirm with captain)
+- [ ] **Wednesday practice 23 Sep, 16:00 UTC** `<t:1790179200:F>` — standing rhythm (W4 brief also scheduled Wed 16:00 UTC); ~1 hr, Imperial Temple, drop code in chat
 - [ ] Play Bo3 → screenshot **every game, unedited**, post all results in the thread (2-0 → 2 pics; 2-1 → 3)
 - [ ] Pre-launch check: map = Imperial Temple every game, lobby bot option = Equalize
 - [ ] Gunshot + Bowolf: confirm Week 6 commitment (Gunshot still hasn't replied to the 20 Sep DM)
@@ -86,40 +86,29 @@ name whichever one works for you right here — once you call one exact time and
 format: Bo3 CPC on Imperial Temple, lobby on Equalize, 3 pilots + bots each side. scheduling cutoff is fri 25 sep 06:00 UTC <t:1790316000:F> so earlier is safer. lfg 🚀
 ```
 
-### Draft 2 — Team ping: strats + Wednesday practice (combined; split if you prefer two messages)
+### Draft 2 — SINGLE TEAM BRIEF (one message: match + times + lock + hangars + practice + Gladiator ask) — Week 4 brief format, captain-requested 21 Sep
 
 ```
-<@&1533818347068850248> WEEK 6 — THE FINAL WEEK 🏁
+<@&1533818347068850248> Week 6 **#630** vs **@charliebrown0002** · **Imperial Temple** Bo3
 
-match is in: **Week 6 #630** vs @charliebrown0002 (reg SP 23,300) · map: **IMPERIAL TEMPLE** · Bo3 CPC · Equalize bots. their leader already asked for our times — i've offered tue / thu / sat 8:30 PM IST slots in the battle post.
+already pinged them — they asked for our times first. **exact available times**
 
-**practice as usual: wednesday 23 sep, 9:30 PM IST** <t:1790179200:F> ||UTC: 4:00 PM|| ||EDT: 12:00 PM|| — imperial temple reps: point control, rotations, closing game 3 (both our played losses died there 👀)
+Saturday (prefer weekend, any weekday works):
 
-gladiator (our mentor) is on temple plans — dropping strats in here when they're ready.
+**<t:1790434800:F>** ||UTC: 3:00 PM||  
+→ **<t:1790438400:F>** ||UTC: 4:00 PM||  ← best  
+**<t:1790442000:F>** ||UTC: 5:00 PM||
 
-1️⃣ ✅ react if you're in for wednesday practice
-2️⃣ 🎮 react for which match day works best (tue / thu / sat)
+weekday backup: **<t:1790089200:F>** ||UTC: 3:00 PM|| tue · **<t:1790262000:F>** ||UTC: 3:00 PM|| thu
 
-5 weeks of results are locked. this one writes the ending. let's finish proper 💪
+asked lock before <t:1790316000:F>. hangars attached below.
+
+practice **Wednesday ~1 hour** -- **<t:1790179200:F>** ||UTC: 4:00 PM|| **Imperial Temple**. I'll drop code here.
+
+<@1217130504357413015> any advice on Imperial Temple? thinking starters **Nomad** -> **mid**, **Citadel** -> **effect support**, **Outlaw** -> crash people coming to mid, **Tailsting** -> dmg boosting and securing mid, **Lacewing** -> storms or suppressor to mag dump and do lacewing things — but we're a **3-stack + Equalize bots** now, so how does that comp split across 3 pilots + 2 bot fills? better open? oh and they're 23,300 SP vs our 23,000 — 300 here and there, fine 😤
 ```
 
-Notes: practice time 9:30 PM IST is the assumed "usual" slot (only prior recorded practice = Sat 19 Sep 9:30 PM IST). Confirm or edit the stamp `<t:1790179200:F>` (= Wed 23 Sep 16:00 UTC).
-
-### Draft 3 — Gladiator (mentor) plans ask — **needs his exact Discord handle**
-
-```
-@Gladiator 👋 mentor call for the finale 🙏
-
-**Week 6 #630** vs @charliebrown0002 (reg SP 23,300) — Bo3 CPC on **Imperial Temple**, Equalize bots, 3 of us + bots (me + Gunshot IST, Bowolf EDT).
-
-what we need from you:
-1. comp / loadout picks for CPC point control on temple
-2. early-game rotations + point priority
-3. how we play it as a 3-stack vs their squad
-4. closing game 3 — that's killed us twice this season
-
-opponent's asking for times; i'm offering tue / thu / sat 15:00 UTC. if strats can land before wednesday practice (23 sep, 9:30 PM IST <t:1790179200:F>) we'll run them live there 🫡
-```
+Notes: Gladiator = `gladiator_22837` `<@1217130504357413015>` (ID carried from the captain's Week 4 brief, confirmed 21 Sep). Opponent = bold text **@charliebrown0002** (same pattern as the Week 4 brief's @mecharenazim — no raw numeric ping needed in the team channel). Practice Wed 16:00 UTC = the standing rhythm (Week 4 brief also scheduled Wednesday practice at 16:00 UTC). Extra conversions: Sat 16:00 UTC `<t:1790438400:F>` = 9:30 PM IST / 12:00 PM EDT · Sat 17:00 UTC `<t:1790442000:F>` = 10:30 PM IST / 1:00 PM EDT.
 
 ## 6. Standing lessons (don't repeat)
 

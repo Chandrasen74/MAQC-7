@@ -57,10 +57,16 @@
 - Stefania app creates W6 battle-post threads and tags both leaders (same bot that recorded the W5 result).
 - W6 battle-post thread exists; opponent leader Charlie Brown asked "What days and times are you available"
   Mon 8:35 AM IST → Day-1 reply is the top action (draft in `Week_6_Brief.md`).
-- **Gladiator = team mentor** (captain-stated 21 Sep). Prior mentor references: none in repo — role is
-  captain-stated, not mod/official. Handle not yet captured.
-- **Wednesday practice = standing weekly rhythm** (captain-stated 21 Sep). Only prior dated practice:
-  Sat 19 Sep 9:30 PM IST.
+- **Gladiator = team mentor** — Discord `gladiator_22837` · `<@1217130504357413015>` (ID from the
+captain's Week 4 team brief; captain confirmed 21 Sep).
+- **Wednesday practice = standing weekly rhythm** (captain-stated 21 Sep): W4 team brief scheduled
+  practice Wed 16:00 UTC (`<t:1788969600:F>`); W6 = Wed 23 Sep 16:00 UTC (`<t:1790179200:F>`).
+  Sat 19 Sep casual practice ran 9:30 PM IST.
+- **Captain's team-brief style (Week 4 sample, 21 Sep):** single message — role ping + "Week N **#M**
+  vs **@opponent** · **Map** Bo3" header → "already pinged them. **exact available times**" → weekend
+  slots with `||UTC: X||` spoilers + "← best" arrow → "asked lock before <stamp>" → "hangars attached
+  below" → "practice Wednesday ~1 hour" line → mentor ping with starter-comp ask. Reuse weekly.
+- Captain on the W6 SP gap (23,300 vs 23,000): "fine, 300 here and there" (21 Sep) — not a concern.
 
 ## Technical lessons & edge cases
 - Diverged local history after a reset: fetch branch → hash-compare trees → `reset --soft`

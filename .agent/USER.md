@@ -7,8 +7,9 @@
 
 ## Team context (MAQC S7)
 - Team: akulmach74 · Bracket 10 · roster 3 (see FINAL line below). **Week 6 (FINAL): match Week 6 #630 vs @charliebrown0002 (Reg SP 23,300, 3 players: 43790139, 8122896, 65346371) · Imperial Temple · Bo3 CPC** — battle-post thread live; opponent leader asked for availability Mon 21 Sep 8:35 AM IST; ticket cutoff Fri 25 Sep 06:00 UTC `<t:1790316000:F>`, match deadline (= season end) Sun 27 Sep 06:00 UTC `<t:1790488800:F>`.
-- **Gladiator = the team's mentor** (captain-stated 21 Sep): consulted for weekly strat plans (W6: Imperial Temple plans pending).
-- **Wednesday practice is the team's standing rhythm** (captain-stated 21 Sep: "as usual"); prior recorded practice Sat 19 Sep ran 9:30 PM IST.
+- **Gladiator = the team's mentor** — Discord `gladiator_22837` · `<@1217130504357413015>` (ID carried from the captain's Week 4 team brief; confirmed 21 Sep). Consulted for weekly strat plans (W6: Imperial Temple).
+- **Wednesday practice is the team's standing rhythm**: W4 team brief scheduled practice Wed 16:00 UTC (`<t:1788969600:F>`); W6 uses Wed 23 Sep 16:00 UTC (`<t:1790179200:F>`). Also Sat 19 Sep casual practice ran 9:30 PM IST.
+- **Team brief format (captain's own, from Week 4):** ONE message — role ping + match header → "already pinged them" + exact times with `||UTC: X||` spoilers and an "← best" arrow → "asked lock before" stamp → "hangars attached below" → practice line → mentor ping with starter-comp ask. Reuse this format for weekly team briefs.
 - Roster (FINAL 20 Sep night): **Akulmach74 (captain, IST) · Gunshot (IST, Discord DM) · Bowolf (EDT)**
   — 3 players, valid (mod min 2). Team max SP corrected to **22,700** (mod raised from erroneous
   20,723 after captain flagged it; was 23,000 at registration). REMOVED 20 Sep 10:49 PM IST by mod

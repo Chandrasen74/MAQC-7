@@ -3,10 +3,11 @@
 ## Current focus (Week 6, opened 21 Sep — Day 1)
 - [ ] **Reply to Charlie Brown (opponent leader) in the Week 6 #630 thread — TODAY** (he asked for
   availability Mon 8:35 AM IST). Draft 1 in `Week_6_Brief.md` — ⏳ NOT sent.
-- [ ] **Gladiator (mentor) plans ask — Imperial Temple strats.** Draft 3 in `Week_6_Brief.md` —
-  ⏳ NOT sent. BLOCKER: Gladiator's Discord handle not in repo — get it from the captain.
-- [ ] **Team ping: strats + Wednesday practice.** Draft 2 in `Week_6_Brief.md` — ⏳ NOT sent.
-  Practice time assumed 9:30 PM IST `<t:1790179200:F>` (Wed 23 Sep) — confirm with captain.
+- [ ] **SINGLE team brief (Draft 2 in `Week_6_Brief.md`) — ⏳ NOT sent:** one message covering match
+  #630 + Sat times (12:00 UTC anchor + weekday backups) + lock-by stamp + hangars + Wednesday practice
+  `<t:1790179200:F>` + Gladiator strat ask. Format = captain's Week 4 brief style.
+- [x] Gladiator's Discord ID ✅ `gladiator_22837` `<@1217130504357413015>` (from captain's W4 brief);
+  opponent name **@charliebrown0002** confirmed (bold text in team channel, like W4).
 - [ ] **Lock ONE match time with mutual yes before Fri 25 Sep 06:00 UTC** `<t:1790316000:F>`
   (LAST ticket deadline of the season; after that it's between you and the opponent).
 - [ ] **Gunshot reply pending (carried from 20 Sep DM):** no reply yet; confirm W6 commitment.
@@ -20,6 +21,8 @@
 - [ ] (Optional, captain-skipped) SP window question — only if captain changes mind.
 
 ## Completed
+- [x] **Single team brief drafted in captain's W4 format + IDs baked (21 Sep):** gladiator_22837
+  `<@1217130504357413015>`; practice locked to Wed 16:00 UTC rhythm; SP-gap flag dropped (captain: fine).
 - [x] **Week 6 opened (21 Sep):** `Week_6_Brief.md` created (match #630 vs charliebrown0002,
   Imperial Temple, official deadlines, availability slots, checklist, 3 drafts); KB + Time_Formula_Sheet
   + README updated; W6 announcement rules filed in KB.
