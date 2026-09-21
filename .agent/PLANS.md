@@ -1,8 +1,9 @@
 # ACTIVE PLAN — MAQC S7 Week 6 (FINAL WEEK)
 
 ## Current focus (Week 6, opened 21 Sep — Day 1)
-- [ ] **Reply to Charlie Brown (opponent leader) in the Week 6 #630 thread — TODAY** (he asked for
-  availability Mon 8:35 AM IST). Draft 1 in `Week_6_Brief.md` — ⏳ NOT sent.
+- [x] **Reply to Charlie Brown (opponent leader) in the Week 6 #630 thread — ✅ SENT 21 Sep**
+  (captain confirmed; exact text recorded in `Week_6_Brief.md`). Offered tue/thu/sat 15:00 UTC;
+  await his pick → confirm with "yes" to lock before Fri 25 Sep 06:00 UTC.
 - [ ] **SINGLE team brief (Draft 2 in `Week_6_Brief.md`) — ⏳ NOT sent:** one message covering match
   #630 + Sat times (12:00 UTC anchor + weekday backups) + lock-by stamp + hangars + Wednesday practice
   `<t:1790179200:F>` + Gladiator strat ask. Format = captain's Week 4 brief style.

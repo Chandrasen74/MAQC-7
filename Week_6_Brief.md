@@ -59,7 +59,8 @@ exact time in the thread + we reply **"yes"** to that exact time. No ranges, no 
 - [x] MM out → **Week 6 #630** vs charliebrown0002, Imperial Temple (screenshot evidence, 21 Sep)
 - [x] Battle-post thread found (Stefania app created; both leaders tagged; following)
 - [x] Opponent first contact — Charlie Brown asked for availability 8:35 AM IST Mon 21 Sep
-- [ ] **Reply to Charlie Brown with our slots (Draft 1) — TODAY** (announcement: ping today, not tomorrow)
+- [x] **Reply to Charlie Brown with our slots (Draft 1) — ✅ SENT 21 Sep** (verbatim in section 5); awaiting his time pick
+- [ ] **Lock the time with a mutual "yes" once Charlie Brown picks** — before Fri 25 Sep 06:00 UTC
 - [ ] **Send the SINGLE team brief (Draft 2)** — one message: match + times + lock + hangars + practice + Gladiator ask
 - [ ] **Gladiator asked for Imperial Temple plans** — ✅ handle gladiator_22837 `<@1217130504357413015>` (ask is inside Draft 2)
 - [ ] Lock ONE time with mutual yes **before Fri 25 Sep 06:00 UTC** `<t:1790316000:F>`
@@ -70,7 +71,7 @@ exact time in the thread + we reply **"yes"** to that exact time. No ranges, no 
 
 ## 5. DRAFTS (⏳ all DRAFT — NOT sent, 21 Sep)
 
-### Draft 1 — Reply to Charlie Brown (post in the Week 6 #630 thread) — **SEND FIRST**
+### Draft 1 — Reply to Charlie Brown (post in the Week 6 #630 thread) — ✅ **SENT 21 Sep** (captain confirmed; exact sent text below, verbatim) — ⏳ awaiting his pick
 
 ```
 @Charlie Brown 👋 Week 6 #630 — akulmach74 here, thanks for the quick ping 🤝
