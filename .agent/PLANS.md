@@ -16,7 +16,8 @@
   (the opener hinges on who runs the Voidghost).
 - [ ] **Wednesday practice TOMORROW 23 Sep 16:00 UTC** `<t:1790179200:F>` — Imperial Temple reps;
   log who shows + any Gladiator comp-split/comms answer.
-- [ ] Gunshot: engaged in channel (21 Sep "3v3 ?" / "3v5 ?") but explicit W6 availability unconfirmed.
+- [x] Gunshot: **IN for Week 6** (captain-confirmed 22 Sep). Bowolf: comms answered, availability
+  not explicitly confirmed — nudge if needed.
 - [ ] Play Bo3 → screenshot EVERY game (unedited) → post all results in the thread before
   **Sun 27 Sep 06:00 UTC** `<t:1790488800:F>` (season end; nothing posted = loss for both).
 

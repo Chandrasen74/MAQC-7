@@ -78,7 +78,8 @@ captain's Week 4 team brief; captain confirmed 21 Sep).
   reactive ability back to safety; then keep the charge void alive as long as possible to get mid.
   Captain asked BoWolf 22 Sep 7:05 PM "can you run charge voidghost? practiced them?" — unanswered.
 - **Gunshot 21 Sep 7:34 PM (team channel):** "3v3 ?" [✅] / "3v5 ?" [❌] — asking the W6 match format;
-  3v3 consistent with night fury's even-pair ruling. Engaged, but explicit W6 availability unrecorded.
+  3v3 consistent with night fury's even-pair ruling. **Gunshot is IN for Week 6** (captain-confirmed
+  22 Sep). Bowolf's W6 availability: not explicitly confirmed (comms answered only).
 - **Captain's Discord display names:** **Eipstenian** (team server, BULB badge) / **Akulmach74**
   (battle posts) — same person; OCR aid for future screenshots.
 - **Opponent scout intel (hangar screenshots, OCR-medium, brief §8):** Charlie Brown hangar [A01FU],

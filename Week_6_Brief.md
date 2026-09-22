@@ -75,7 +75,7 @@ exact time in the thread + we reply **"yes"** to that exact time. No ranges, no 
 - [ ] **Wednesday practice 23 Sep, 16:00 UTC** `<t:1790179200:F>` — **tomorrow night IST** (as of this 22 Sep update); standing rhythm (W4 brief also scheduled Wed 16:00 UTC); ~1 hr, Imperial Temple, drop code in chat
 - [ ] Play Bo3 → screenshot **every game, unedited**, post all results in the thread (2-0 → 2 pics; 2-1 → 3)
 - [ ] Pre-launch check: map = Imperial Temple every game, lobby bot option = Equalize
-- [ ] Gunshot + Bowolf: explicit W6 availability still unconfirmed. Gunshot is active in the team channel (21 Sep 7:34 PM: "3v3 ?" [✅] / "3v5 ?" [❌] — asking the match format; 3v3 fits the mod's even-pair ruling). Bowolf answered comms (mobile constraint) but hasn't confirmed match availability.
+- [x] **Gunshot: IN for Week 6** (captain-confirmed 22 Sep). Bowolf answered comms (mobile constraint) but hasn't explicitly confirmed match availability.
 
 ## 5. DRAFTS (⏳ all DRAFT — NOT sent, 21 Sep)
 

@@ -21,7 +21,7 @@
   captain consults him on strats. 20 Sep: captain DM'd him about removing 2 inactive players — no DM
   reply, but he's ACTIVE in the team channel (21 Sep 7:34 PM IST: "3v3 ?" [✅ reaction] / "3v5 ?"
   [❌ reaction] — asking the W6 match format; 3v3 fits the mod's even-pair ruling). Explicit W6
-  availability still unconfirmed.
+  ruling — captain-confirmed 22 Sep: **Gunshot is IN for Week 6**).
 - **BoWolf** (Player, EDT): **plays on mobile — voice comms not feasible for him** (his words, 21 Sep:
   "I think we will be ok without comms but were I play on mobile it's not really possible for me to
   I don't think lol"). Thinks the team is OK without comms. Explicit W6 match availability not yet
