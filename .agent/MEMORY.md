@@ -55,8 +55,8 @@
   match + results **Sun 27 Sep 6:00 AM UTC** `<t:1790488800:F>` = season end; reschedule needs ≥6h notice;
   72h silence → ticket; wrong map = match won't count. After W6: results final, A-Coins paid.
 - Stefania app creates W6 battle-post threads and tags both leaders (same bot that recorded the W5 result).
-- W6 battle-post thread exists; opponent leader Charlie Brown asked "What days and times are you available"
-  Mon 8:35 AM IST → Day-1 reply is the top action (draft in `Week_6_Brief.md`).
+- W6 battle-post thread: full scheduling log verbatim in `Week_6_Brief.md` §5 — currently waiting on
+  Charlie Brown's counter-times (his 22 Sep 2:44 AM message rejected our slots).
 - **Gladiator = team mentor** — Discord `gladiator_22837` · `<@1217130504357413015>` (ID from the
 captain's Week 4 team brief; captain confirmed 21 Sep).
 - **Wednesday practice = standing weekly rhythm** (captain-stated 21 Sep): W4 team brief scheduled
@@ -69,12 +69,32 @@ captain's Week 4 team brief; captain confirmed 21 Sep).
 - Captain on the W6 SP gap (23,300 vs 23,000): "fine, 300 here and there" (21 Sep) — not a concern.
   **MAQC website profile + W6 MM list both show Reg SP 23,000** (captain check 21 Sep) even after
   night fury set 22,700 on 20 Sep — display discrepancy stands; captain unconcerned.
-- **Comms:** captain doesn't usually speak on mic but can set up voice comms; asked team + Gladiator
-  how to run comms for the W6 finale (platform / shotcaller / pre-practice warmup) — Draft 4 in
-  `Week_6_Brief.md`, not sent as of 21 Sep.
+- **Comms:** captain doesn't usually speak on mic. Comms ask SENT 21 Sep 7:34 PM IST (shortened
+  as-sent text in brief §5). **BoWolf 21 Sep 8:02 PM: team OK without comms; he plays on MOBILE so
+  voice isn't possible for him.** Gunshot + Gladiator unanswered on comms. Captain re-pinged Gunshot
+  under the roster update 21 Sep 7:34 PM (nudge, edited).
+- **Gladiator's Imperial Temple plan (verbatim 22 Sep 12:30 AM IST, brief §7):** charge-Voidghost
+  opener — both weapons charged, fire one, activate ability, take middle beacon, fire other weapon,
+  reactive ability back to safety; then keep the charge void alive as long as possible to get mid.
+  Captain asked BoWolf 22 Sep 7:05 PM "can you run charge voidghost? practiced them?" — unanswered.
+- **Gunshot 21 Sep 7:34 PM (team channel):** "3v3 ?" [✅] / "3v5 ?" [❌] — asking the W6 match format;
+  3v3 consistent with night fury's even-pair ruling. Engaged, but explicit W6 availability unrecorded.
+- **Captain's Discord display names:** **Eipstenian** (team server, BULB badge) / **Akulmach74**
+  (battle posts) — same person; OCR aid for future screenshots.
+- **Opponent scout intel (hangar screenshots, OCR-medium, brief §8):** Charlie Brown hangar [A01FU],
+  ID 4790139 (≈ MM-list 43790139 — verify), Inventory Power 124.62k, mechs **Revoker 12 ×2 + Myna**;
+  two teammate hangars ~15.4k / 15.1k, names illegible. Prep only — Reg SP 23,300 stays the pairing
+  number.
 - **Team brief (single, captain's W4 format) SENT 21 Sep** — match header, Sat anchors + weekday
-  backups, lock-by stamp, hangars line, Wed practice, Gladiator strat ask. Charlie Brown reply v1
-  SENT 21 Sep; a v2 rewrite with fixed-time emphasis + weekday alternatives exists unsent.
+  backups, lock-by stamp, hangars line, Wed practice, Gladiator strat ask. As-sent comp ask (edited):
+  **voidghost -> mid, eclipse -> effect support, Outlaw -> crash people coming to mid** (3-mech comp,
+  not the drafted 5-mech list); opponent hangar scout screenshots attached (brief §8).
+- **Scheduling thread (W6 #630, times IST):** Charlie asked 21 Sep 8:35 AM → captain's v2 availability
+  reply SENT 21 Sep 7:17 PM (edited; verbatim in brief §5) → **Charlie 22 Sep 2:44 AM: "All of those
+  times are like 11pm for me and 3am for my teammates" — slots rejected** → captain 22 Sep 7:03 PM
+  asked his timezone (guess: UTC+8 him / UTC+12 teammates — arithmetically consistent with 11pm/3am
+  at 15:00 UTC, but unconfirmed) + 7:12 PM asked for **EXACT** counter-times (both edited).
+  **NO LOCK YET** — must lock before Fri 25 Sep 06:00 UTC `<t:1790316000:F>`.
 
 ## Technical lessons & edge cases
 - Diverged local history after a reset: fetch branch → hash-compare trees → `reset --soft`

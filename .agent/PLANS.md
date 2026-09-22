@@ -1,20 +1,22 @@
 # ACTIVE PLAN — MAQC S7 Week 6 (FINAL WEEK)
 
-## Current focus (Week 6, opened 21 Sep — Day 1)
-- [x] **Reply to Charlie Brown (opponent leader) in the Week 6 #630 thread — ✅ SENT 21 Sep**
-  (captain confirmed; exact text recorded in `Week_6_Brief.md`). Offered tue/thu/sat 15:00 UTC;
-  await his pick → confirm with "yes" to lock before Fri 25 Sep 06:00 UTC.
-- [x] **SINGLE team brief (Draft 2 in `Week_6_Brief.md`) — ✅ SENT 21 Sep** (captain confirmed;
-  hangars attached + Gladiator ping included). Sent from the reformatted draft; exact wording not
-  screenshot-verified.
-- [ ] **COMMS setup question (Draft 4 in `Week_6_Brief.md`) — ⏳ NOT sent:** ask team + Gladiator
-  how to run voice comms (platform, shotcaller, pre-practice warmup). Captain doesn't usually speak
-  on mic but will set up whatever's picked.
-- [x] Gladiator's Discord ID ✅ `gladiator_22837` `<@1217130504357413015>` (from captain's W4 brief);
-  opponent name **@charliebrown0002** confirmed (bold text in team channel, like W4).
-- [ ] **Lock ONE match time with mutual yes before Fri 25 Sep 06:00 UTC** `<t:1790316000:F>`
-  (LAST ticket deadline of the season; after that it's between you and the opponent).
-- [ ] **Gunshot reply pending (carried from 20 Sep DM):** no reply yet; confirm W6 commitment.
+## Current focus (Week 6 — Day 2, Tue 22 Sep)
+- [ ] **TOP: get Charlie Brown's counter-times → lock ONE exact time (mutual "yes" in the thread)
+  before Fri 25 Sep 06:00 UTC** `<t:1790316000:F>`. State: our Sat/Tue/Thu 15:00 UTC slots REJECTED
+  (his 22 Sep 2:44 AM: ~11 PM him / 3 AM teammates); we asked his timezone (guess UTC+8 / UTC+12,
+  unconfirmed) + for EXACT times (7:03 / 7:12 PM IST). Ball in his court — ping him if silent by Wed.
+- [x] Thread availability reply SENT 21 Sep 7:17 PM IST (v2, edited; verbatim in `Week_6_Brief.md` §5).
+- [x] SINGLE team brief SENT 21 Sep — as-sent comp ask (edited): voidghost / eclipse / Outlaw;
+  hangar scout screenshots attached.
+- [x] **Comms ask SENT 21 Sep 7:34 PM IST** → BoWolf: OK without comms, he's on MOBILE (no voice).
+  Gunshot + Gladiator still unanswered on comms.
+- [x] **Gladiator's Imperial Temple plan RECEIVED 22 Sep 12:30 AM IST** (charge-voidghost opener,
+  verbatim in brief §7).
+- [ ] **BoWolf: "can you run charge voidghost? practiced them?" — asked 22 Sep 7:05 PM, no reply yet**
+  (the opener hinges on who runs the Voidghost).
+- [ ] **Wednesday practice TOMORROW 23 Sep 16:00 UTC** `<t:1790179200:F>` — Imperial Temple reps;
+  log who shows + any Gladiator comp-split/comms answer.
+- [ ] Gunshot: engaged in channel (21 Sep "3v3 ?" / "3v5 ?") but explicit W6 availability unconfirmed.
 - [ ] Play Bo3 → screenshot EVERY game (unedited) → post all results in the thread before
   **Sun 27 Sep 06:00 UTC** `<t:1790488800:F>` (season end; nothing posted = loss for both).
 
