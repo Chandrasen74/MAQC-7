@@ -21,12 +21,15 @@
   captain consults him on strats. 20 Sep: captain DM'd him about removing 2 inactive players — no DM
   reply, but he's ACTIVE in the team channel (21 Sep 7:34 PM IST: "3v3 ?" [✅ reaction] / "3v5 ?"
   [❌ reaction] — asking the W6 match format; 3v3 fits the mod's even-pair ruling). Explicit W6
-  ruling — captain-confirmed 22 Sep: **Gunshot is IN for Week 6**).
+  ruling — captain-confirmed 22 Sep: **Gunshot is IN for Week 6**). 23 Sep: at hospital with family, returning home later.
 - **BoWolf** (Player, EDT): **plays on mobile — voice comms not feasible for him** (his words, 21 Sep:
   "I think we will be ok without comms but were I play on mobile it's not really possible for me to
-  I don't think lol"). Thinks the team is OK without comms. 23 Sep: confirmed he can run voidghost
-  charge (12s) — practicing it at Wed 16:00 UTC practice (Gladiator-opener pilot). Explicit W6 match
-  availability still not stated — practice attendance is a positive signal.
+  I don't think lol"). Thinks the team is OK without comms. 23 Sep: confirmed he doesn't have maxed
+  Charge 12s or 16+8 setup, but agreed to buy/upgrade Charge 12s for Voidghost (Gladiator opener pilot).
+  Working late shifts and busy with work calls.
+- **Team Practice Status (Week 6):** Wednesday 23 Sep practice was cancelled due to Gunshot's family
+  situation and BoWolf's work schedule. The team agreed to skip practice for the week and head directly
+  into the match relying on existing team chemistry and familiarity.
 - **Captain's Discord display names (per server):** **Eipstenian** in the team server (all
   team-channel posts, BULB badge) · **Akulmach74** in MAQC battle posts/threads. Same person —
   OCR aid for future screenshots.

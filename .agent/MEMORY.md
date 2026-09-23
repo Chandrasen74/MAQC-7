@@ -79,9 +79,12 @@ captain's Week 4 team brief; captain confirmed 21 Sep).
   opener — both weapons charged, fire one, activate ability, take middle beacon, fire other weapon,
   reactive ability back to safety; then keep the charge void alive as long as possible to get mid.
   Captain asked BoWolf 22 Sep 7:05 PM "can you run charge voidghost? practiced them?" — ✅ ANSWERED
-  23 Sep (relayed by captain): "yes he can run voidghost charge 12s" — practicing it at Wed 23 Sep
-  16:00 UTC practice. Gladiator-opener pilot = BoWolf (charge-Voidghost). "12s" wording unverified —
-  confirm exact meaning at practice if it matters.
+  23 Sep: BoWolf noted he doesn't have maxed Charge 12s or 16+8 setup, but agreed to buy/upgrade Charge 12s
+  for Voidghost. Gladiator-opener pilot = BoWolf (charge-Voidghost).
+- **Wednesday Practice Cancelled (23 Sep):** Practice pinged for 9:30 PM IST / 16:00 UTC (timezone ping
+  confusion 2:00 AM / 11:30 AM fixed). Cancelled due to Gunshot being at hospital with family and BoWolf
+  on late work shifts/calls. Team agreed to skip practice for the week and head straight into Match #630
+  relying on existing synergy and familiarity.
 - **Gunshot 21 Sep 7:34 PM (team channel):** "3v3 ?" [✅] / "3v5 ?" [❌] — asking the W6 match format;
   3v3 consistent with night fury's even-pair ruling. **Gunshot is IN for Week 6** (captain-confirmed
   22 Sep). Bowolf's W6 availability: not explicitly confirmed (comms answered only).

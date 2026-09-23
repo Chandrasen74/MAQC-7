@@ -16,10 +16,8 @@
   in-game text callouts only. Don't re-ask.**
 - [x] **Gladiator's Imperial Temple plan RECEIVED 22 Sep 12:30 AM IST** (charge-voidghost opener,
   verbatim in brief §7).
-- [x] **BoWolf: "can you run charge voidghost? practiced them?" — ✅ ANSWERED 23 Sep: YES, he can run
-  voidghost charge (12s) and is practicing it at today's Wed 16:00 UTC practice** (opener pilot resolved).
-- [ ] **Wednesday practice TODAY 23 Sep 16:00 UTC** `<t:1790179200:F>` — Imperial Temple reps;
-  BoWolf rehearsing charge-voidghost (Gladiator opener); log who shows + any comms answer.
+- [x] **BoWolf: "can you run charge voidghost? practiced them?" — ✅ ANSWERED 23 Sep:** BoWolf noted he doesn't have maxed Charge 12s or 16+8 setup, but agreed to buy/upgrade Charge 12s for Voidghost (Gladiator opener resolved).
+- [x] **Wednesday practice 23 Sep 16:00 UTC `<t:1790179200:F>` — ❌ CANCELLED 23 Sep:** Timezone ping confusion (2:00 AM / 11:30 AM) fixed; cancelled due to Gunshot's family hospital situation and BoWolf's work shifts/calls. Team agreed to skip practice and head straight into Match #630 relying on existing synergy and familiarity.
 - [x] Gunshot: **IN for Week 6** (captain-confirmed 22 Sep). Bowolf: comms answered, availability
   not explicitly confirmed — nudge if needed.
 - [ ] Play Bo3 → screenshot EVERY game (unedited) → post all results in the thread before

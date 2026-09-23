@@ -73,8 +73,7 @@ Thu `<t:1790269200:F>` · Fri `<t:1790355600:F>` · Sat `<t:1790442000:F>`.
 
 Rejected v1 slots (15:00 UTC — Charlie 22 Sep 2:44 AM): Tue `<t:1790089200:F>` · Thu `<t:1790262000:F>` · Sat `<t:1790434800:F>`.
 
-Wednesday practice (assumed usual 9:30 PM IST — confirm): **Wed 23 Sep 16:00 UTC** `<t:1790179200:F>`
-||IST 9:30 PM|| ||EDT 12:00 PM||
+Wednesday practice (Wed 23 Sep 16:00 UTC `<t:1790179200:F>` ||IST 9:30 PM|| ||EDT 12:00 PM||): **CANCELLED 23 Sep** (Gunshot family hospital situation + BoWolf work shifts; team going straight to match).
 
 ## Week 5 (starts Mon 14 Sep 2026)
 **#665 vs BOT** · Bracket 10 · Map: **Forbidden City** (⚠️ same # as W4 — always say "Week 5")
