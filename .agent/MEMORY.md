@@ -90,10 +90,7 @@ captain's Week 4 team brief; captain confirmed 21 Sep).
   22 Sep). Bowolf's W6 availability: not explicitly confirmed (comms answered only).
 - **Captain's Discord display names:** **Eipstenian** (team server, BULB badge) / **Akulmach74**
   (battle posts) — same person; OCR aid for future screenshots.
-- **Opponent scout intel (hangar screenshots, OCR-medium, brief §8):** Charlie Brown hangar [A01FU],
-  ID 4790139 (≈ MM-list 43790139 — verify), Inventory Power 124.62k, mechs **Revoker 12 ×2 + Myna**;
-  two teammate hangars ~15.4k / 15.1k, names illegible. Prep only — Reg SP 23,300 stays the pairing
-  number.
+- **Opponent scout intel (prep reference):** Charlie Brown leader ID 43790139; match Reg SP **23,300** across 3 players (IDs 43790139, 8122896, 65346371). Specific mech/weapon loadout assumptions omitted.
 - **Team brief (single, captain's W4 format) SENT 21 Sep** — match header, Sat anchors + weekday
   backups, lock-by stamp, hangars line, Wed practice, Gladiator strat ask. As-sent comp ask (edited):
   **voidghost -> mid, eclipse -> effect support, Outlaw -> crash people coming to mid** (3-mech comp,

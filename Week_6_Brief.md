@@ -266,11 +266,10 @@ After that its personal preference but charge void alive as long as possible to 
 
 Read: charge-Voidghost opener — both weapons charged, fire one, activate the ability, take the middle beacon, fire the other weapon, reactive ability back to safety; after that keep the charge void alive as long as possible to contest mid. Open question back to BoWolf (22 Sep 7:05 PM IST): *"@BoWolf can you run charge voidghost? practiced them?"* — ✅ **ANSWERED 23 Sep:** BoWolf noted he doesn't have maxed Charge 12s or a 16+8 setup, but agreed to buy/upgrade Charge 12s for Voidghost. Opener pilot resolved = BoWolf runs Charge 12s on Voidghost.
 
-## 8. Opponent scout intel (hangar screenshots attached to the team brief — OCR, medium confidence)
+## 8. Opponent scout intel (prep reference)
 
-- Charlie Brown's hangar: tag **[A01FU] CHARLIE BROWN** · ID **4790139** (OCR; matches MM-list ID 43790139 minus a digit — verify) · Inventory Power **124.62k** · mechs visible: **Revoker 12 ×2 + Myna** (items Lv 7).
-- Two more hangars in the collage (presumably his teammates): inventory powers ~**15,380** / **15,143**, names illegible.
-- Prep reference only — his Reg SP **23,300** stays the matchmaking number.
+- Opponent Leader: @charliebrown0002 (tag `[A01FU] CHARLIE BROWN`, ID 43790139).
+- Matchmaking Reg SP: **23,300** across 3 players (IDs 43790139, 8122896, 65346371). Specific loadout assumptions skipped.
 
 ## 9. Team Chat Log & Practice Decision (Wed 23 Sep)
 
