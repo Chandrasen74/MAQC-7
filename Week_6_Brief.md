@@ -20,8 +20,8 @@
 > teammates Eastern UTC−4 / Pacific UTC−7) + *"I have your comms if your available"*. ⚠️ Math check:
 > under those zones our rejected 15:00 UTC slots were actually **7 AM him / 11 AM New York** — his
 > "11pm/3am" numbers only fit UTC+8/UTC+12 → possible device-region mismatch (Discord `<t:>` renders
-> follow the device clock). Draft 5 (§5) offers **16:00 UTC** slots + asks him to verify his device
-> zone before locking. NOT sent yet. **No lock yet.**
+> follow the device clock). Draft 5 (§5) offers **Sat 26 Sep 16:00 UTC** + asks him to verify his device
+> zone and clarify comms. ✅ **SENT 23 Sep (exact text in §5 Draft 5). Awaiting Charlie's reply / lock.**
 > **Status Wed 23 Sep (Team Chat & Practice):** Practice scheduled for 9:30 PM IST / 16:00 UTC was
 > **CANCELLED**. Gunshot was at hospital with family; BoWolf was on late work shifts/calls. Timezone
 > confusion during ping (rendered 2:00 AM / 11:30 AM) was corrected. Team agreed to skip practice for the
@@ -160,24 +160,22 @@ follow the device clock) or a loose mental conversion. Draft 5 resolves it insid
 **Wed 23 Sep 5:24 AM IST message (verbatim, screenshot):** *"I'm un alaska and they are new York. so
 eastern and pacific time zone"* + *"I have your comms if your available"*
 
-### Draft 5 — Reply to Charlie Brown (16:00 UTC re-based + device-zone check) — ⏳ DRAFT 23 Sep, NOT sent
+### Draft 5 — Reply to Charlie Brown (16:00 UTC re-based + device-zone check) — ✅ **SENT 23 Sep**
 
 ```
-@Charlie Brown legend, that clears it up 🙌 (Week 6 #630) so **you're UTC−8 (alaska)** and your squad is **eastern (UTC−4) / pacific (UTC−7)** — got it 👍
+<@1167844206090387559>  legend, that clears it up 🙌 (Week 6 #630) so **you're UTC−8 (alaska)** and your squad is **eastern (UTC−4) / pacific (UTC−7)** - got it 👍
 
 quick math check tho 👀: my earlier 15:00 UTC slots are actually **7:00 AM in alaska / 11:00 AM new york** — the "11pm for me / 3am for teammates" you mentioned only adds up if your device's clock is set to a different region (discord's <t:> time stamps follow YOUR device's zone). worth a peek in your settings before we lock, cause we might've been looking at the same moments with completely different numbers 😅
 
-so going by your stated zones, here's the window that's humane for ALL of us — **16:00 UTC**:
+so going by your stated zones, here's the window that's humane for ALL of us
 
-• **thu 24 sep, 16:00 UTC** <t:1790265600:F> ||IST: 9:30 PM|| ||Alaska: 8:00 AM|| ||Eastern: 12:00 PM|| ||Pacific: 9:00 AM||
-• **fri 25 sep, 16:00 UTC** <t:1790352000:F> ||IST: 9:30 PM|| ||Alaska: 8:00 AM|| ||Eastern: 12:00 PM|| ||Pacific: 9:00 AM||
 • **sat 26 sep, 16:00 UTC** <t:1790438400:F> ||IST: 9:30 PM|| ||Alaska: 8:00 AM|| ||Eastern: 12:00 PM|| ||Pacific: 9:00 AM|| ← best (weekend for everyone)
 
-9:30 PM IST for my side (safe before my team's 11:30 PM cutoff), midday for your eastern guys, 8 AM for you. heads up: scheduling cutoff is **fri 25 sep 06:00 UTC <t:1790316000:F>** — so saturday needs a yes before then.
+9:30 PM IST for my side (safe before my team's 11:30 PM cutoff), midday for your eastern guys, 8 AM for you. heads up: scheduling cutoff is **fri 25 sep 06:00 UTC <t:1790316000:F>** so saturday needs a yes before then.
 
-name **ONE** exact slot and i'll reply yes right here — that's the lock 🫡
+name **ONE** exact slot if this doesn't work and i'll reply yes right here - that's the lock 🫡
 
-last thing — "i have your comms if your available": just so i don't misread you, do you mean voice comms for the match? our side is settled — we run in-game text callouts, no mics needed on our end (one of my guys is mobile-only). if your squad has a voice channel, you're welcome to use it on your side 🎙️
+last thing; "i have your comms if your available": just so i don't misread you what do you mean?
 ```
 
 *Slots (16:00 UTC = 21:30 IST / 12:00 PM EDT / 8:00 AM AKDT / 9:00 AM PDT): Thu `<t:1790265600:F>` ·
