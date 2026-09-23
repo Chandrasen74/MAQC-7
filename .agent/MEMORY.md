@@ -76,7 +76,10 @@ captain's Week 4 team brief; captain confirmed 21 Sep).
 - **Gladiator's Imperial Temple plan (verbatim 22 Sep 12:30 AM IST, brief §7):** charge-Voidghost
   opener — both weapons charged, fire one, activate ability, take middle beacon, fire other weapon,
   reactive ability back to safety; then keep the charge void alive as long as possible to get mid.
-  Captain asked BoWolf 22 Sep 7:05 PM "can you run charge voidghost? practiced them?" — unanswered.
+  Captain asked BoWolf 22 Sep 7:05 PM "can you run charge voidghost? practiced them?" — ✅ ANSWERED
+  23 Sep (relayed by captain): "yes he can run voidghost charge 12s" — practicing it at Wed 23 Sep
+  16:00 UTC practice. Gladiator-opener pilot = BoWolf (charge-Voidghost). "12s" wording unverified —
+  confirm exact meaning at practice if it matters.
 - **Gunshot 21 Sep 7:34 PM (team channel):** "3v3 ?" [✅] / "3v5 ?" [❌] — asking the W6 match format;
   3v3 consistent with night fury's even-pair ruling. **Gunshot is IN for Week 6** (captain-confirmed
   22 Sep). Bowolf's W6 availability: not explicitly confirmed (comms answered only).

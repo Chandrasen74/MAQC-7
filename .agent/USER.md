@@ -24,8 +24,9 @@
   ruling — captain-confirmed 22 Sep: **Gunshot is IN for Week 6**).
 - **BoWolf** (Player, EDT): **plays on mobile — voice comms not feasible for him** (his words, 21 Sep:
   "I think we will be ok without comms but were I play on mobile it's not really possible for me to
-  I don't think lol"). Thinks the team is OK without comms. Explicit W6 match availability not yet
-  confirmed either.
+  I don't think lol"). Thinks the team is OK without comms. 23 Sep: confirmed he can run voidghost
+  charge (12s) — practicing it at Wed 16:00 UTC practice (Gladiator-opener pilot). Explicit W6 match
+  availability still not stated — practice attendance is a positive signal.
 - **Captain's Discord display names (per server):** **Eipstenian** in the team server (all
   team-channel posts, BULB badge) · **Akulmach74** in MAQC battle posts/threads. Same person —
   OCR aid for future screenshots.

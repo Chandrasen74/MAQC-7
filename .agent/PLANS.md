@@ -15,10 +15,10 @@
   Gunshot + Gladiator still unanswered on comms.
 - [x] **Gladiator's Imperial Temple plan RECEIVED 22 Sep 12:30 AM IST** (charge-voidghost opener,
   verbatim in brief §7).
-- [ ] **BoWolf: "can you run charge voidghost? practiced them?" — asked 22 Sep 7:05 PM, no reply yet**
-  (the opener hinges on who runs the Voidghost).
-- [ ] **Wednesday practice TOMORROW 23 Sep 16:00 UTC** `<t:1790179200:F>` — Imperial Temple reps;
-  log who shows + any Gladiator comp-split/comms answer.
+- [x] **BoWolf: "can you run charge voidghost? practiced them?" — ✅ ANSWERED 23 Sep: YES, he can run
+  voidghost charge (12s) and is practicing it at today's Wed 16:00 UTC practice** (opener pilot resolved).
+- [ ] **Wednesday practice TODAY 23 Sep 16:00 UTC** `<t:1790179200:F>` — Imperial Temple reps;
+  BoWolf rehearsing charge-voidghost (Gladiator opener); log who shows + any comms answer.
 - [x] Gunshot: **IN for Week 6** (captain-confirmed 22 Sep). Bowolf: comms answered, availability
   not explicitly confirmed — nudge if needed.
 - [ ] Play Bo3 → screenshot EVERY game (unedited) → post all results in the thread before

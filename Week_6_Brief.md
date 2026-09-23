@@ -86,9 +86,9 @@ exact time in the thread + we reply **"yes"** to that exact time. No ranges, no 
 - [ ] **Lock the time with a mutual "yes" once Charlie Brown picks** — before Fri 25 Sep 06:00 UTC
 - [x] **Send the SINGLE team brief (Draft 2)** — ✅ SENT 21 Sep (captain confirmed, hangars + Gladiator ping included)
 - [x] **Gladiator's Imperial Temple plan — ✅ RECEIVED 22 Sep 12:30 AM IST** (charge-voidghost opener, verbatim in §7)
-- [ ] **BoWolf: "can you run charge voidghost? practiced them?" — asked 22 Sep 7:05 PM IST, no reply yet** (the opener hinges on it)
+- [x] **BoWolf: "can you run charge voidghost? practiced them?" — ✅ ANSWERED 23 Sep (relayed by captain): YES — he can run voidghost charge (12s) and is practicing it at today's Wednesday practice** (the opener hinges on him — resolved)
 - [ ] Lock ONE time with mutual yes **before Fri 25 Sep 06:00 UTC** `<t:1790316000:F>`
-- [ ] **Wednesday practice 23 Sep, 16:00 UTC** `<t:1790179200:F>` — **tomorrow night IST** (as of this 22 Sep update); standing rhythm (W4 brief also scheduled Wed 16:00 UTC); ~1 hr, Imperial Temple, drop code in chat
+- [ ] **Wednesday practice 23 Sep, 16:00 UTC** `<t:1790179200:F>` — **tonight IST (23 Sep)**; standing rhythm (W4 brief also scheduled Wed 16:00 UTC); ~1 hr, Imperial Temple, drop code in chat. BoWolf confirmed he'll use it to practice voidghost charge (12s) — Gladiator-opener rehearsal.
 - [ ] Play Bo3 → screenshot **every game, unedited**, post all results in the thread (2-0 → 2 pics; 2-1 → 3)
 - [ ] Pre-launch check: map = Imperial Temple every game, lobby bot option = Equalize
 - [x] **Gunshot: IN for Week 6** (captain-confirmed 22 Sep). Bowolf answered comms (mobile constraint) but hasn't explicitly confirmed match availability.
@@ -259,7 +259,7 @@ insane start I love. Charge voidghost get both weapons charged shoot one and act
 After that its personal preference but charge void alive as long as possible to get mid is important
 ```
 
-Read: charge-Voidghost opener — both weapons charged, fire one, activate the ability, take the middle beacon, fire the other weapon, reactive ability back to safety; after that keep the charge void alive as long as possible to contest mid. Open question back to BoWolf (22 Sep 7:05 PM IST): *"@BoWolf can you run charge voidghost? practiced them?"* — no reply yet.
+Read: charge-Voidghost opener — both weapons charged, fire one, activate the ability, take the middle beacon, fire the other weapon, reactive ability back to safety; after that keep the charge void alive as long as possible to contest mid. Open question back to BoWolf (22 Sep 7:05 PM IST): *"@BoWolf can you run charge voidghost? practiced them?"* — ✅ **ANSWERED 23 Sep (relayed by captain): "yes he can run voidghost charge 12s"** — practicing it at today's Wed 16:00 UTC practice `<t:1790179200:F>`. Opener pilot resolved = BoWolf runs the Voidghost. His "12s" wording is unverified (likely charge build/timing) — confirm the exact meaning at practice if it matters.
 
 ## 8. Opponent scout intel (hangar screenshots attached to the team brief — OCR, medium confidence)
 
