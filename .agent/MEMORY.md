@@ -96,6 +96,21 @@ captain's Week 4 team brief; captain confirmed 21 Sep).
   asked his timezone (guess: UTC+8 him / UTC+12 teammates — arithmetically consistent with 11pm/3am
   at 15:00 UTC, but unconfirmed) + 7:12 PM asked for **EXACT** counter-times (both edited).
   **NO LOCK YET** — must lock before Fri 25 Sep 06:00 UTC `<t:1790316000:F>`.
+- **Charlie's timezone ANSWERED (23 Sep 5:24 AM IST, screenshot):** *"I'm un alaska and they are new
+  York. so eastern and pacific time zone"* + *"I have your comms if your available"* → him **AKDT
+  (UTC−8)**, teammates **Eastern (UTC−4) / Pacific (UTC−7)**. This DISPROVES the earlier UTC+8/UTC+12
+  guess (which matched his "11pm/3am" complaint numbers). Under Alaska zones, 15:00 UTC = **7:00 AM him
+  / 11:00 AM NY / 8:00 AM PT** — a morning, not "11pm/3am" → suspect **device-region mismatch** (Discord
+  `<t:>` stamps render per the DEVICE's zone, so wrong device region = wrong displayed time). NOTE: a
+  device-region error on Charlie's side would make BOTH of his complaint readings wrong, and it also
+  means his "I have your comms if your available" might read oddly. Draft 5 (brief §5, ready 23 Sep,
+  **NOT sent**) offers **16:00 UTC Thu/Fri/Sat** (9:30 PM IST / noon EDT / 8 AM AKDT / 9 AM PDT;
+  stamps `<t:1790265600:F>` / `<t:1790352000:F>` / `<t:1790438400:F>`), asks him to check his device
+  region, and clarifies the comms line (our side = text callouts, BoWolf is mobile-only). Fallback if
+  8 AM AK is refused: **17:00 UTC** same days (`<t:1790269200:F>` / `<t:1790355600:F>` /
+  `<t:1790442000:F>`). Practice Wed 23 Sep 16:00 UTC `<t:1790179200:F>` unchanged. Same-day note:
+  screenshots in that timezone chat show "11pm for me and 3am for teammates" from the thread — recorded
+  verbatim in the brief's thread log.
 
 ## Technical lessons & edge cases
 - Diverged local history after a reset: fetch branch → hash-compare trees → `reset --soft`

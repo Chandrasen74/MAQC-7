@@ -1,10 +1,13 @@
 # ACTIVE PLAN — MAQC S7 Week 6 (FINAL WEEK)
 
 ## Current focus (Week 6 — Day 2, Tue 22 Sep)
-- [ ] **TOP: get Charlie Brown's counter-times → lock ONE exact time (mutual "yes" in the thread)
-  before Fri 25 Sep 06:00 UTC** `<t:1790316000:F>`. State: our Sat/Tue/Thu 15:00 UTC slots REJECTED
-  (his 22 Sep 2:44 AM: ~11 PM him / 3 AM teammates); we asked his timezone (guess UTC+8 / UTC+12,
-  unconfirmed) + for EXACT times (7:03 / 7:12 PM IST). Ball in his court — ping him if silent by Wed.
+- [ ] **TOP: SEND Draft 5 (brief §5, ready 23 Sep — NOT sent) → then lock ONE exact time (mutual "yes"
+  in the thread) before Fri 25 Sep 06:00 UTC** `<t:1790316000:F>`. State: our Sat/Tue/Thu 15:00 UTC
+  slots REJECTED (his 22 Sep 2:44 AM: ~11 PM him / 3 AM teammates); Charlie then answered the timezone
+  question (23 Sep 5:24 AM IST): him **Alaska (UTC−8)**, teammates **Eastern / Pacific** — but under
+  those zones 15:00 UTC = 7 AM him / 11 AM NY, so his complaint numbers point to a **device-region
+  mismatch**. Draft 5 offers **16:00 UTC** Thu/Fri/Sat (9:30 PM IST / noon EDT / 8 AM AK) + asks him to
+  check his device zone; also answers his "I have your comms" line (text callouts, no mics needed).
 - [x] Thread availability reply SENT 21 Sep 7:17 PM IST (v2, edited; verbatim in `Week_6_Brief.md` §5).
 - [x] SINGLE team brief SENT 21 Sep — as-sent comp ask (edited): voidghost / eclipse / Outlaw;
   hangar scout screenshots attached.

@@ -8,6 +8,8 @@
 | EST / Colombia | **−5:00** |
 | PDT | **−7:00** |
 | PST | **−8:00** |
+| AKDT (Alaska, current) | **−8:00** |
+| AKST (Alaska, winter) | **−9:00** |
 
 **IST → UTC:** minus 5:30  
 **Colombia → UTC:** plus 5:00  
@@ -56,12 +58,20 @@ Ticket cutoff (LAST of season): **Fri 25 Sep 6:00 AM UTC** `<t:1790316000:F>`
 Match + results deadline = **season end**: **Sun 27 Sep 6:00 AM UTC** `<t:1790488800:F>`
 ||IST Sun 11:30 AM|| ||EDT Sun 2:00 AM||
 
-Offered slots (15:00 UTC = 20:30 IST / 11:00 AM EDT):
-| Day | UTC | IST | EDT | stamp |
-| :--- | :--- | :--- | :--- | :--- |
-| Tue 22 Sep | 3:00 PM | 8:30 PM | 11:00 AM | `<t:1790089200:F>` |
-| Thu 24 Sep | 3:00 PM | 8:30 PM | 11:00 AM | `<t:1790262000:F>` |
-| Sat 26 Sep | 3:00 PM | 8:30 PM | 11:00 AM | `<t:1790434800:F>` |
+Charlie's zones (23 Sep, his words): him **Alaska (AKDT, UTC−8)** · teammates **Eastern (UTC−4) / Pacific (UTC−7)**.
+⚠️ His "11pm / 3am" complaint about 15:00 UTC only fits UTC+8/UTC+12 → device-region check pending (Draft 5).
+
+Offered slots v2 (16:00 UTC = 21:30 IST / 12:00 PM EDT / 8:00 AM AKDT / 9:00 AM PDT) — in Draft 5, NOT sent:
+| Day | UTC | IST | EDT | AKDT | PDT | stamp |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Thu 24 Sep | 4:00 PM | 9:30 PM | 12:00 PM | 8:00 AM | 9:00 AM | `<t:1790265600:F>` |
+| Fri 25 Sep | 4:00 PM | 9:30 PM | 12:00 PM | 8:00 AM | 9:00 AM | `<t:1790352000:F>` |
+| Sat 26 Sep | 4:00 PM | 9:30 PM | 12:00 PM | 8:00 AM | 9:00 AM | `<t:1790438400:F>` |
+
+Fallback if 8 AM AK refused (17:00 UTC = 22:30 IST / 1:00 PM EDT / 9:00 AM AKDT):
+Thu `<t:1790269200:F>` · Fri `<t:1790355600:F>` · Sat `<t:1790442000:F>`.
+
+Rejected v1 slots (15:00 UTC — Charlie 22 Sep 2:44 AM): Tue `<t:1790089200:F>` · Thu `<t:1790262000:F>` · Sat `<t:1790434800:F>`.
 
 Wednesday practice (assumed usual 9:30 PM IST — confirm): **Wed 23 Sep 16:00 UTC** `<t:1790179200:F>`
 ||IST 9:30 PM|| ||EDT 12:00 PM||

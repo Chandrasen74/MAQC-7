@@ -15,6 +15,13 @@
 > are like 11pm for me and 3am for my teammates") → we asked his timezone (guess UTC+8 / UTC+12,
 > unconfirmed) + told him to suggest **EXACT** times (7:03 / 7:12 PM IST). **No lock yet.**
 > Gladiator answered the strat ask (§7); comms ask sent, BoWolf says he's mobile (§5 Draft 4).
+> **Status Wed 23 Sep (5:24 AM IST, screenshot):** Charlie answered the timezone question —
+> **"I'm un alaska and they are new York. so eastern and pacific time zone"** (him UTC−8 AKDT,
+> teammates Eastern UTC−4 / Pacific UTC−7) + *"I have your comms if your available"*. ⚠️ Math check:
+> under those zones our rejected 15:00 UTC slots were actually **7 AM him / 11 AM New York** — his
+> "11pm/3am" numbers only fit UTC+8/UTC+12 → possible device-region mismatch (Discord `<t:>` renders
+> follow the device clock). Draft 5 (§5) offers **16:00 UTC** slots + asks him to verify his device
+> zone before locking. NOT sent yet. **No lock yet.**
 
 ---
 
@@ -47,13 +54,22 @@ the A-Coins get paid out** · wrong map = dispute + match won't count; lobby bot
 
 **Record: 1–4.** Week 6 is the last chance to move it, up or down.
 
-## 3. Availability to offer (IST hard stop ~11:30 PM · EDT likes late morning)
+## 3. Availability to offer (IST hard stop ~11:30 PM · opponent zones: Alaska / Eastern / Pacific)
 
-| Slot | UTC | IST | EDT | stamp |
-| :--- | :--- | :--- | :--- | :--- |
-| Tue 22 Sep | 3:00 PM | 8:30 PM | 11:00 AM | `<t:1790089200:F>` |
-| Thu 24 Sep | 3:00 PM | 8:30 PM | 11:00 AM | `<t:1790262000:F>` |
-| Sat 26 Sep | 3:00 PM | 8:30 PM | 11:00 AM | `<t:1790434800:F>` |
+Charlie's stated zones (23 Sep): him **Alaska (AKDT, UTC−8)** · teammates **Eastern (UTC−4) / Pacific (UTC−7)**.
+His "11pm / 3am" complaint about the old 15:00 UTC slots doesn't recompute under those zones → device-zone
+check is inside Draft 5. Current offer (Draft 5, NOT sent): **16:00 UTC** = 9:30 PM IST / 12:00 PM EDT /
+8:00 AM AKDT / 9:00 AM PDT.
+
+| Slot | UTC | IST | EDT | AKDT | PDT | stamp |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Thu 24 Sep | 4:00 PM | 9:30 PM | 12:00 PM | 8:00 AM | 9:00 AM | `<t:1790265600:F>` |
+| Fri 25 Sep | 4:00 PM | 9:30 PM | 12:00 PM | 8:00 AM | 9:00 AM | `<t:1790352000:F>` |
+| Sat 26 Sep | 4:00 PM | 9:30 PM | 12:00 PM | 8:00 AM | 9:00 AM | `<t:1790438400:F>` |
+
+Fallback (+1h, if 8 AM AKDT refused): **17:00 UTC** = 10:30 PM IST / 1:00 PM EDT / 9:00 AM AKDT —
+Thu `<t:1790269200:F>` · Fri `<t:1790355600:F>` · Sat `<t:1790442000:F>`.
+Rejected v1 (15:00 UTC — his 22 Sep 2:44 AM): Tue `<t:1790089200:F>` · Thu `<t:1790262000:F>` · Sat `<t:1790434800:F>`.
 
 W2 #671 lesson stands: these are **options**, not a lock. A valid lock = Charlie Brown names **one**
 exact time in the thread + we reply **"yes"** to that exact time. No ranges, no unilateral picks.
@@ -127,8 +143,43 @@ one heads-up: we can't lock a window or a range - it has to be **one fixed time*
 | Tue 22 Sep 2:44 AM | Charlie Brown | "All of those times are like 11pm for me and 3am for my teammates" |
 | Tue 22 Sep 7:03 PM | Akulmach74 | "@Charlie Brown May I know your timezone? So we can adjust? I'm guessing UTC+8 along the lines of singapore, china and phillipines and you're teamates being at UTC+12 along the lines of new zealand?" (edited) |
 | Tue 22 Sep 7:12 PM | Akulmach74 | "@Charlie Brown suggest some **EXACT** times on which you're available too" (edited) |
+| Wed 23 Sep 5:24 AM | Charlie Brown | "I'm un alaska and they are new York. so eastern and pacific time zone" + "I have your comms if your available" |
 
-Note: the UTC+8 / UTC+12 guess is arithmetically consistent with Charlie's "11pm / 3am" (our 15:00 UTC slots = 23:00 UTC+8 = 03:00 UTC+12) but **unconfirmed by Charlie**. **No time locked.**
+Note update (Wed 23 Sep): the UTC+8 / UTC+12 guess matched Charlie's complaint numbers exactly but is
+**DISPROVEN by his own answer** — he says Alaska (UTC−8) / New York Eastern (UTC−4) / Pacific (UTC−7).
+Under those zones our 15:00 UTC slots were 7:00 AM him / 11:00 AM EDT / 8:00 AM PDT — a normal morning,
+NOT "11pm / 3am". His complaint numbers only fit a **device-region mismatch** (Discord `<t:>` renders
+follow the device clock) or a loose mental conversion. Draft 5 resolves it inside the thread: offer
+16:00 UTC + ask him to check what the stamps render / his device region. **No time locked.**
+
+**Wed 23 Sep 5:24 AM IST message (verbatim, screenshot):** *"I'm un alaska and they are new York. so
+eastern and pacific time zone"* + *"I have your comms if your available"*
+
+### Draft 5 — Reply to Charlie Brown (16:00 UTC re-based + device-zone check) — ⏳ DRAFT 23 Sep, NOT sent
+
+```
+@Charlie Brown legend, that clears it up 🙌 (Week 6 #630) so **you're UTC−8 (alaska)** and your squad is **eastern (UTC−4) / pacific (UTC−7)** — got it 👍
+
+quick math check tho 👀: my earlier 15:00 UTC slots are actually **7:00 AM in alaska / 11:00 AM new york** — the "11pm for me / 3am for teammates" you mentioned only adds up if your device's clock is set to a different region (discord's <t:> time stamps follow YOUR device's zone). worth a peek in your settings before we lock, cause we might've been looking at the same moments with completely different numbers 😅
+
+so going by your stated zones, here's the window that's humane for ALL of us — **16:00 UTC**:
+
+• **thu 24 sep, 16:00 UTC** <t:1790265600:F> ||IST: 9:30 PM|| ||Alaska: 8:00 AM|| ||Eastern: 12:00 PM|| ||Pacific: 9:00 AM||
+• **fri 25 sep, 16:00 UTC** <t:1790352000:F> ||IST: 9:30 PM|| ||Alaska: 8:00 AM|| ||Eastern: 12:00 PM|| ||Pacific: 9:00 AM||
+• **sat 26 sep, 16:00 UTC** <t:1790438400:F> ||IST: 9:30 PM|| ||Alaska: 8:00 AM|| ||Eastern: 12:00 PM|| ||Pacific: 9:00 AM|| ← best (weekend for everyone)
+
+9:30 PM IST for my side (safe before my team's 11:30 PM cutoff), midday for your eastern guys, 8 AM for you. heads up: scheduling cutoff is **fri 25 sep 06:00 UTC <t:1790316000:F>** — so saturday needs a yes before then.
+
+name **ONE** exact slot and i'll reply yes right here — that's the lock 🫡
+
+last thing — "i have your comms if your available": just so i don't misread you, do you mean voice comms for the match? our side runs text callouts (one of my guys is mobile-only), so no mics needed from us — but if your squad has a voice channel, drop an invite and we'll hop in if we can 🎙️
+```
+
+*Slots (16:00 UTC = 21:30 IST / 12:00 PM EDT / 8:00 AM AKDT / 9:00 AM PDT): Thu `<t:1790265600:F>` ·
+Fri `<t:1790352000:F>` · Sat `<t:1790438400:F>`. Internal fallback if 8 AM AK refused: **17:00 UTC** =
+9:00 AM AK / 1:00 PM EDT / 10:30 PM IST (Thu `<t:1790269200:F>` · Fri `<t:1790355600:F>` ·
+Sat `<t:1790442000:F>`) — still inside the 11:30 PM IST stop. Do NOT re-offer the old 15:00 UTC slots
+until the zone/device check is resolved.*
 
 ### Draft 2 — SINGLE TEAM BRIEF (match + times + lock + hangars + practice + Gladiator ask) — ✅ **SENT 21 Sep** (captain confirmed; sent from the reformatted draft — gladiator numeric ping + Tue/Thu stamp backups included; exact sent wording not screenshot-verified)
 
@@ -192,6 +243,13 @@ Notes: kept separate from the (already-sent) team brief. Captain constraint reco
 - **Screenshots:** every game, unedited, posted in the thread — a single result is not accepted.
 - **Wrong map = match won't count** — Imperial Temple, check twice, launch once.
 - **Battle post only:** DMs and other servers don't exist for disputes.
+- **Timezone guesses ≠ facts (W6):** two different zone-guesses fit Charlie's "11pm / 3am" numbers —
+  the real answer (Alaska UTC−8 / NY Eastern / Pacific) only came out when we ASKED. And even then his
+  numbers didn't recompute (15:00 UTC = 7 AM AKDT, not 11 PM) → suspect a device-region mismatch
+  (Discord `<t:>` stamps follow the device clock). Verify zone + device before trusting ANY mental math.
+- **Anchor offers to the opponent's local time, then cross-check ours:** the humane W6 window for
+  IST + EDT + AKDT + PDT together is **16:00–17:00 UTC** (8–9 AM AK / 12–1 PM NY / 9–10 AM PT /
+  9:30–10:30 PM IST). Don't re-offer 15:00+ UTC slots to this opponent until the zone check is resolved.
 
 ## 7. Gladiator's Imperial Temple plan (verbatim, 22 Sep 12:30 AM IST — reply to the team brief's strat ask)
 
