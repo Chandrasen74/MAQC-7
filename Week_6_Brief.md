@@ -82,7 +82,7 @@ exact time in the thread + we reply **"yes"** to that exact time. No ranges, no 
 - [x] **Reply to Charlie Brown with our slots — ✅ SENT 21 Sep 7:17 PM IST** (v2 content, edited; verbatim in §5) → his 22 Sep 2:44 AM reply: those times are ~11 PM for him / 3 AM for teammates → **rejected, no lock yet**
 - [x] Asked Charlie Brown his timezone (guess: UTC+8 him / UTC+12 teammates — unconfirmed) + told him to suggest **EXACT** times (22 Sep 7:03 / 7:12 PM IST, both edited)
 - [ ] **Get Charlie Brown's counter-times → confirm ONE exact time with "yes" — before Fri 25 Sep 06:00 UTC** `<t:1790316000:F>`
-- [x] **Comms-setup question (Draft 4) — ✅ SENT 21 Sep 7:34 PM IST** (shortened as-sent text in §5) → BoWolf replied 8:02 PM: **team OK without comms — he plays on mobile, voice isn't possible for him** · Gunshot + Gladiator haven't answered comms
+- [x] **Comms — ✅ RESOLVED 23 Sep (captain's call): NO voice comms for W6, in-game text callouts.** Ask was SENT 21 Sep 7:34 PM IST (Draft 4, §5) → BoWolf 8:02 PM: OK without comms, mobile-only · Gunshot never answered (moot) · Gladiator never answered. Captain closed it — don't re-ask.
 - [ ] **Lock the time with a mutual "yes" once Charlie Brown picks** — before Fri 25 Sep 06:00 UTC
 - [x] **Send the SINGLE team brief (Draft 2)** — ✅ SENT 21 Sep (captain confirmed, hangars + Gladiator ping included)
 - [x] **Gladiator's Imperial Temple plan — ✅ RECEIVED 22 Sep 12:30 AM IST** (charge-voidghost opener, verbatim in §7)
@@ -172,7 +172,7 @@ so going by your stated zones, here's the window that's humane for ALL of us —
 
 name **ONE** exact slot and i'll reply yes right here — that's the lock 🫡
 
-last thing — "i have your comms if your available": just so i don't misread you, do you mean voice comms for the match? our side runs text callouts (one of my guys is mobile-only), so no mics needed from us — but if your squad has a voice channel, drop an invite and we'll hop in if we can 🎙️
+last thing — "i have your comms if your available": just so i don't misread you, do you mean voice comms for the match? our side is settled — we run in-game text callouts, no mics needed on our end (one of my guys is mobile-only). if your squad has a voice channel, you're welcome to use it on your side 🎙️
 ```
 
 *Slots (16:00 UTC = 21:30 IST / 12:00 PM EDT / 8:00 AM AKDT / 9:00 AM PDT): Thu `<t:1790265600:F>` ·
@@ -231,7 +231,7 @@ Notes: kept separate from the (already-sent) team brief. Captain constraint reco
 @Akulmachs maqc7 team one more thing team 🗣️ - for the finale we need **comms**. 3-stack vs a coordinated squad = comms win fights. i don't usually speak on mic but i can get whatever we pick sorted + running - so tell me if you're comfortable with comms..and do we really need it?
 ```
 
-**Replies:** **BoWolf (21 Sep 8:02 PM IST):** "I think we will be ok without comms but were I play on mobile it's not really possible for me to I don't think lol" [✅ 👍 reactions]. Gunshot + Gladiator: no comms answer yet. Also 21 Sep 7:34 PM IST: captain re-pinged Gunshot ("@⭐GuNShoT⭐ 👇", edited) under his own roster-update announcement — a nudge for the W6 commitment.
+**Replies:** **BoWolf (21 Sep 8:02 PM IST):** "I think we will be ok without comms but were I play on mobile it's not really possible for me to I don't think lol" [✅ 👍 reactions]. Gunshot + Gladiator: no comms answer. Also 21 Sep 7:34 PM IST: captain re-pinged Gunshot ("@⭐GuNShoT⭐ 👇", edited) under his own roster-update announcement — a nudge for the W6 commitment. **RESOLVED 23 Sep (captain): no voice comms for W6 — in-game text callouts; unanswered asks are moot, item closed.**
 
 ---
 

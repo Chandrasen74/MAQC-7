@@ -71,7 +71,9 @@ captain's Week 4 team brief; captain confirmed 21 Sep).
   night fury set 22,700 on 20 Sep — display discrepancy stands; captain unconcerned.
 - **Comms:** captain doesn't usually speak on mic. Comms ask SENT 21 Sep 7:34 PM IST (shortened
   as-sent text in brief §5). **BoWolf 21 Sep 8:02 PM: team OK without comms; he plays on MOBILE so
-  voice isn't possible for him.** Gunshot + Gladiator unanswered on comms. Captain re-pinged Gunshot
+  voice isn't possible for him.** Gunshot + Gladiator never answered on comms — **RESOLVED 23 Sep
+  (captain's call): NO voice comms for W6, in-game text callouts only; unanswered asks moot, item
+  closed, don't re-ask.** Captain re-pinged Gunshot
   under the roster update 21 Sep 7:34 PM (nudge, edited).
 - **Gladiator's Imperial Temple plan (verbatim 22 Sep 12:30 AM IST, brief §7):** charge-Voidghost
   opener — both weapons charged, fire one, activate ability, take middle beacon, fire other weapon,

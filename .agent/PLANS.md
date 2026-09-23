@@ -11,8 +11,9 @@
 - [x] Thread availability reply SENT 21 Sep 7:17 PM IST (v2, edited; verbatim in `Week_6_Brief.md` §5).
 - [x] SINGLE team brief SENT 21 Sep — as-sent comp ask (edited): voidghost / eclipse / Outlaw;
   hangar scout screenshots attached.
-- [x] **Comms ask SENT 21 Sep 7:34 PM IST** → BoWolf: OK without comms, he's on MOBILE (no voice).
-  Gunshot + Gladiator still unanswered on comms.
+- [x] **Comms ask SENT 21 Sep 7:34 PM IST** → BoWolf: OK without comms (MOBILE, no voice).
+  Gunshot + Gladiator never answered — **captain closed it 23 Sep: NO voice comms for W6,
+  in-game text callouts only. Don't re-ask.**
 - [x] **Gladiator's Imperial Temple plan RECEIVED 22 Sep 12:30 AM IST** (charge-voidghost opener,
   verbatim in brief §7).
 - [x] **BoWolf: "can you run charge voidghost? practiced them?" — ✅ ANSWERED 23 Sep: YES, he can run
