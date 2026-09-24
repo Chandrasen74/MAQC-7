@@ -2,8 +2,8 @@
 
 ## Current focus (Week 6 — Day 4, Thu 24 Sep)
 - [x] **Time locked: Saturday 26 Sep 16:00 UTC `<t:1790438400:F>`** (Charlie agreed + mod night fury reacted 👍).
-- [x] Draft 6 SENT in battle post #630.
-- [ ] **Send Draft 7 in team channel** (strat & match time brief).
+- [x] Draft 6 SENT 24 Sep 6:45 PM IST in battle post #630 (Screenshot `185314.png`).
+- [x] Draft 7 SENT 24 Sep 6:52 PM IST in team channel (Screenshot `185252.png`).
 - [x] Thread availability reply SENT 21 Sep 7:17 PM IST (v2, edited; verbatim in `Week_6_Brief.md` §5).
 - [x] SINGLE team brief SENT 21 Sep — as-sent comp ask (edited): voidghost / eclipse / Outlaw;
   hangar scout screenshots attached.

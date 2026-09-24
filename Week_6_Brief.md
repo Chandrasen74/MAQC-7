@@ -189,23 +189,24 @@ Fri `<t:1790352000:F>` · Sat `<t:1790438400:F>`. Internal fallback if 8 AM AK r
 Sat `<t:1790442000:F>`) — still inside the 11:30 PM IST stop. Do NOT re-offer the old 15:00 UTC slots
 until the zone/device check is resolved.*
 
-### Draft 6 — Mutual Lock Confirmation (Battle Post #630) — ✅ **SENT 24 Sep (Mod reacted 👍)**
+### Draft 6 — Mutual Lock Confirmation (Battle Post #630) — ✅ **SENT 24 Sep 6:45 PM IST (Mod night fury reacted 👍)**
 
 ```
 <@1167844206090387559> <@934544234000830525>
 
-Locked in 🤝
+Locked in
 
 Week 6 #630 time confirmed:
 • <t:1790438400:F> (16:00 UTC) ||IST 9:30 PM|| ||Alaska 8:00 AM|| ||Eastern 12:00 PM|| ||Pacific 9:00 AM||
 • Imperial Temple · Bo3 CPC · Equalize
 
-All good on comms, we're running no-voice too so we're on the same page.
+All good on comms, were running no-voice too so we're on the same page.
 
 Pinged mod here to lock the time before the Friday cutoff. See you Saturday, I'll drop the match code in the thread right when we start!
 ```
+*(Evidence: `Screenshot 2026-09-24 185314.png`)*
 
-### Draft 7 — Final Team Strat & Match Briefing (Team Channel) — ⏳ READY TO SEND (24 Sep)
+### Draft 7 — Final Team Strat & Match Briefing (Team Channel) — ✅ **SENT 24 Sep 6:52 PM IST**
 
 ```
 <@&1533818347068850248> match is locked for <t:1790438400:F>, mod thumbs-upped it so we're set.
@@ -213,12 +214,13 @@ Pinged mod here to lock the time before the Friday cutoff. See you Saturday, I'l
 Imperial Temple, Bo3 CPC with equalize bots. Opponent confirmed no voice comms on their end either, so text/in-game callouts for us as planned.
 
 Opening strat:
-BoWolf opens Charge Voidghost — charge up before grabbing mid beacon, pop ability to cap safely, dump shots, phase back out, and keep Voidghost alive to hold mid control.
-Gunshot on Outlaw to flank/crash anyone pushing mid.
-I'll run Eclipse/Void support to help secure it.
+BoWolf opens Charge Voidghost, charge up before grabbing mid beacon, pop ability to cap safely, dump shots, phase back out, and keep Voidghost alive to hold mid control.
+Gunshot on Outlaw to crash anyone pushing mid.
+I'll run Eclipse support to help secure it.
 
 Be ready a few mins before <t:1790438400:F>, I'll drop the lobby code in here as soon as we make it!
 ```
+*(Evidence: `Screenshot 2026-09-24 185252.png`)*
 
 ### Draft 2 — SINGLE TEAM BRIEF (match + times + lock + hangars + practice + Gladiator ask) — ✅ **SENT 21 Sep** (captain confirmed; sent from the reformatted draft — gladiator numeric ping + Tue/Thu stamp backups included; exact sent wording not screenshot-verified)
 
