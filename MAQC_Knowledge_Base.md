@@ -1,7 +1,7 @@
 # Mech Arena Quarterly Clash (MAQC) Season 7 Knowledge Base
 
-**Version**: 1.1  
-**Last Updated**: 14 September 2026 (Weeks 2–4 results/maps + Week 2 #671 precedent added)  
+**Version**: 1.2
+**Last Updated**: 24 September 2026 (Week 6 #630 Ticket #267 gross misconduct precedent added)
 
 **Source Documents**: 
 - `Mech Arena Quarterly Clash - Information Guide.pdf` (Version 1.0, Issued 26 July 2026)
@@ -517,6 +517,10 @@ Once moderators intervene, their ruling is final and non-negotiable. Non-complia
   in the battle post. No ranges, no unilateral picks.
 - **Week 2 #671 live ruling (mod night fury):** *"Both teams enter the game now and play. Whoever is
   available plays and you equalize teams."* Basis for the min-players/bots question in Week 5.
+- **Week 6 #630 gross misconduct & DM threats disqualification (mod night fury, Ticket #267, 24 Sep 2026):**
+  Opponent leader charliebrown0002 sent hostile DMs containing aggressive physical threats, abusive profanity, and physical confrontation challenges, while refusing cooperation in the battle post. Mod night fury ruled:
+  *"Your team is being disqualified from this season for gross misconduct from your end. These screenshots show severe violations of the tournament's Code of Conduct as well as the server's. Your behaviour includes sending DMs containing aggressive physical threats, profanity, inappropriate comments and threats of violence. Any such offenses in the future could result in a permanent ban from the server depending on its severity. @Akulmach74 As a result, your team has to play bot matches with the equalize teams option selected."*
+  Standing precedent: Severe DM harassment / violent threats lead to immediate season disqualification of the offending team; victim team is awarded a bot match (Equalize setting) on the scheduled map.
 - **Bot-setting doc conflict (unresolved, ask mod):** Info Guide p.3 allows "Fill with bots" OR
   "Equalize with bots" if both sides agree; Week 1 bot-rules announcement mandates **Equalize**.
   Default to Equalize until a mod confirms otherwise.

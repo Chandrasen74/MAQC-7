@@ -55,8 +55,7 @@
   match + results **Sun 27 Sep 6:00 AM UTC** `<t:1790488800:F>` = season end; reschedule needs ≥6h notice;
   72h silence → ticket; wrong map = match won't count. After W6: results final, A-Coins paid.
 - Stefania app creates W6 battle-post threads and tags both leaders (same bot that recorded the W5 result).
-- W6 battle-post thread: full scheduling log verbatim in `Week_6_Brief.md` §5 — currently waiting on
-  Charlie Brown's counter-times (his 22 Sep 2:44 AM message rejected our slots).
+- **Week 6 Match #630 Status (24 Sep 2026):** Opponent @charliebrown0002 DISQUALIFIED for gross misconduct. After initially agreeing to Sat 26 Sep 16:00 UTC, Charlie Brown reneged, attacked captain in battle post, and sent hostile DMs containing severe profanity, violent threats, and physical address challenge. Captain opened Ticket #267 (`#player-conduct-akulmach74-0267`). Mod night fury ruled: Charlie Brown's team is disqualified from Season 7; Team akulmach74 must play Bo3 bot matches on Imperial Temple with Equalize teams option selected. Ruling forwarded to battle post #630.
 - **Gladiator = team mentor** — Discord `gladiator_22837` · `<@1217130504357413015>` (ID from the
 captain's Week 4 team brief; captain confirmed 21 Sep).
 - **Wednesday practice = standing weekly rhythm** (captain-stated 21 Sep): W4 team brief scheduled

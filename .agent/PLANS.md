@@ -1,7 +1,25 @@
 # ACTIVE PLAN — MAQC S7 Week 6 (FINAL WEEK)
 
 ## Current focus (Week 6 — Day 4, Thu 24 Sep)
-- [x] **Time locked: Saturday 26 Sep 16:00 UTC `<t:1790438400:F>`** (Charlie agreed + mod night fury reacted 👍).
+- [x] **Ticket #267 Resolved:** Reported charliebrown0002 for toxic conduct and physical threats in DMs/thread.
+- [x] **Opponent Disqualified:** Mod night fury disqualified Charlie Brown's team from Season 7 for gross misconduct.
+- [x] **Match Converted to BOT Match:** Mod night fury instructed Team akulmach74 to play against bots with Equalize teams option selected.
+- [ ] **Run Bo3 Match vs Bots:**
+  - Gamemode/Map: CPC on **Imperial Temple**
+  - Setting: **Equalize**
+  - Minimum 1 human needed (can be run solo or with teammates).
+- [ ] **Screenshot each game unedited** (2-0 = 2 screenshots).
+- [ ] **Post results in battle post #630** before **Sun 27 Sep 06:00 UTC** `<t:1790488800:F>` (season deadline).
+
+## Backlog & future tasks
+- [ ] Verify our SP/bracket on the W6 list vs the 22,700 post-removal value (W6 list shows Reg SP
+  23,000 — display discrepancy noted in `Week_6_Brief.md`; MM list is the pairing source of truth).
+- [ ] After the season (results final after 27 Sep): rewards/bracket review + post-season retro.
+- [ ] (Optional, captain-skipped) SP window question — only if captain changes mind.
+
+## Completed
+- [x] **Ticket #267 (Player Conduct) filed and resolved (24 Sep 2026):** Mod night fury disqualified charliebrown0002 for gross misconduct and violent threats in DMs; ruling forwarded to battle post #630.
+- [x] **Time negotiation log recorded:** Charlie agreed to 16:00 UTC, later reneged and turned abusive.
 - [x] Draft 6 SENT 24 Sep 6:45 PM IST in battle post #630 (Screenshot `185314.png`).
 - [x] Draft 7 SENT 24 Sep 6:52 PM IST in team channel (Screenshot `185252.png`).
 - [x] Thread availability reply SENT 21 Sep 7:17 PM IST (v2, edited; verbatim in `Week_6_Brief.md` §5).
@@ -16,8 +34,6 @@
 - [x] **Wednesday practice 23 Sep 16:00 UTC `<t:1790179200:F>` — ❌ CANCELLED 23 Sep:** Timezone ping confusion (2:00 AM / 11:30 AM) fixed; cancelled due to Gunshot's family hospital situation and BoWolf's work shifts/calls. Team agreed to skip practice and head straight into Match #630 relying on existing synergy and familiarity.
 - [x] Gunshot: **IN for Week 6** (captain-confirmed 22 Sep). Bowolf: comms answered, availability
   not explicitly confirmed — nudge if needed.
-- [ ] Play Bo3 → screenshot EVERY game (unedited) → post all results in the thread before
-  **Sun 27 Sep 06:00 UTC** `<t:1790488800:F>` (season end; nothing posted = loss for both).
 
 ## Backlog & future tasks
 - [ ] Verify our SP/bracket on the W6 list vs the 22,700 post-removal value (W6 list shows Reg SP
