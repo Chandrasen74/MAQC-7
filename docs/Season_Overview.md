@@ -16,9 +16,22 @@
 | W3 | #668 | @mrjama0586 | 22,364 | Paradise Plaza | Loss 1-2 | Took it to 3 games |
 | W4 | #665 | @mecharenazim / ZiM | 22,200 | Site 313 | Loss 1-2 | Post-match ZiM DM harassment (handled, closed) |
 | W5 | #665 | vs BOT | — | Forbidden City | Win 2-0 | Solo captain 1v1; Stefania-recorded |
-| W6 | #630 | vs BOT (charliebrown0002 DQ) | — | Imperial Temple | Pending | Opponent DQ'd Ticket #267 gross misconduct |
+| W6 | #630 | vs BOT (charliebrown0002 DQ) | — | Imperial Temple | Bo3 CPC | Pending | Opponent DQ'd Ticket #267 gross misconduct |
 
 **Final record (pre-W6):** 1 win, 4 losses.
+
+---
+
+## Roster notes (internal — NOT reported to mods)
+
+**Destroyer / nullaim situation (Weeks 2-5):**
+- Destroyer (ID 67665771) registered in Week 1 only.
+- Weeks 2-5: The account was played by a different player using Destroyer's login.
+- This player is @realnullaim (ID 18426028) — appears in Week 6 Bracket 10 as a separate team at SP 16,640 (match #600).
+- Using a shared account violates Mech Arena ToS, but the captain chose not to report this to mods.
+- Destroyer was formally removed from roster in Ticket #583 (20 Sep).
+
+This note is for internal reference only.
 
 ---
 

@@ -43,10 +43,15 @@ Do **not** record speculation, casual chatter, duplicate facts, secrets, credent
 
 ## File responsibilities
 
+**Repository reorganized 24 Sep 2026:** `docs/` for week summaries, `evidence/` for PDFs/screenshots/exports.
+
 | File | Read/use when | Update when |
 | :--- | :--- | :--- |
 | `plan.md` | Deciding which files and workflow to use. | The repository workflow, file responsibilities, or maintenance rules change. |
 | `README.md` | Finding the current entry points and evidence. | A primary file is added, renamed, superseded, or changes purpose. |
+| `docs/Season_Overview.md` | Need full season context (results, roster changes, precedents). | After a significant match result, mod ruling, or roster change. |
+| `docs/Week_N.md` | Need per-week match summary with evidence links. | After each week's match is completed. |
+| `evidence/` folder | Searching for PDFs, screenshots, exports by date (YYYYMMDD format). | When adding new evidence files (always use consistent naming). |
 | `AGENTS.md` | Before repository work; authoritative repo operating rules. | A stable repo-wide convention or safety rule is confirmed. Avoid session-specific branch names. |
 | `.agent/PLANS.md` | At the start and end of each task-oriented conversation. | A task is added, prioritized, blocked, skipped, or completed. Keep only current focus/backlog plus concise completed history. |
 | `.agent/USER.md` | Before drafting messages or recommending schedules. | The user confirms a durable preference, roster/contact change, timezone constraint, or workflow preference. |
