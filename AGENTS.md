@@ -13,6 +13,7 @@ Use the current Arena session branch specified by the environment/system instruc
 
 ## Conventions
 - Discord drafts: UTC-first, `<t:UNIX:F>` stamps, `||IST||`/`||EDT||` spoilers, casual tone, code blocks. Inside copy-paste payloads, keep `<t:...>` raw—inline backticks stop Discord from rendering it.
+- Clipboard: automatically pipe ready-to-send Discord drafts / copy-paste payloads directly into the user's Windows clipboard (`clip.exe` / Python) so the captain can immediately paste them into Discord.
 - Baby Bird = Google Messages only: plain text, all zones spelled out, no Discord markdown.
 - Match refs always include the week ("Week 5 #665") — numbers repeat across weeks.
 - Follow `plan.md`; briefly plan meaningful work and confirm consequential changes with the user.

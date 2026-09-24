@@ -3,7 +3,7 @@
 - **Name / Handle:** akulmach74 (Discord + MAQC team captain). GitHub: Chandrasen74 (repo owner).
 - **Timezone / Location:** Asia/Calcutta (IST, UTC+5:30) — Gurugram, Haryana, IN.
 - **Skill Level:** Intermediate (organizer; wants ready-to-send drafts, not essays).
-- **Communication Preference:** Concise + copy-paste-first. Casual tone OK. For meaningful work, propose the plan and confirm consequential steps before implementation.
+- **Communication Preference:** Concise + copy-paste-first. Automatically copy ready-to-send Discord payloads/drafts directly to the user's system clipboard (`clip.exe`). Casual tone OK. For meaningful work, propose the plan and confirm consequential steps before implementation.
 
 ## Team context (MAQC S7)
 - Team: akulmach74 · Bracket 10 · roster 3 (see FINAL line below). **Week 6 (FINAL): match Week 6 #630 vs @charliebrown0002 (Reg SP 23,300, 3 players: 43790139, 8122896, 65346371) · Imperial Temple · Bo3 CPC** — battle-post thread live; opponent leader asked for availability Mon 21 Sep 8:35 AM IST; ticket cutoff Fri 25 Sep 06:00 UTC `<t:1790316000:F>`, match deadline (= season end) Sun 27 Sep 06:00 UTC `<t:1790488800:F>`. Scheduling state 23 Sep: offered slots REJECTED (his words: "All of those times are like 11pm for me and 3am for my teammates"); timezone question ANSWERED 23 Sep 5:24 AM IST — Charlie **Alaska (UTC−8)**, teammates **Eastern / Pacific** — but 15:00 UTC = 7 AM him / 11 AM NY under those zones, so his complaint math points to a possible device-region mismatch. **Draft 5 (brief §5, ready 23 Sep, NOT sent)** offers 16:00 UTC Thu/Fri/Sat + device-zone check + comms clarification — **no lock yet**.
