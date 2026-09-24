@@ -208,19 +208,16 @@ Pinged mod here to lock the time before the Friday cutoff. See you Saturday, I'l
 ### Draft 7 — Final Team Strat & Match Briefing (Team Channel) — ⏳ READY TO SEND (24 Sep)
 
 ```
-<@&1533818347068850248> Match time is locked and mod approved it with a 👍.
+<@&1533818347068850248> match is locked for <t:1790438400:F>, mod thumbs-upped it so we're set.
 
-Match time: <t:1790438400:F>
-Map: Imperial Temple (Bo3 CPC, Equalize bots)
+Imperial Temple, Bo3 CPC with equalize bots. Opponent confirmed no voice comms on their end either, so text/in-game callouts for us as planned.
 
-Charlie confirmed their squad isn't using voice comms either, so we're running text/in-game callouts as planned.
+Opening strat:
+BoWolf opens Charge Voidghost — charge up before grabbing mid beacon, pop ability to cap safely, dump shots, phase back out, and keep Voidghost alive to hold mid control.
+Gunshot on Outlaw to flank/crash anyone pushing mid.
+I'll run Eclipse/Void support to help secure it.
 
-Opening plan:
-- BoWolf opens on Charge Voidghost: charge up, shoot one + ability into mid beacon, dump the other shot, ability back out, and keep the Voidghost alive to hold mid.
-- Gunshot on Outlaw to crash anyone pushing into mid.
-- I'll run Eclipse/Void support to help secure and hold.
-
-Hop on a few minutes before <t:1790438400:F> so we can group up. I'll drop the lobby code right here as soon as we create it!
+Be ready a few mins before <t:1790438400:F>, I'll drop the lobby code in here as soon as we make it!
 ```
 
 ### Draft 2 — SINGLE TEAM BRIEF (match + times + lock + hangars + practice + Gladiator ask) — ✅ **SENT 21 Sep** (captain confirmed; sent from the reformatted draft — gladiator numeric ping + Tue/Thu stamp backups included; exact sent wording not screenshot-verified)
