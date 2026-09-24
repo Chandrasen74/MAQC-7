@@ -20,8 +20,11 @@
 > teammates Eastern UTC−4 / Pacific UTC−7) + *"I have your comms if your available"*. ⚠️ Math check:
 > under those zones our rejected 15:00 UTC slots were actually **7 AM him / 11 AM New York** — his
 > "11pm/3am" numbers only fit UTC+8/UTC+12 → possible device-region mismatch (Discord `<t:>` renders
-> follow the device clock). Draft 5 (§5) offers **Sat 26 Sep 16:00 UTC** + asks him to verify his device
-> zone and clarify comms. ✅ **SENT 23 Sep (exact text in §5 Draft 5). Awaiting Charlie's reply / lock.**
+> Draft 5 (§5) offers **Sat 26 Sep 16:00 UTC** + asks him to verify his device
+> zone and clarify comms. ✅ **SENT 23 Sep (exact text in §5 Draft 5).**
+> **Status Thu 24 Sep (7:32 AM IST):** Charlie replied **"Yes"** agreeing to **Sat 26 Sep 16:00 UTC**
+> (`<t:1790438400:F>`) + clarified his team won't use voice comms. **MATCH TIME LOCKED.** Draft 6 (§5)
+> confirms the lock in the battle post.
 > **Status Wed 23 Sep (Team Chat & Practice):** Practice scheduled for 9:30 PM IST / 16:00 UTC was
 > **CANCELLED**. Gunshot was at hospital with family; BoWolf was on late work shifts/calls. Timezone
 > confusion during ping (rendered 2:00 AM / 11:30 AM) was corrected. Team agreed to skip practice for the
@@ -86,13 +89,13 @@ exact time in the thread + we reply **"yes"** to that exact time. No ranges, no 
 - [x] Opponent first contact — Charlie Brown asked for availability 8:35 AM IST Mon 21 Sep
 - [x] **Reply to Charlie Brown with our slots — ✅ SENT 21 Sep 7:17 PM IST** (v2 content, edited; verbatim in §5) → his 22 Sep 2:44 AM reply: those times are ~11 PM for him / 3 AM for teammates → **rejected, no lock yet**
 - [x] Asked Charlie Brown his timezone (guess: UTC+8 him / UTC+12 teammates — unconfirmed) + told him to suggest **EXACT** times (22 Sep 7:03 / 7:12 PM IST, both edited)
-- [ ] **Get Charlie Brown's counter-times → confirm ONE exact time with "yes" — before Fri 25 Sep 06:00 UTC** `<t:1790316000:F>`
-- [x] **Comms — ✅ RESOLVED 23 Sep (captain's call): NO voice comms for W6, in-game text callouts.** Ask was SENT 21 Sep 7:34 PM IST (Draft 4, §5) → BoWolf 8:02 PM: OK without comms, mobile-only · Gunshot never answered (moot) · Gladiator never answered. Captain closed it — don't re-ask.
-- [ ] **Lock the time with a mutual "yes" once Charlie Brown picks** — before Fri 25 Sep 06:00 UTC
+- [x] **Get Charlie Brown's counter-times → confirm ONE exact time with "yes" — before Fri 25 Sep 06:00 UTC** `<t:1790316000:F>` (Charlie replied "Yes" to Sat 26 Sep 16:00 UTC on 24 Sep 7:32 AM IST)
+- [x] **Comms — ✅ RESOLVED 23 Sep (captain's call): NO voice comms for W6, in-game text callouts.** Ask was SENT 21 Sep 7:34 PM IST (Draft 4, §5) → BoWolf 8:02 PM: OK without comms, mobile-only · Gunshot never answered (moot) · Gladiator never answered. Captain closed it — don't re-ask. (Charlie Brown also confirmed 24 Sep his team won't do comms).
+- [x] **Lock the time with a mutual "yes" once Charlie Brown picks** — ✅ **LOCKED for Sat 26 Sep 16:00 UTC** `<t:1790438400:F>` (Draft 6 ready)
 - [x] **Send the SINGLE team brief (Draft 2)** — ✅ SENT 21 Sep (captain confirmed, hangars + Gladiator ping included)
 - [x] **Gladiator's Imperial Temple plan — ✅ RECEIVED 22 Sep 12:30 AM IST** (charge-voidghost opener, verbatim in §7)
 - [x] **BoWolf: "can you run charge voidghost? practiced them?" — ✅ ANSWERED 23 Sep:** BoWolf noted he doesn't have maxed Charge 12s or 16+8 setup, but agreed to buy/upgrade Charge 12s for Voidghost (Gladiator opener resolved).
-- [ ] Lock ONE time with mutual yes **before Fri 25 Sep 06:00 UTC** `<t:1790316000:F>`
+- [x] Lock ONE time with mutual yes **before Fri 25 Sep 06:00 UTC** `<t:1790316000:F>` (Done: Sat 26 Sep 16:00 UTC locked)
 - [x] **Wednesday practice 23 Sep, 16:00 UTC `<t:1790179200:F>` — ❌ CANCELLED 23 Sep:** Pinged for 9:30 PM IST (timezone confusion 2:00 AM / 11:30 AM corrected). BoWolf busy with work calls/late shifts; Gunshot at hospital with family. Team agreed to skip practice for the week and head straight into the match relying on established synergy and familiarity.
 - [ ] Play Bo3 → screenshot **every game, unedited**, post all results in the thread (2-0 → 2 pics; 2-1 → 3)
 - [ ] Pre-launch check: map = Imperial Temple every game, lobby bot option = Equalize
@@ -149,6 +152,8 @@ one heads-up: we can't lock a window or a range - it has to be **one fixed time*
 | Tue 22 Sep 7:03 PM | Akulmach74 | "@Charlie Brown May I know your timezone? So we can adjust? I'm guessing UTC+8 along the lines of singapore, china and phillipines and you're teamates being at UTC+12 along the lines of new zealand?" (edited) |
 | Tue 22 Sep 7:12 PM | Akulmach74 | "@Charlie Brown suggest some **EXACT** times on which you're available too" (edited) |
 | Wed 23 Sep 5:24 AM | Charlie Brown | "I'm un alaska and they are new York. so eastern and pacific time zone" + "I have your comms if your available" |
+| Wed 23 Sep 5:15 PM | Akulmach74 | availability reply (Draft 5 re-based to 16:00 UTC, timezone math check & comms question) |
+| Thu 24 Sep 7:32 AM | Charlie Brown | "Yes I'm on bulba server oppoent said this  ping mod confirming that is time confirmed, ping oppoent for the same thing, anddo clarify we have comms on discord server of official bulba, but as said we wont do comms (our team) dont know about other bulba teaams but u can use our comms also also a potential risk of losing due to communication too but thats our team part..well directly paste into my clipboard as we've tested..this is maqc 7 btw" |
 
 Note update (Wed 23 Sep): the UTC+8 / UTC+12 guess matched Charlie's complaint numbers exactly but is
 **DISPROVEN by his own answer** — he says Alaska (UTC−8) / New York Eastern (UTC−4) / Pacific (UTC−7).
@@ -183,6 +188,20 @@ Fri `<t:1790352000:F>` · Sat `<t:1790438400:F>`. Internal fallback if 8 AM AK r
 9:00 AM AK / 1:00 PM EDT / 10:30 PM IST (Thu `<t:1790269200:F>` · Fri `<t:1790355600:F>` ·
 Sat `<t:1790442000:F>`) — still inside the 11:30 PM IST stop. Do NOT re-offer the old 15:00 UTC slots
 until the zone/device check is resolved.*
+
+### Draft 6 — Mutual Lock Confirmation (Battle Post #630) — ⏳ READY TO SEND (24 Sep)
+
+```
+<@1167844206090387559> Yes, locked in! 🤝
+
+Week 6 #630:
+• sat 26 sep, 16:00 UTC <t:1790438400:F> ||IST: 9:30 PM|| ||Alaska: 8:00 AM|| ||Eastern: 12:00 PM|| ||Pacific: 9:00 AM||
+• Map: Imperial Temple · Mode: Bo3 CPC · Lobby: Equalize
+
+And all good on comms — our team won't be using voice comms either (just in-game/text callouts), so we're completely on the same page.
+
+See you Saturday! I'll drop the custom match code here right at match time 🚀
+```
 
 ### Draft 2 — SINGLE TEAM BRIEF (match + times + lock + hangars + practice + Gladiator ask) — ✅ **SENT 21 Sep** (captain confirmed; sent from the reformatted draft — gladiator numeric ping + Tue/Thu stamp backups included; exact sent wording not screenshot-verified)
 
