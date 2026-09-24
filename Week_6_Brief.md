@@ -1,7 +1,15 @@
 # Week 6 Brief — Team akulmach74 (FINAL WEEK · Match Week 6 #630 · Imperial Temple)
 
 **Created:** Mon 21 Sep 2026 (Week 6 Day 1) · **Season:** MAQC S7, Week 6 of 6 — the last one
-**Captain:** akulmach74 | **Roster (3):** Akulmach74 (IST) · Gunshot (IST) · Bowolf (EDT) — Equalize bots fill
+**Captain:** akulmach74 (Discord: akulmach74, ID: 64516590, SP: 17,624/18,000, IST, Evening)
+**Roster (3):**
+- Akulmach74 (IST, Evening) — SP 17,624 / Max 18,000
+- Gunshot (Discord: gunshot9099, ID: 56671448, IST, Late Night) — SP 21,597 / Max 22,747
+- Bowolf (Discord: BoWolf, ID: 77849365, EDT, Morning/Late Night) — SP 18,840 / Max 19,181
+
+**Removed (20 Sep 2026, Ticket #583):**
+- Destroyer (Discord: DΣ2TRØYΣR, ID: 67665771, IST, Evening/Late Night) — SP 15,329 / Max 15,825
+- Baby Bird (Discord: slimpickles., ID: 26410318, EDT, Evening) — SP 19,870 / Max 22,550
 **Opponent:** @charliebrown0002 ("Charlie Brown") — **DISQUALIFIED (Thu 24 Sep, Ticket #267)**
 **Match Format:** Week 6 **#630** · **Imperial Temple** · Bo3 CPC · lobby **Equalize** · **vs BOT (Official Mod Ruling)**
 **Our listed Reg SP:** 23,000 — confirmed on W6 MM list and MAQC website.

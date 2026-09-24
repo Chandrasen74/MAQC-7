@@ -37,13 +37,13 @@ This note is for internal reference only.
 
 ## Roster history
 
-| Player | Status | Period | In-game ID | Timezone |
-| :--- | :--- | :--- | :--- | :--- |
-| Akulmach74 | Active (Captain) | Full season | 64516590 | IST |
-| Gunshot | Active | Full season | 56671448 | IST |
-| BoWolf | Active | Full season | 77849365 | EDT |
-| Destroyer | Removed 20 Sep 2026 | W1-W5 | 67665771 | IST |
-| Baby Bird | Removed 20 Sep 2026 | W1-W5 | 26410318 | EDT |
+|| Player | Discord | Status | Period | In-game ID | Max SP | Cur SP | Timezone | Availability |
+|| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+|| Akulmach74 | akulmach74 | Active (Captain) | Full season | 64516590 | 18,000 | 17,624 | IST | Evening |
+|| Gunshot | gunshot9099 | Active | Full season | 56671448 | 22,747 | 21,597 | IST | Late Night |
+|| BoWolf | BoWolf | Active | Full season | 77849365 | 19,181 | 18,840 | EDT | Morning, Late Night |
+|| Destroyer | DΣ2TRØYΣR | Removed 20 Sep 2026 | W1-W5 | 67665771 | 15,825 | 15,329 | IST | Evening, Late Night |
+|| Baby Bird | slimpickles. | Removed 20 Sep 2026 | W1-W5 | 26410318 | 22,550 | 19,870 | EDT | Evening |
 
 Removal executed by mod night fury via Ticket #583 (20 Sep 2026, 10:49 PM IST).
 Team SP after removal: 22,700 (corrected from erroneous 20,723).
