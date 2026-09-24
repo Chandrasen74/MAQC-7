@@ -1,8 +1,9 @@
 # ACTIVE PLAN — MAQC S7 Week 6 (FINAL WEEK)
 
 ## Current focus (Week 6 — Day 4, Thu 24 Sep)
-- [x] **Time locked: Saturday 26 Sep 16:00 UTC `<t:1790438400:F>`** (Charlie replied "Yes" on 24 Sep 7:32 AM IST; Draft 6 ready to confirm in thread).
-- [ ] **Send Draft 6 (brief §5) in battle post #630** to seal mutual written confirmation before Fri 25 Sep 06:00 UTC `<t:1790316000:F>`.
+- [x] **Time locked: Saturday 26 Sep 16:00 UTC `<t:1790438400:F>`** (Charlie agreed + mod night fury reacted 👍).
+- [x] Draft 6 SENT in battle post #630.
+- [ ] **Send Draft 7 in team channel** (strat & match time brief).
 - [x] Thread availability reply SENT 21 Sep 7:17 PM IST (v2, edited; verbatim in `Week_6_Brief.md` §5).
 - [x] SINGLE team brief SENT 21 Sep — as-sent comp ask (edited): voidghost / eclipse / Outlaw;
   hangar scout screenshots attached.

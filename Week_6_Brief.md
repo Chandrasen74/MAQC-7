@@ -23,8 +23,8 @@
 > Draft 5 (§5) offers **Sat 26 Sep 16:00 UTC** + asks him to verify his device
 > zone and clarify comms. ✅ **SENT 23 Sep (exact text in §5 Draft 5).**
 > **Status Thu 24 Sep (7:32 AM IST):** Charlie replied **"Yes"** agreeing to **Sat 26 Sep 16:00 UTC**
-> (`<t:1790438400:F>`) + clarified his team won't use voice comms. **MATCH TIME LOCKED.** Draft 6 (§5)
-> confirms the lock in the battle post.
+> (`<t:1790438400:F>`) + clarified his team won't use voice comms. Draft 6 sent, **mod reacted 👍 confirming the lock.**
+> **MATCH TIME LOCKED.** Draft 7 (§5) briefs team on strat & schedule.
 > **Status Wed 23 Sep (Team Chat & Practice):** Practice scheduled for 9:30 PM IST / 16:00 UTC was
 > **CANCELLED**. Gunshot was at hospital with family; BoWolf was on late work shifts/calls. Timezone
 > confusion during ping (rendered 2:00 AM / 11:30 AM) was corrected. Team agreed to skip practice for the
@@ -189,7 +189,7 @@ Fri `<t:1790352000:F>` · Sat `<t:1790438400:F>`. Internal fallback if 8 AM AK r
 Sat `<t:1790442000:F>`) — still inside the 11:30 PM IST stop. Do NOT re-offer the old 15:00 UTC slots
 until the zone/device check is resolved.*
 
-### Draft 6 — Mutual Lock Confirmation (Battle Post #630) — ⏳ READY TO SEND (24 Sep)
+### Draft 6 — Mutual Lock Confirmation (Battle Post #630) — ✅ **SENT 24 Sep (Mod reacted 👍)**
 
 ```
 <@1167844206090387559> <@934544234000830525>
@@ -203,6 +203,24 @@ Week 6 #630 time confirmed:
 All good on comms, we're running no-voice too so we're on the same page.
 
 Pinged mod here to lock the time before the Friday cutoff. See you Saturday, I'll drop the match code in the thread right when we start!
+```
+
+### Draft 7 — Final Team Strat & Match Briefing (Team Channel) — ⏳ READY TO SEND (24 Sep)
+
+```
+<@&1533818347068850248> Match time is locked and mod approved it with a 👍.
+
+Match time: <t:1790438400:F>
+Map: Imperial Temple (Bo3 CPC, Equalize bots)
+
+Charlie confirmed their squad isn't using voice comms either, so we're running text/in-game callouts as planned.
+
+Opening plan:
+- BoWolf opens on Charge Voidghost: charge up, shoot one + ability into mid beacon, dump the other shot, ability back out, and keep the Voidghost alive to hold mid.
+- Gunshot on Outlaw to crash anyone pushing into mid.
+- I'll run Eclipse/Void support to help secure and hold.
+
+Hop on a few minutes before <t:1790438400:F> so we can group up. I'll drop the lobby code right here as soon as we create it!
 ```
 
 ### Draft 2 — SINGLE TEAM BRIEF (match + times + lock + hangars + practice + Gladiator ask) — ✅ **SENT 21 Sep** (captain confirmed; sent from the reformatted draft — gladiator numeric ping + Tue/Thu stamp backups included; exact sent wording not screenshot-verified)
