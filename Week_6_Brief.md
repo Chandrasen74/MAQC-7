@@ -194,15 +194,15 @@ until the zone/device check is resolved.*
 ```
 <@1167844206090387559> <@934544234000830525>
 
-Locked in! 🤝
+Locked in 🤝
 
 Week 6 #630 time confirmed:
-• Sat 26 Sep, 16:00 UTC <t:1790438400:F> ||IST 9:30 PM|| ||Alaska 8:00 AM|| ||Eastern 12:00 PM|| ||Pacific 9:00 AM||
+• <t:1790438400:F> (16:00 UTC) ||IST 9:30 PM|| ||Alaska 8:00 AM|| ||Eastern 12:00 PM|| ||Pacific 9:00 AM||
 • Imperial Temple · Bo3 CPC · Equalize
 
-All good on the comms part too — neither side is using voice comms so we're completely on the same page.
+All good on comms, we're running no-voice too so we're on the same page.
 
-Tagging mod as witness for the official time lock before Friday cutoff. See you Saturday, I'll drop the custom lobby code here at match time!
+Pinged mod here to lock the time before the Friday cutoff. See you Saturday, I'll drop the match code in the thread right when we start!
 ```
 
 ### Draft 2 — SINGLE TEAM BRIEF (match + times + lock + hangars + practice + Gladiator ask) — ✅ **SENT 21 Sep** (captain confirmed; sent from the reformatted draft — gladiator numeric ping + Tue/Thu stamp backups included; exact sent wording not screenshot-verified)
