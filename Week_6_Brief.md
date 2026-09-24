@@ -192,15 +192,17 @@ until the zone/device check is resolved.*
 ### Draft 6 — Mutual Lock Confirmation (Battle Post #630) — ⏳ READY TO SEND (24 Sep)
 
 ```
-<@1167844206090387559> Yes, locked in! 🤝
+<@1167844206090387559> <@934544234000830525>
 
-Week 6 #630:
-• sat 26 sep, 16:00 UTC <t:1790438400:F> ||IST: 9:30 PM|| ||Alaska: 8:00 AM|| ||Eastern: 12:00 PM|| ||Pacific: 9:00 AM||
-• Map: Imperial Temple · Mode: Bo3 CPC · Lobby: Equalize
+Locked in! 🤝
 
-And all good on comms — our team won't be using voice comms either (just in-game/text callouts), so we're completely on the same page.
+Week 6 #630 time confirmed:
+• Sat 26 Sep, 16:00 UTC <t:1790438400:F> ||IST 9:30 PM|| ||Alaska 8:00 AM|| ||Eastern 12:00 PM|| ||Pacific 9:00 AM||
+• Imperial Temple · Bo3 CPC · Equalize
 
-See you Saturday! I'll drop the custom match code here right at match time 🚀
+All good on the comms part too — neither side is using voice comms so we're completely on the same page.
+
+Tagging mod as witness for the official time lock before Friday cutoff. See you Saturday, I'll drop the custom lobby code here at match time!
 ```
 
 ### Draft 2 — SINGLE TEAM BRIEF (match + times + lock + hangars + practice + Gladiator ask) — ✅ **SENT 21 Sep** (captain confirmed; sent from the reformatted draft — gladiator numeric ping + Tue/Thu stamp backups included; exact sent wording not screenshot-verified)
