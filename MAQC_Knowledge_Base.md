@@ -587,6 +587,16 @@ A: The official documentation does not specify this. Ping a MAQC Moderator for c
 
 ---
 
+**Q: How do player numbers affect rewards?**
+A: Reducing the number of players does not affect the general calculation of the rewards.
+
+**Q: Do all participating IDs get rewards?**
+A: No. Only IDs that made it to the final week get rewards.
+
+**Q: Does solo play or 1v1 with a bot work?**
+A: Yes. Solo or 1v1 with the bot works.
+
+
 ## AI Usage Instructions
 
 This knowledge base is intended to be attached to future AI conversations.
