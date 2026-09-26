@@ -45,9 +45,9 @@ Announcement rules: lobby bots on **Equalize** — check twice, launch once. All
 | W3 | #668 | @mrjama0586 (22,364) | Paradise Plaza · Bo3 CPC | ❌ LOSS 1-2 | Took it to 3 games. |
 | W4 | #665 | @mecharenazim / ZiM (22,200) | Site 313 · Bo3 | ❌ LOSS 1-2 | Played Sat 12 Sep 4:00 PM UTC. |
 | W5 | #665 | vs BOT | Forbidden City · Bo3 CPC | ✅ WIN 2-0 | Solo 1v1 15 Sep; Stefania-recorded. |
-| **W6** | **#630** | **vs BOT (charliebrown0002 DQ)** | **Imperial Temple · Bo3 CPC** | ⏳ pending | Opponent DQ'd for gross misconduct (Ticket #267). Bot match on Equalize. |
+|| **W6** | **#630** | **vs BOT (charliebrown0002 DQ)** | **Imperial Temple · Bo3 CPC** | ✅ WIN 2-0 | Bot match on Equalize. Played Sat 26 Sep 9:30 PM IST. ||
 
-**Current Record: 1–4.** (W6 pending bot match completion).
+**Current Record: 2–4.** Season complete.
 
 ---
 
@@ -67,12 +67,12 @@ Announcement rules: lobby bots on **Equalize** — check twice, launch once. All
 - [x] **Ticket #267 Opened & Resolved (24 Sep 2026):** Reported charliebrown0002 for harassment/threats in DMs and battle post.
 - [x] **Mod Ruling Received:** Mod night fury disqualified Charlie Brown's team from Season 7; ordered Team akulmach74 to play bot match with Equalize.
 - [x] **Ruling Forwarded to Battle Post #630** by mod night fury.
-- [ ] **Run Bo3 Match vs Bots on Imperial Temple** (Scheduled for Sat 26 Sep, 9:30 PM IST):
+- [x] **Run Bo3 Match vs Bots on Imperial Temple** (Scheduled for Sat 26 Sep, 9:30 PM IST):
   - Lobby bot setting: **Equalize**
   - Gamemode / Map: CPC on **Imperial Temple**
   - Minimum 1 human pilot needed (team can run together or solo).
-- [ ] Take unedited screenshots of every game result (2-0 = 2 screenshots).
-- [ ] Post all result screenshots in battle post thread #630 before **Sun 27 Sep 06:00 UTC** `<t:1790488800:F>`.
+- [x] Take unedited screenshots of every game result (2-0 = 2 screenshots).
+- [x] Post all result screenshots in battle post thread #630 before **Sun 27 Sep 06:00 UTC** `<t:1790488800:F>`.
 
 ---
 
