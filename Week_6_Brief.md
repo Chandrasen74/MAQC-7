@@ -67,7 +67,7 @@ Announcement rules: lobby bots on **Equalize** — check twice, launch once. All
 - [x] **Ticket #267 Opened & Resolved (24 Sep 2026):** Reported charliebrown0002 for harassment/threats in DMs and battle post.
 - [x] **Mod Ruling Received:** Mod night fury disqualified Charlie Brown's team from Season 7; ordered Team akulmach74 to play bot match with Equalize.
 - [x] **Ruling Forwarded to Battle Post #630** by mod night fury.
-- [ ] **Run Bo3 Match vs Bots on Imperial Temple:**
+- [ ] **Run Bo3 Match vs Bots on Imperial Temple** (Scheduled for Sat 26 Sep, 9:30 PM IST):
   - Lobby bot setting: **Equalize**
   - Gamemode / Map: CPC on **Imperial Temple**
   - Minimum 1 human pilot needed (team can run together or solo).
