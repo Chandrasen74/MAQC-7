@@ -1,12 +1,37 @@
-# MAQC 7
+# MAQC-7
+
+**Repository:** https://github.com/Chandrasen74/MAQC-7
+
+![Screenshot of MAQC-7](screenshot.png)
 
 ## Overview
-**MAQC-7** is a HTML project in this repository.
+`MAQC-7` is a HTML project.
+- **Primary language:** HTML
+- **Languages detected:** HTML
+- **Stack/tech:** HTML
 
-- Primary language: **HTML**
-- Detected stack: HTML
+## Language & stack details
+- Languages: HTML
+- Frameworks/tools/libraries: HTML
 
-## Repository contents
+## How to install & run
+### Prerequisites
+- A modern web browser
+- (Optional) [Python 3](https://www.python.org/) or any static file server for local serving
+
+### Run locally
+```bash
+git clone https://github.com/Chandrasen74/MAQC-7.git
+cd MAQC-7
+```
+- **Option 1:** open `index.html` directly in your browser
+- **Option 2:** serve locally (recommended for some JS features):
+```bash
+python -m http.server 8000
+# then open http://localhost:8000
+```
+
+## Repository structure (top-level/sample)
 - `.agent/MEMORY.md`
 - `.agent/PLANS.md`
 - `.agent/SOUL.md`
@@ -37,15 +62,17 @@
 - `evidence/MAQC_S7_Week2_Matchmaking.pdf`
 - `evidence/MAQC_S7_Week3_Matchmaking.pdf`
 - `evidence/MAQC_S7_Week4_Matchmaking.pdf`
-- ... and 17 more
-
-## Getting started
-```bash
-git clone https://github.com/Chandrasen74/MAQC-7.git
-cd MAQC-7
-# open index.html in a browser, or serve locally:
-python -m http.server 8000
-```
+- `evidence/MAQC_S7_Week5_Matchmaking.pdf`
+- `evidence/MAQC_S7_Week6_Matchmaking.pdf`
+- `evidence/MAQC_Session_Handoff_Update_STALE.md`
+- `evidence/Screenshot_20260829_125550_Discord.jpg`
+- `evidence/Screenshot_20260829_151028_Discord.jpg`
+- `evidence/Screenshot_20260829_213012.png`
+- `evidence/Screenshot_20260829_213403.png`
+- `evidence/Screenshot_20260829_213505.png`
+- `evidence/Screenshot_20260830_102725_Discord.jpg`
+- `evidence/Screenshot_20260910_074204_Discord.jpg`
+- ... and 8 more file(s)
 
 ## Status
-README generated/updated as part of a profile-wide documentation pass based on repository contents.
+Documented with screenshot, language/stack details, and setup instructions as part of a profile-wide README update.
