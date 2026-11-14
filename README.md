@@ -38,3 +38,10 @@ Then browse the .md files directly (on GitHub or locally in your editor).
 
 ## Status
 README updated to accurately reflect this repository as a documentation/notes collection (not a runnable web app).
+
+## License
+
+Copyright (c) 2026 Chandrasen. All rights reserved.
+
+This repository is proprietary. No permission is granted to use, copy, modify, or distribute this code without prior written permission.
+See [LICENSE](LICENSE).
